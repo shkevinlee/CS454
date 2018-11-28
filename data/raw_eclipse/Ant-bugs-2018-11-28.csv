@@ -1,0 +1,290 @@
+"Bug ID","Product","Component","Assignee","Status","Resolution","Summary","Changed","Depends on","Number of Comments","Opened","Priority","OS","Hardware","Votes"
+541636,"Platform","Ant","platform-ant-inbox","NEW"," ---","Program%20Files ... tools.jar which is referenced by the classpath, does not exist","2018-11-28 08:29:57",,1,"2018-11-28 08:29:57","P3","Windows 7","PC",0
+541119,"Platform","Ant","platform-ant-inbox","NEW"," ---","SecurityManager#getInCheck removal in JDK 10","2018-11-14 00:14:29",,5,"2018-11-13 21:16:01","P3","All","All",0
+421933,"Platform","Ant","platform-ant-inbox","NEW"," ---","Assertion Error: Program did not suspend, and unable to terminate launch.","2018-11-13 22:15:51",,9,"2013-11-18 03:10:28","P3","Linux","PC",0
+412809,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Add support for the include task (was: Ant include tag shows errors for files outside of Eclipse project)","2018-09-28 07:03:48",,6,"2013-07-11 18:05:48","P3","Windows 7","PC",3
+537909,"Platform","Ant","platform-ant-inbox","NEW"," ---","ant build fails while using external jdk","2018-09-08 09:47:20",,4,"2018-08-13 16:58:43","P3","Windows 10","PC",0
+535570,"Platform","Ant","platform-ant-inbox","NEW"," ---","Unable to open any build.xml when another SecurityManager is present","2018-08-30 11:01:06",,14,"2018-06-05 19:03:53","P3","All","All",0
+511279,"Platform","Ant","sarika.sinha","ASSIGNED"," ---","ant build file behaves differently in eclipse than in an external ant run","2018-08-28 02:44:25",,19,"2017-01-29 22:54:23","P3","Linux","PC",0
+352131,"Platform","Ant","platform-ant-inbox","NEW"," ---","[patch] Ant builder not called after a clean","2018-08-01 08:49:38",306746,20,"2011-07-14 12:24:53","P3","Linux","PC",7
+519798,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Tests] testStepBackFromAntCall failed","2018-06-01 02:11:11",,10,"2017-07-18 02:05:39","P3","Windows 7","PC",0
+533347,"Platform","Ant","platform-ant-inbox","NEW"," ---","Regression: Ant <javac> classpath entries outside project directory are ignored","2018-04-09 03:24:26",,3,"2018-04-08 00:47:03","P3","Linux","PC",0
+529010,"Platform","Ant","platform-ant-inbox","NEW"," ---","Error launching an Ant","2018-01-23 03:50:23",,4,"2017-12-20 07:39:43","P3","Windows 10","PC",0
+529045,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add current ant target name on the toolbar hint","2017-12-21 00:05:47",,7,"2017-12-20 20:28:47","P3","Windows 10","PC",0
+130545,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Permgen memory leak on ant run","2017-12-05 03:55:31",,52,"2006-03-06 09:27:19","P2","Windows XP","PC",2
+528126,"Platform","Ant","platform-ant-inbox","NEW"," ---","[9] Ant build Launch Configurations support for module path","2017-12-05 00:47:44",,1,"2017-12-05 00:47:44","P3","Windows 7","PC",0
+527038,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Ant shows misleading message for errors","2017-11-09 23:09:41",,5,"2017-11-09 04:55:33","P3","Linux","PC",0
+521174,"Platform","Ant","platform-ant-inbox","NEW"," ---","testSystemProperties  failed","2017-10-05 23:32:29",,2,"2017-08-21 05:23:00","P3","Linux","PC",0
+517227,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Tests] testVerboseStackTrace fails as Console is not closed","2017-08-07 05:33:14",,2,"2017-05-25 00:25:04","P3","Mac OS X","PC",0
+476215,"Platform","Ant","sarika.sinha","ASSIGNED"," ---","Ant run swallows exception","2017-05-18 02:38:12",,4,"2015-08-31 06:58:37","P3","All","All",0
+513532,"Platform","Ant","platform-ant-inbox","NEW"," ---","External tool ant builder starts although no targets are configured.","2017-03-16 20:45:08",,3,"2017-03-12 13:37:27","P3","Windows 10","PC",0
+513536,"Platform","Ant","platform-ant-inbox","NEW"," ---","Typo in SET_INPUTHANDLER Attribute","2017-03-13 01:17:49",,2,"2017-03-13 00:47:53","P3","All","All",0
+509461,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant builder should create problem marker when javac/ecj build fails","2016-12-19 11:25:58",133184,4,"2016-12-19 10:57:30","P3","All","All",0
+463714,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant builder should create problem marker when build fails with error (and not write to log)","2016-12-19 11:23:49",,3,"2015-04-01 13:42:56","P3","All","All",0
+443554,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Tests] Launch did not terminate","2016-10-06 05:05:06",,2,"2014-09-09 01:01:53","P3","Windows 7","PC",0
+262685,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Running as antRunner allows you to modify a workspace that is already locked","2016-09-19 13:30:30",,7,"2009-01-27 17:20:25","P3","All","All",0
+152793,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ClassCastException with Antlib and changing Ant home","2016-09-15 06:07:56",,13,"2006-08-03 16:36:52","P3","Windows XP","PC",6
+215516,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ant should not build entire workspace","2016-07-01 05:25:04",,5,"2008-01-16 11:48:08","P3","Linux","PC",0
+476266,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Improving Bug 475839 - NullPointerException opening Ant file with URL-based import in 4.6","2016-05-05 06:01:32",475839,1,"2015-08-31 23:58:20","P3","Windows 7","PC",0
+143416,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","AntSecurityException whilst trying to edit a build file","2016-04-07 04:26:06",,70,"2006-05-24 04:52:37","P3","Windows XP","PC",35
+307693,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant not getting environment on MacOSX when running within Eclipse","2016-03-31 13:03:30",,3,"2010-03-31 06:39:16","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+256153,"Platform","Ant","platform-ant-inbox","NEW"," ---","Need API for disabled project builders","2016-02-09 11:13:29",,2,"2008-11-21 13:12:19","P3","Windows Vista","PC",0
+421950,"Platform","Ant","platform-ant-inbox","NEW"," ---","Issue related to concurrent Ant builds: org.eclipse.core.runtime.CoreException","2016-01-18 00:53:58",,4,"2013-11-18 05:46:21","P3","Linux","PC",0
+385799,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant editor inserts tab character instead of spaces","2015-12-07 18:00:37",,2,"2012-07-23 18:27:22","P3","All","All",1
+98412,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[launching] JARs from ${user.home}/.ant/lib not added to Ant classpath","2015-12-04 17:34:08",,17,"2005-06-04 07:23:52","P3","All","All",0
+482931,"Platform","Ant","platform-ant-inbox","NEW"," ---","fasfsdfsdf","2015-11-24 11:57:27",,1,"2015-11-24 11:57:27","P3","Windows 7","PC",0
+482916,"Platform","Ant","platform-ant-inbox","NEW"," ---","aaaa","2015-11-24 10:10:32",,1,"2015-11-24 10:10:32","P3","Windows 7","PC",0
+482216,"Platform","Ant","platform-ant-inbox","NEW"," ---",12,"2015-11-15 09:26:46",,1,"2015-11-15 09:26:46","P3","Windows 7","PC",0
+478284,"Platform","Ant","platform-ant-inbox","NEW"," ---","NPE when opening Ant Editor","2015-09-24 08:05:41",,4,"2015-09-24 05:35:03","P3","Mac OS X","PC",0
+476216,"Platform","Ant","platform-ant-inbox","NEW"," ---","Imported targets shown as imported from 'null' in External Tools Configurations dialog","2015-08-31 07:15:29",,1,"2015-08-31 07:06:48","P3","All","All",0
+468354,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","No diagnosis of alternate JRE","2015-05-29 02:30:31",,2,"2015-05-26 12:50:06","P3","Windows NT","PC",0
+418778,"Platform","Ant","platform-ant-inbox","NEW"," ---","testDeferredBreakpointsSepVM failed","2015-05-25 01:09:16",,8,"2013-10-06 23:52:10","P3","Windows 7","PC",0
+465676,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ANT editor: no shortcuts for comments","2015-04-28 09:06:50",,1,"2015-04-28 08:01:24","P3","Linux","PC",0
+249969,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant View Encoding Bug","2015-04-22 03:03:04",,2,"2008-10-07 11:09:14","P3","Windows XP","PC",0
+330741,"Platform","Ant","platform-ant-inbox","NEW"," ---","Wrong Behavior for ""Run Last Launched External Tool"" Key Binding","2014-10-20 09:01:50",,3,"2010-11-20 11:59:29","P3","Linux","PC",1
+447230,"Platform","Ant","platform-ant-inbox","NEW"," ---","SteppingTests.testStepIntoMacrodefSepVM failed","2014-10-15 03:51:45",,2,"2014-10-15 03:50:48","P3","Linux-GTK","PC",0
+446779,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant task input causing NoClassDefFoundError (org/eclipse/swt/widgets/Layout)","2014-10-13 03:28:04",,3,"2014-10-12 15:36:46","P3","Windows 7","PC",0
+366711,"Platform","Ant","pradeepb","ASSIGNED"," ---","Perform some sanity checks when looking up Ant Home","2014-08-29 10:30:20",,3,"2011-12-14 10:30:16","P3","Windows 7","PC",0
+442024,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Tests] 105 tests fail with NoClassDefFoundError on Linux","2014-08-19 05:36:16",,1,"2014-08-19 05:36:16","P3","Windows 7","PC",0
+441749,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Tests] testLinks - No hyperlink found at offset 171","2014-08-14 01:17:18",,1,"2014-08-14 01:17:18","P3","Windows 7","PC",0
+439378,"Platform","Ant","platform-ant-inbox","NEW"," ---","Allow User-defined Project Path Variable to be used for External Tools","2014-07-14 01:59:47",,1,"2014-07-10 15:54:21","P3","Unix All","Other",0
+437443,"Platform","Ant","platform-ant-inbox","NEW"," ---","Deadlock involving AntConsoleColorProvider","2014-06-14 09:08:29",,1,"2014-06-14 09:08:29","P3","Linux","PC",0
+435176,"Platform","Ant","platform-ant-inbox","NEW"," ---","async task","2014-05-19 07:14:57",,5,"2014-05-19 05:37:25","P3","Windows 8","PC",0
+434614,"Platform","Ant","sarika.sinha","ASSIGNED"," ---","Eclipse Juno Frequently hanging","2014-05-13 07:15:54",,4,"2014-05-12 03:10:19","P3","Windows 7","PC",0
+433613,"Platform","Ant","platform-ant-inbox","NEW"," ---","IAE while opening editor","2014-04-28 00:31:31",,1,"2014-04-28 00:31:31","P3","Mac OS X","PC",0
+330502,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant can't read ""antlib.xml"" from JAR added to Ant's runtime, if the JAR is updated while the workspace is running","2014-04-21 07:23:01",,1,"2010-11-17 13:56:57","P3","Windows XP","PC",0
+369838,"Platform","Ant","platform-ant-inbox","NEW"," ---","Remove use of deprecated code in Ant bundles","2014-04-01 02:09:47",,1,"2012-01-26 12:04:39","P5","Windows 7","PC",0
+184141,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Need an option to keep project settings with external ant build script","2014-03-31 18:03:26",,6,"2007-04-25 19:54:41","P3","All","All",0
+211669,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Allow adding User Libraries and Classpath Variables in an Ant Runtime Configuration's classpath","2014-02-25 07:08:13",,6,"2007-12-01 06:09:46","P3","All","All",1
+272787,"Platform","Ant","platform-ant-inbox","NEW"," ---","External Builders not independant of project name","2014-02-16 11:00:10",,3,"2009-04-18 04:15:54","P3","Linux","PC",1
+281837,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Input task causing null pointer exception","2014-01-06 23:39:07",,5,"2009-06-29 06:46:38","P3","Mac OS X","Macintosh",1
+424716,"Platform","Ant","platform-ant-inbox","NEW"," ---","Input task dialog is not centered on screen (Mac OSX)","2014-01-05 11:47:12",,2,"2013-12-28 13:58:37","P3","Mac OS X","Macintosh",0
+199946,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Error after generating Ant Build File","2013-12-17 09:37:13",,9,"2007-08-14 15:47:40","P3","Windows XP","PC",0
+89938,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[refactoring] Some refactorings for Ant buildfiles","2013-12-17 09:25:08",,26,"2005-04-01 07:04:14","P3","Windows XP","PC",2
+130595,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Strings with basic LTR reading order not rendered correctly in RTL locales","2013-12-17 09:15:50",,6,"2006-03-06 13:12:31","P3","Windows All","PC",0
+225514,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[External tools configuration] Field ""Base directory"" not updated when project name was changed","2013-12-17 09:12:57",,5,"2008-04-03 05:51:58","P3","Windows XP","PC",1
+335615,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Debug view does not update properly","2013-12-17 09:12:28",,7,"2011-01-27 15:54:07","P3","Linux","PC",0
+374770,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Unjustified NullPointerException thrown by ProjectHelper.parse()","2013-12-17 09:11:51",,5,"2012-03-20 10:55:45","P3","Linux","PC",1
+421920,"Platform","Ant","platform-ant-inbox","NEW"," ---","Build cancelled: org.eclipse.core.runtime.OperationCanceledException","2013-11-17 18:22:24",,1,"2013-11-17 18:22:24","P3","Linux","PC",0
+419957,"Platform","Ant","platform-ant-inbox","NEW"," ---","Focused Ant editor tab does not display line numbers","2013-10-21 05:08:39",,1,"2013-10-21 05:08:39","P3","Mac OS X","PC",0
+366356,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Exception while trying to launch an Ant build","2013-10-01 10:06:10",,6,"2011-12-12 02:28:46","P3","Windows 7","PC",0
+225236,"Platform","Ant","platform-ant-inbox","NEW"," ---","The Ant View should have working set filters like the Package Explorer","2013-09-30 10:43:50",,2,"2008-04-01 21:19:04","P3","Windows Vista","PC",1
+415121,"Platform","Ant","platform-ant-inbox","NEW"," ---","SeparateVMTests.testPropertySubstitution failed in M-build","2013-09-11 11:42:25",,4,"2013-08-15 03:24:17","P3","Linux-GTK","PC",0
+412568,"Platform","Ant","platform-ant-inbox","NEW"," ---","Autogenerated Ant build script contains invalid relative paths to user libraries","2013-09-11 11:39:44",,5,"2013-07-09 04:23:58","P3","All","All",0
+407848,"Platform","Ant","platform-ant-inbox","NEW"," ---","[DBCS4.3] cannot debug Ant by selecting ""2. Ant Build..."" if a project name contains DBCS characters","2013-09-11 11:38:24",,5,"2013-05-13 03:52:53","P3","Windows 7","PC",0
+406916,"Platform","Ant","platform-ant-inbox","NEW"," ---","Provide a code assist template for extension-point / extending targets","2013-09-11 11:38:09",,1,"2013-04-30 11:20:11","P3","Mac OS X","PC",0
+406840,"Platform","Ant","platform-ant-inbox","NEW"," ---","Mark occurrences does not work for extensionOf","2013-09-11 11:38:00",,1,"2013-04-29 15:56:40","P3","Windows 8","PC",0
+406839,"Platform","Ant","platform-ant-inbox","NEW"," ---","Content assist does not work for target name use","2013-09-11 11:37:51",,3,"2013-04-29 15:51:37","P3","Windows 8","PC",0
+50624,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Refactor InternalAntRunner etc","2013-09-11 11:36:52",,8,"2004-01-26 12:39:44","P3","Windows XP","PC",0
+351937,"Platform","Ant","platform-ant-inbox","NEW"," ---","Running Ant targets fails","2013-08-29 04:36:54",,11,"2011-07-13 05:51:27","P3","Windows XP","PC",1
+99038,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Project clean (with build immediately on) runs into ant concurrency issues.","2013-08-06 14:02:53",,9,"2005-06-08 15:02:25","P3","Windows XP","PC",0
+406123,"Platform","Ant","platform-ant-inbox","NEW"," ---","Xml Formatting inserting new lines in tags, possibly could not read settings","2013-04-23 09:15:52",,1,"2013-04-19 15:18:36","P3","Windows 7","PC",0
+399716,"Platform","Ant","platform-ant-inbox","NEW"," ---","Linked resources not resolved to local file system folder","2013-02-06 10:58:25",,8,"2013-02-01 04:27:06","P3","Windows 7","PC",0
+396246,"Platform","Ant","platform-ant-inbox","NEW"," ---","build.xml ""open with"" suggests ""ant view""","2012-12-11 03:21:15",,1,"2012-12-11 03:21:15","P3","All","PC",0
+395094,"Platform","Ant","platform-ant-inbox","NEW"," ---","Property does not re-resolve when augmented","2012-11-26 12:33:24",,1,"2012-11-26 12:33:24","P3","Windows 7","PC",0
+394429,"Platform","Ant","platform-ant-inbox","NEW"," ---","Eclipse Juno SR1 ""copy project"" corrupts build.xml.launch files","2012-11-15 17:34:50",,1,"2012-11-15 17:34:50","P3","Windows 7","PC",0
+41118,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Action to toggle comment in Ant editor","2012-11-08 06:08:35",,12,"2003-08-04 18:42:39","P3","Windows 2000","PC",2
+392546,"Platform","Ant","platform-ant-inbox","NEW"," ---","Dialog for ""folder_prompt:"" variable shown multiple times","2012-10-24 08:53:05",,3,"2012-10-22 04:28:11","P3","Windows 7","PC",0
+392462,"Platform","Ant","platform-ant-inbox","NEW"," ---","build.xml refers to removed jar. Error building new project.","2012-10-19 16:05:22",,7,"2012-10-19 11:38:19","P3","Windows XP","PC",0
+391378,"Platform","Ant","platform-ant-inbox","NEW"," ---","'Edit' menu contains duplicate mnemonics","2012-10-08 18:35:08",,1,"2012-10-08 18:35:08","P3","Windows 7","PC",0
+302209,"Platform","Ant","platform-ant-inbox","NEW"," ---","Unable to instantiate specified input handler","2012-10-02 07:02:13",,18,"2010-02-08 19:19:18","P3","Windows XP","PC",1
+389731,"Platform","Ant","platform-ant-inbox","NEW"," ---","Double click in Ant view launches instead of opening build file","2012-09-17 10:36:12",,1,"2012-09-17 10:36:12","P3","Windows 7","PC",0
+388791,"Platform","Ant","platform-ant-inbox","NEW"," ---","Empty CVS repository","2012-09-04 16:15:05",,1,"2012-09-04 16:15:05","P3","Windows 7","PC",0
+387828,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant <input> task doesn't use a combobox when validargs are specified","2012-08-22 15:37:47",,3,"2012-08-22 15:14:20","P3","Windows 7","PC",0
+286658,"Platform","Ant","platform-ant-inbox","NEW"," ---","IAntPropertyValueProvider has an issue with nulls","2012-06-20 16:46:53",,3,"2009-08-14 12:07:09","P3","Windows Vista","PC",0
+360258,"Platform","Ant","pradeepb","ASSIGNED"," ---","Ant editor keeps links to Jars open","2012-06-13 02:32:16",,2,"2011-10-07 12:41:59","P3","Windows 7","PC",0
+352205,"Platform","Ant","pradeepb","ASSIGNED"," ---","Eclipse can't find ant : Ant throws NoClassDefFoundError","2012-06-13 02:32:11",,4,"2011-07-15 08:36:39","P3","Linux","PC",0
+76201,"Platform","Ant","pradeepb","ASSIGNED"," ---","[editor] Quick outline in the Ant editor","2012-06-13 02:31:59",,16,"2004-10-13 16:43:53","P3","All","All",2
+337950,"Platform","Ant","pradeepb","ASSIGNED"," ---","[perfs] Regression in SeparateVMTests and OpenAntEditor tests","2012-06-13 02:31:52",,5,"2011-02-23 05:07:03","P3","Windows XP","PC",0
+330485,"Platform","Ant","pradeepb","ASSIGNED"," ---","Cannot revert empty line addition to Arguments field","2012-06-11 12:10:27",,1,"2010-11-17 12:11:20","P3","Linux","PC",0
+307368,"Platform","Ant","pradeepb","ASSIGNED"," ---","DBCS3.6: ANT Editor fails to rename numeric entities or Ext-B with Alt-Shift-R.","2012-06-11 12:09:51",,2,"2010-03-29 05:42:24","P3","All","PC",0
+290993,"Platform","Ant","pradeepb","ASSIGNED"," ---","setProject() not called on Ant tasks when run in same VM as Eclipse runtime","2012-06-11 12:09:26",,11,"2009-10-01 00:34:35","P3","All","All",1
+293485,"Platform","Ant","pradeepb","ASSIGNED"," ---","Reconcile happens even for a no-op change to a build file","2012-06-11 12:09:00",,1,"2009-10-27 14:47:08","P3","Linux","PC",0
+293493,"Platform","Ant","pradeepb","ASSIGNED"," ---","[refactoring] Renaming an imported target does not propagate to the originating buildfile","2012-06-11 12:08:06",,1,"2009-10-27 15:12:07","P3","Linux","PC",0
+381408,"Platform","Ant","platform-ant-inbox","NEW"," ---","Not able to specify filename patterns for resource working set","2012-06-01 13:09:19",,1,"2012-06-01 12:57:29","P3","All","All",2
+381385,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant bundles doesn't obey OSGi depencencies","2012-06-01 10:43:18",,1,"2012-06-01 10:43:18","P3","Windows 7","PC",0
+369088,"Platform","Ant","platform-ant-inbox","NEW"," ---","F3 on a property goes to a target if the target with the same name exist","2012-01-19 09:47:53",,1,"2012-01-19 09:47:53","P3","Windows 7","PC",0
+369086,"Platform","Ant","platform-ant-inbox","NEW"," ---","F3 and hover on the properties doesn't work properly if there is a change in the property.","2012-01-19 09:42:49",,1,"2012-01-19 09:42:49","P3","Windows 7","PC",0
+368279,"Platform","Ant","platform-ant-inbox","NEW"," ---","Unknown identifier problems in ant.ui plug-in.xml","2012-01-10 12:12:11",,1,"2012-01-10 12:12:11","P3","All","All",0
+365360,"Platform","Ant","platform-ant-inbox","NEW"," ---","Code formatting of ant xml files doesn't respect CDATA elements that contain tags (xml, html, etc)","2011-12-01 15:14:31",,1,"2011-12-01 15:14:31","P3","Mac OS X","Macintosh",0
+363318,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add BuildListener to Ant Projects launched by AntLauncher","2011-11-29 06:27:36",,15,"2011-11-09 09:36:54","P3","Windows XP","PC",0
+364730,"Platform","Ant","platform-ant-inbox","NEW"," ---","dialog created by input handle shouldn't be modal","2011-11-25 06:52:18",,3,"2011-11-24 11:42:32","P3","Linux","PC",0
+364732,"Platform","Ant","platform-ant-inbox","NEW"," ---","using default input handler doesn't work","2011-11-24 11:49:15",,1,"2011-11-24 11:48:57","P3","Linux","PC",0
+364049,"Platform","Ant","platform-ant-inbox","NEW"," ---","Please add <!DOCTYPE project> to auto generated build.xml files","2011-11-17 10:44:26",,1,"2011-11-17 10:44:26","P3","Windows 7","PC",0
+357629,"Platform","Ant","platform-ant-inbox","NEW"," ---","[external tools] project with just a program builder doesn't show up during clean","2011-09-15 10:26:11",,3,"2011-09-14 09:39:40","P3","Windows 7","PC",0
+349979,"Platform","Ant","platform-ant-inbox","NEW"," ---","When running an ANT task that has an input tag, get WARNING about main thread and Cocoa","2011-08-03 11:49:06",,12,"2011-06-21 14:47:21","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+134416,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] ""Run As.."" - ""Ant Build"" results in ""Unable to find ant file to run""","2011-08-03 10:28:19",,26,"2006-04-02 12:03:27","P3","Windows XP","PC",6
+353220,"Platform","Ant","platform-ant-inbox","NEW"," ---","InternalAntRunner for remote VMs does not process invalid targets","2011-07-27 11:00:25",352536,1,"2011-07-27 11:00:25","P3","Windows XP","PC",0
+193046,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[editor] Ant content assist data needs to be looked up on-demand","2011-07-24 23:00:10",,10,"2007-06-17 20:54:11","P3","All","All",1
+92942,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] [builders] javac task with fork set to true fails","2011-06-06 16:45:38",,10,"2005-04-27 12:21:28","P3","Windows XP","PC",0
+311747,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] ctrl-click on ""Debug As > Ant Build"" has no effect","2011-06-06 16:27:36",80552,1,"2010-05-05 10:51:59","P3","Windows XP","PC",0
+80552,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[launching] Move Ant configuration type to Run / Debug launch groups","2011-06-06 15:46:55",,12,"2004-12-08 20:02:04","P3","All","All",1
+80654,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[breakpoints] Breakpoint location verification","2011-06-06 15:45:11",,7,"2004-12-09 17:24:42","P3","Windows XP","PC",0
+330639,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Cannot stop external tool by clicking on red square in console view","2011-06-06 15:43:58",,5,"2010-11-19 03:33:45","P3","Windows XP","PC",0
+335452,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Progress Bar stuck at 57% when executing long running external tool","2011-06-06 15:43:45",,2,"2011-01-26 10:18:16","P3","Windows XP","PC",0
+29827,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","[view] Add ""Expand All"" to Ant View","2011-06-06 15:39:43",225036,6,"2003-01-20 13:07:06","P3","Windows 2000","PC",0
+347616,"Platform","Ant","platform-ant-inbox","NEW"," ---","ant debug terminate when inspect variable.","2011-05-30 10:43:35",,1,"2011-05-30 05:45:42","P3","Windows XP","PC",0
+345224,"Platform","Ant","platform-ant-inbox","NEW"," ---","Build tab has non-intuitive UI for project selection","2011-05-10 00:34:01",,1,"2011-05-10 00:34:01","P3","Windows 7","PC",0
+320272,"Platform","Ant","platform-ant-inbox","NEW"," ---","Newly created Ant launch configurations have ""apply"" enabled","2011-04-27 16:55:21",,2,"2010-07-19 10:33:33","P3","Windows XP","PC",0
+343630,"Platform","Ant","platform-ant-inbox","NEW"," ---","""Path for IClasspathEntry must be absolute"" when launching Ant","2011-04-21 22:04:05",,1,"2011-04-21 22:03:29","P3","Windows 7","PC",0
+335762,"Platform","Ant","platform-ant-inbox","NEW"," ---","Build Before Launch","2011-04-18 10:01:53",,6,"2011-01-29 07:26:16","P3","Windows 2000","PC",0
+181078,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Custom Ant Builder Runs on Every Debug","2011-04-18 09:20:07",,25,"2007-04-04 18:03:28","P3","All","PC",2
+222181,"Platform","Ant","platform-ant-inbox","NEW"," ---","Dragging an ANT-build.xml to the ant view evaluates fileset which confuses <modified/> option","2011-02-23 04:40:39",,3,"2008-03-11 04:30:51","P3","Windows XP","PC",1
+337158,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant debug elements should not blindly try to suspend","2011-02-14 16:46:25",,1,"2011-02-14 14:42:21","P3","Windows 7","PC",0
+335051,"Platform","Ant","platform-ant-inbox","NEW"," ---","Cannot break into a nested custom task using ANT debugger","2011-01-21 15:11:37",,1,"2011-01-21 15:11:37","P3","Windows XP","PC",0
+324622,"Platform","Ant","platform-ant-inbox","NEW"," ---","ProjectHelper2 cannot be cast to org.eclipse.ant.internal.ui.editor.utils.ProjectHelper","2011-01-05 14:46:07",,2,"2010-09-07 04:00:42","P3","Windows 7","PC",0
+326357,"Platform","Ant","platform-ant-inbox","NEW"," ---","Not able to use Eclipse ant tasks even though I'm using the antRunner.","2010-11-17 20:00:33",,3,"2010-09-27 17:45:03","P3","Linux","PC",0
+330514,"Platform","Ant","platform-ant-inbox","NEW"," ---","Value of the ""osgi.instance.area"" property (and possibly other OSGI-based properties) contains blanks","2010-11-17 15:00:04",,1,"2010-11-17 15:00:04","P3","Windows XP","PC",0
+330192,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant should allow addition of JAR files based on Classpath Variables","2010-11-14 01:25:45",,1,"2010-11-14 01:25:45","P3","Windows XP","PC",0
+328160,"Platform","Ant","platform-ant-inbox","NEW"," ---","Eclipse.refreshLocal does not cause run configurations to be updated","2010-10-19 12:58:37",,1,"2010-10-19 12:58:37","P3","Windows XP","PC",0
+327574,"Platform","Ant","platform-ant-inbox","NEW"," ---","Comment highlighting not closed","2010-10-12 11:48:35",,1,"2010-10-12 11:48:35","P3","Linux","PC",0
+327426,"Platform","Ant","platform-ant-inbox","NEW"," ---","Error on cross file dependencies in Ant","2010-10-11 05:56:27",,2,"2010-10-11 05:28:30","P3","Linux","PC",0
+327058,"Platform","Ant","platform-ant-inbox","NEW"," ---","ant editor does not respect XML file encoding","2010-10-05 23:56:14",,3,"2010-10-05 23:52:56","P3","Windows XP","PC",0
+326676,"Platform","Ant","platform-ant-inbox","NEW"," ---","NPE during completion","2010-09-30 10:43:03",,1,"2010-09-30 10:38:27","P3","Windows XP","PC",0
+257494,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant task hangs in logging call","2010-09-15 07:55:19",,4,"2008-12-04 05:02:41","P3","Windows XP","PC",1
+324235,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Properties Malformed if Workspace_loc Points to Non-Existing Project","2010-09-01 15:12:56",,2,"2010-09-01 15:05:18","P3","Windows XP","PC",0
+317847,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant terminates immediately and produces no output","2010-08-25 11:22:15",,8,"2010-06-24 11:38:25","P3","Linux","PC",0
+322500,"Platform","Ant","platform-ant-inbox","NEW"," ---",".project and .classpath files creation","2010-08-12 09:38:17",,3,"2010-08-12 06:06:33","P3","Windows XP","PC",0
+321791,"Platform","Ant","platform-ant-inbox","NEW"," ---","project ant builder does not pick up custom java tasks from directories","2010-08-04 16:51:34",,3,"2010-08-04 16:12:48","P3","Windows XP","PC",0
+283686,"Platform","Ant","platform-ant-inbox","NEW"," ---","Exit Code of External Builders should be interpreted","2010-07-30 08:01:15",,3,"2009-07-16 06:19:24","P3","Linux","PC",0
+318620,"Platform","Ant","platform-ant-inbox","NEW"," ---","Project close automatically removes entry from ANT - but doesn't add it on Project open","2010-07-12 11:39:24",,6,"2010-07-01 10:49:30","P3","Windows XP","PC",0
+265960,"Platform","Ant","platform-ant-inbox","NEW"," ---","Request for Ant task to account for linked source folders","2010-07-07 02:23:02",,4,"2009-02-24 09:38:53","P3","Windows XP","PC",0
+260730,"Platform","Ant","platform-ant-inbox","NEW"," ---","echo from Ant is not shown in Eclipse Console (UTF-8 issue)","2010-06-28 04:58:17",,4,"2009-01-12 11:00:45","P3","Windows XP","PC",2
+118294,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[launching] Renaming an External Tool Builder (set to run during Auto Builds) causes error","2010-05-07 08:32:28",,7,"2005-11-28 15:53:43","P3","Windows XP","PC",2
+310262,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add option to run Ant script/target before launching to Run Configurations","2010-04-27 03:56:06",,3,"2010-04-23 06:48:30","P3","Mac OS X","Macintosh",0
+308502,"Platform","Ant","platform-ant-inbox","NEW"," ---","Display locked and unresponsive editing build.xml with remote property file","2010-04-08 11:52:34",,1,"2010-04-08 11:52:34","P3","Windows XP","PC",0
+129043,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add ant-contrib optional package to the embedded ant","2010-03-26 13:09:22",,1,"2006-02-22 15:06:13","P3","Windows XP","PC",2
+197277,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Inserting xml comments in the ant build file editor breaks syntax highlighting","2010-03-25 13:09:21",,6,"2007-07-20 06:00:14","P3","Windows 2000","PC",2
+306997,"Platform","Ant","platform-ant-inbox","NEW"," ---","Properties->Builders UI does not acts sane if a builder is disabled","2010-03-24 17:44:33",,2,"2010-03-24 17:01:57","P3","All","All",0
+306395,"Platform","Ant","platform-ant-inbox","NEW"," ---","Opening files from the 'Ant' view with the 'Default Editor' does not move the text cursor","2010-03-18 11:58:27",,2,"2010-03-18 11:53:46","P3","Windows XP","PC",0
+278934,"Platform","Ant","platform-ant-inbox","NEW"," ---","fatal errors from ""separate JRE"" are hidden and reported as a blank console","2010-03-15 13:26:33",,1,"2009-06-03 08:02:50","P3","All","All",0
+300833,"Platform","Ant","platform-ant-inbox","NEW"," ---","New Java project from Ant build file uses JRE_LIB instead of JRE System Library","2010-01-26 17:17:28",,2,"2010-01-26 10:27:35","P3","Windows XP","PC",0
+299000,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Builder Doesn't Appropriately Fail for Bad String Substitution","2010-01-06 22:57:24",,2,"2010-01-06 17:59:42","P3","Windows XP","PC",0
+283434,"Platform","Ant","platform-ant-inbox","NEW"," ---","Failing test with NPE in RemoteAntDebugBuildListener.sendRequest","2009-12-09 11:55:16",,2,"2009-07-14 11:57:44","P3","Windows XP","PC",0
+295413,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Builder doesn't allow to specify a relative path to external Ant Home","2009-11-19 16:01:21",,1,"2009-11-18 01:25:40","P3","Windows XP","PC",0
+295418,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Builder args have problem with empty values","2009-11-18 13:01:47",,1,"2009-11-18 04:13:11","P3","Windows XP","PC",0
+295265,"Platform","Ant","platform-ant-inbox","NEW"," ---","Should be able to specify a name pattern to determine if a file is a build file","2009-11-16 11:29:53",,2,"2009-11-16 11:24:21","P3","All","All",0
+81288,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Edit launch configuration for debug Ant builds is noop","2009-11-02 16:05:28",80552,7,"2004-12-15 14:25:09","P3","Windows XP","PC",0
+293491,"Platform","Ant","platform-ant-inbox","NEW"," ---","[refactoring] Trying to refactor a 'depends' element selects wrong elements","2009-10-27 15:06:03",,1,"2009-10-27 15:06:03","P3","Linux","PC",0
+293484,"Platform","Ant","platform-ant-inbox","NEW"," ---","Imported target(s) are not updated in the Ant view until the importing buildfile is reconciled","2009-10-27 14:41:11",,1,"2009-10-27 14:40:59","P3","Linux","PC",0
+293479,"Platform","Ant","platform-ant-inbox","NEW"," ---","Cannot open an imported target in the Ant editor from the Ant view","2009-10-27 14:13:21",,1,"2009-10-27 14:13:10","P3","Linux","PC",0
+293471,"Platform","Ant","platform-ant-inbox","NEW"," ---","Pressing 'Next Annotation' changes originally selected occurrences","2009-10-27 12:44:28",,1,"2009-10-27 12:44:28","P3","Linux","PC",0
+293108,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant editor does not work with Remote System Explorer","2009-10-23 07:42:44",,4,"2009-10-22 16:15:06","P3","Windows XP","PC",0
+278246,"Platform","Ant","platform-ant-inbox","NEW"," ---","extraClasspathEntries should support specifying plug-in bundle jars","2009-10-22 10:18:22",,6,"2009-05-28 12:11:23","P3","All","All",0
+185906,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[Import/Export] Problem Occured message box is displayed after importing project","2009-09-26 02:32:39",,4,"2007-05-08 03:16:10","P3","Windows XP","PC",0
+290313,"Platform","Ant","platform-ant-inbox","NEW"," ---","Support for more context in IAntPropertyValueProvider would be very useful","2009-09-23 15:28:52",,1,"2009-09-23 15:28:52","P3","Mac OS X - Carbon (unsup.)","PC",0
+280897,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add Hyperlinks in Ant Build Console","2009-09-12 15:42:59",,2,"2009-06-19 05:31:55","P3","Windows XP","PC",0
+288510,"Platform","Ant","platform-ant-inbox","NEW"," ---","Improve handling of prompt variables in Ant launch configs","2009-09-03 12:22:42",,1,"2009-09-03 12:22:19","P3","Windows XP","PC",0
+286497,"Platform","Ant","platform-ant-inbox","NEW"," ---","ANT process spawner incompatible with Permeo Premium Agent","2009-08-13 07:16:59",,2,"2009-08-13 07:09:46","P3","Windows XP","PC",0
+286499,"Platform","Ant","platform-ant-inbox","NEW"," ---","RemoteAntBuildLogger ignores errors","2009-08-13 07:16:30",,1,"2009-08-13 07:16:30","P3","Windows XP","PC",0
+286240,"Platform","Ant","platform-ant-inbox","NEW"," ---","[Ant]Can not execute java script task if print some chinese character","2009-08-12 09:00:43",,6,"2009-08-11 09:43:50","P3","Windows Vista","PC",0
+284735,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant view, debug as menu not selecting the right target","2009-07-28 10:25:38",,1,"2009-07-27 09:23:23","P3","Linux","PC",0
+284578,"Platform","Ant","platform-ant-inbox","NEW"," ---","Incorrect Ant Home setting gives unhelpful diagnostics","2009-07-27 10:56:38",,1,"2009-07-24 10:04:13","P3","Windows Vista","PC",0
+284177,"Platform","Ant","platform-debug-inbox","NEW"," ---","Button text in Builders Property page are cut off in many other languages","2009-07-22 11:20:17",,4,"2009-07-21 15:06:20","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+283941,"Platform","Ant","platform-ant-inbox","NEW"," ---",".ent files now get errors if they are not proper xml","2009-07-19 11:02:13",,3,"2009-07-18 19:20:25","P3","All","All",0
+215009,"Platform","Ant","platform-ant-inbox","NEW"," ---","Can't run ANT with lower JRE version than project class file compliance","2009-07-13 14:38:24",,1,"2008-01-11 07:30:22","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+283303,"Platform","Ant","platform-ant-inbox","NEW"," ---","Bad taskdef definition causes NPE","2009-07-13 07:54:37",,1,"2009-07-13 07:54:37","P3","All","All",0
+283296,"Platform","Ant","platform-ant-inbox","NEW"," ---","Null pointer exception from Ant editor content assist","2009-07-13 06:30:43",,1,"2009-07-13 06:30:43","P3","All","All",0
+282057,"Platform","Ant","platform-ant-inbox","NEW"," ---","Certain dependancies in Manfiest.MF files should be made optional","2009-06-30 15:24:31",,3,"2009-06-30 15:02:58","P3","Windows XP","PC",0
+281844,"Platform","Ant","platform-ant-inbox","NEW"," ---","SWTInputHandler should honour dismissal alignment","2009-06-29 08:15:56",,1,"2009-06-29 08:15:56","P3","Linux-GTK","PC",0
+281547,"Platform","Ant","platform-ant-inbox","NEW"," ---","Severe slowdown while ""Building Workspace""","2009-06-25 14:39:03",,4,"2009-06-25 13:28:53","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+151583,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Auto generated ant build script does not work when launching SWT application","2009-06-08 14:08:12",,5,"2006-07-24 09:39:14","P3","Windows XP","PC",0
+278505,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant view needs option to hide [from import ...] decorators","2009-06-01 08:51:52",,2,"2009-05-30 03:58:02","P3","Linux","PC",0
+278176,"Platform","Ant","platform-ant-inbox","NEW"," ---","use eclipse classpath in ant launch configuration","2009-05-28 09:29:09",,1,"2009-05-28 05:31:36","P3","Windows XP","PC",1
+115310,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Ant uses Bundle classloader before Ant classloader: Improve UI display of full classpath","2009-05-14 13:43:09",,22,"2005-11-07 10:02:11","P3","Windows 2000","PC",0
+273739,"Platform","Ant","platform-ant-inbox","NEW"," ---","BIDI3.5:HCG_Incorrect text orientation of various controls on ""Preferences"" pages.","2009-05-14 08:45:21","274313, 274314, 274829",7,"2009-04-26 15:08:32","P3","Windows XP","PC",0
+275283,"Platform","Ant","platform-ant-inbox","NEW"," ---","Breakpoint within Debug mode moves forward when code is commented","2009-05-07 06:43:08",,1,"2009-05-07 06:43:08","P3","Windows Mobile 5.0","PC",0
+166645,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","NPE in TextEditorActionContributor when opening Ant editor","2009-05-07 05:10:30",,10,"2006-12-04 10:56:38","P3","Windows XP","PC",1
+262739,"Platform","Ant","platform-ant-inbox","NEW"," ---","[perfs] Several ""Separate JRE Build*"" tests got a regression","2009-04-28 13:00:50",,6,"2009-01-28 07:41:00","P3","Windows XP","PC",0
+272778,"Platform","Ant","platform-ant-inbox","NEW"," ---","PDE Tools/Create Ant Build File uses hardcoded paths to eclipse","2009-04-17 18:53:38",,3,"2009-04-17 18:49:01","P3","Linux","PC",0
+272020,"Platform","Ant","platform-ant-inbox","NEW"," ---","Clean up potential programming problems","2009-04-13 11:02:50",,1,"2009-04-13 11:02:50","P3","Windows XP","PC",0
+270517,"Platform","Ant","platform-ant-inbox","NEW"," ---","ant.executor.class property cannot be used to set the executor from within eclipse","2009-04-02 16:01:04",,1,"2009-03-30 16:23:27","P3","All","All",1
+192509,"Platform","Ant","platform-ant-inbox","NEW"," ---","""The file does not exist""","2009-04-01 18:20:02",,5,"2007-06-13 14:35:31","P3","Linux","PC",1
+247940,"Platform","Ant","platform-ant-inbox","NEW"," ---","Custom builder does not work on imported project (outside workspace)","2009-03-24 08:43:33",,5,"2008-09-19 04:47:01","P3","Windows XP","PC",1
+256260,"Platform","Ant","platform-ant-inbox","NEW"," ---","Feeding an incorrect ANT build.xml causes Eclipse to hang/get stuck on 100%CPU.","2009-03-20 05:15:18",,4,"2008-11-24 06:21:09","P3","Windows XP","PC",1
+257209,"Platform","Ant","platform-ant-inbox","NEW"," ---","Enable drag and drop of targets in Ant outline view","2009-03-12 12:10:03",,1,"2008-12-02 10:14:12","P3","Linux","PC",0
+145027,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Targets tab - Name vs Description columns width","2009-03-12 11:56:46",,3,"2006-06-02 04:16:36","P3","Linux","PC",0
+266424,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant target no longer shown in console header","2009-03-12 11:12:44",,3,"2009-02-27 02:47:41","P3","Windows XP","PC",0
+173866,"Platform","Ant","platform-ant-inbox","NEW"," ---","Favourites in ANT-View","2009-03-12 10:05:16",,4,"2007-02-12 09:16:58","P3","Windows XP","PC",0
+263115,"Platform","Ant","platform-ant-inbox","NEW"," ---","Syntax Highlighting does not refresh after refresh","2009-03-11 19:24:45",,4,"2009-01-30 19:24:35","P3","Windows XP","PC",2
+267780,"Platform","Ant","platform-ant-inbox","NEW"," ---","[ant editor] delete line cannot be undone after curser has been moved","2009-03-10 04:10:54",,1,"2009-03-10 04:10:54","P3","Windows Vista","PC",0
+267037,"Platform","Ant","platform-ant-inbox","NEW"," ---","Generated build.xml compiles files with wrong encoding","2009-03-04 10:41:27",,2,"2009-03-04 10:27:27","P3","Windows XP","PC",0
+266622,"Platform","Ant","platform-ant-inbox","NEW"," ---","Support the Show In Outline action for ant build files.","2009-03-02 09:21:55",,1,"2009-03-01 13:43:02","P3","Linux","PC",0
+238532,"Platform","Ant","platform-ant-inbox","NEW"," ---","[compiler] Console output stops with error ""warning: unmappable character for encoding UTF8""","2009-02-10 16:31:15",,21,"2008-06-26 04:35:17","P3","Windows XP","PC",4
+263013,"Platform","Ant","platform-ant-inbox","NEW"," ---","SocketTimeoutException while creating a servlet","2009-01-30 05:11:01",,1,"2009-01-30 05:11:01","P3","Windows XP","PC",0
+208463,"Platform","Ant","platform-ant-inbox","NEW"," ---","Build file viewed with the Ant Editor causes eclipse to hang periodicaly","2009-01-28 15:13:20",,3,"2007-11-01 14:31:35","P3","Windows XP","PC",2
+260037,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant fails to format build.xml when a change is detected in the filesystem and the file is reloaded","2009-01-06 05:56:31",,4,"2009-01-06 05:46:21","P3","Windows XP","PC",0
+236063,"Platform","Ant","platform-ant-inbox","NEW"," ---","CHKPII errors in ant.xml","2008-12-24 17:58:26",,2,"2008-06-06 11:19:37","P3","Windows XP","PC",0
+176239,"Platform","Ant","platform-ant-inbox","NEW"," ---","ClassNotFoundException for ExportBuildListener when exporting plugin","2008-12-08 13:22:28",,10,"2007-03-02 15:49:31","P3","Windows XP","PC",0
+218206,"Platform","Ant","platform-ant-inbox","NEW"," ---","Eclipse hangs for 15 minutes opening build.xml, then crashes","2008-12-08 07:46:45",,4,"2008-02-07 11:39:25","P3","Windows XP","PC",0
+255753,"Platform","Ant","platform-ant-inbox","NEW"," ---","Add entry name to bad URL error message in AntCorePreferences if JAR file is missing/inaccessible","2008-11-19 02:02:25",,1,"2008-11-19 02:02:25","P3","Windows XP","PC",0
+132829,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","variables dont get resolved in external-tools / ant-build / properties","2008-11-03 15:09:26",,9,"2006-03-22 08:44:56","P3","Linux","PC",0
+204904,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Enhance <import> resolving ability","2008-10-03 06:19:16",,11,"2007-09-28 09:06:00","P3","All","All",0
+249323,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant result output truncated when executing cygwin bash shell","2008-10-01 10:21:03",,2,"2008-10-01 10:20:34","P3","Windows XP","PC",1
+230860,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Ant Builder does not execute targets for build","2008-09-12 04:10:03",196811,5,"2008-05-07 06:25:48","P3","All","PC",1
+245952,"Platform","Ant","platform-ant-inbox","NEW"," ---","Enhance ant build.xml generation","2008-09-02 07:33:55",,8,"2008-09-02 06:19:02","P3","Linux","PC",0
+157473,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant adapter truncates a log in a console upon the ant termination","2008-08-29 10:57:44",,4,"2006-09-15 10:13:05","P3","Windows XP","PC",1
+244635,"Platform","Ant","platform-ant-inbox","NEW"," ---","terminating ant tasks issue and associated bad console output","2008-08-19 18:32:36",,2,"2008-08-19 18:32:00","P3","Windows XP","PC",0
+226360,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","External Tools action set visible in EVERY perspective","2008-08-19 16:20:34",,6,"2008-04-09 16:16:38","P3","Windows XP","PC",0
+205133,"Platform","Ant","platform-ant-inbox","NEW"," ---","Exported ANT build w/subprojects fail","2008-08-03 09:32:13",,3,"2007-10-01 18:52:40","P3","Windows 2000","PC",0
+241958,"Platform","Ant","platform-ant-inbox","NEW"," ---","lost ant mappings from build.xml to existing build configs in workspace (eclipse 3.4)","2008-07-24 10:15:53",,2,"2008-07-24 07:57:03","P3","Windows XP","PC",0
+208563,"Platform","Ant","platform-ant-inbox","REOPENED"," ---","Ant Editor does not honor text editor background color","2008-07-10 14:30:21",,7,"2007-11-02 10:28:20","P3","Windows XP","PC",0
+152939,"Platform","Ant","platform-ant-inbox","NEW"," ---","Custom Ant build steps doesn't work.","2008-07-06 10:42:53",,21,"2006-08-07 03:38:25","P3","Windows XP","PC",0
+208852,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","mac os 10.5 problem with ant","2008-07-01 17:51:34",,12,"2007-11-06 00:02:14","P3","Mac OS X - Carbon (unsup.)","Macintosh",1
+238406,"Platform","Ant","platform-ant-inbox","NEW"," ---","after build in eclipse, build directory gets restructured.","2008-06-25 16:32:34",,5,"2008-06-25 09:28:27","P3","Windows XP","PC",0
+238082,"Platform","Ant","platform-ant-inbox","NEW"," ---","Relative paths for listEntry values in .launch files","2008-06-23 04:42:41",,1,"2008-06-23 04:42:41","P3","Linux","PC",2
+222084,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ant editor does not autocomplete preserveintarget nested in sync","2008-05-18 08:42:19",,3,"2008-03-10 13:06:58","P3","Linux","PC",0
+232691,"Platform","Ant","platform-ant-inbox","NEW"," ---","Support Ant Build File Name Patterns","2008-05-18 06:24:37",,2,"2008-05-18 05:48:31","P3","Windows XP","PC",0
+182829,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","unable to run builds on Ant older than 1.7.0","2008-05-01 12:59:27",,5,"2007-04-17 17:08:28","P3","Windows XP","PC",1
+227797,"Platform","Ant","platform-ant-inbox","NEW"," ---","No code completion for variable name inside custom task","2008-04-18 12:14:13",,1,"2008-04-18 12:14:13","P3","Windows XP","PC",0
+93968,"Platform","Ant","Darin_Swanson","ASSIGNED"," ---","[launching] [console] Deadlock when running in debug mode with job tracing on","2008-04-11 14:13:18",,13,"2005-05-06 14:01:20","P3","Windows 2000","PC",1
+185152,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[partial patch] Add File, Target and Task breakpoints","2008-04-01 11:48:00",,5,"2007-05-02 11:32:20","P3","Windows XP","PC",0
+174057,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","NLS33:2 single quotes were used as the ""ditto"" symbol in REMOTEANTMESSAGES.PROPERTIES","2008-03-31 16:06:03",,8,"2007-02-13 14:25:35","P3","Windows XP","PC",0
+182149,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Error occurred when running J2EE Ant tasks in eclipse 3.x","2008-03-27 14:03:22",,7,"2007-04-12 11:16:32","P3","Windows XP","PC",0
+221818,"Platform","Ant","platform-ant-inbox","NEW"," ---","Unable to change java.library.path of Ant in a separate VM","2008-03-27 09:01:14",,2,"2008-03-07 05:51:32","P3","Windows XP","PC",1
+223906,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Cannot context launch from the outline for a build file","2008-03-25 13:10:07",,1,"2008-03-25 13:10:07","P3","Mac OS X - Carbon (unsup.)","PC",0
+220829,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Editor doesn't work with remote files linked in through EFS","2008-02-29 18:59:17",220388,2,"2008-02-28 15:50:28","P3","Windows XP","PC",0
+219924,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant ignores executable attribute of javac task","2008-02-22 04:04:07",,1,"2008-02-22 04:04:07","P3","Mac OS X - Carbon (unsup.)","PC",0
+218933,"Platform","Ant","platform-ant-inbox","NEW"," ---","Format on save for buildfiles","2008-02-14 06:04:29",,1,"2008-02-14 06:04:29","P3","All","All",0
+217245,"Platform","Ant","platform-ant-inbox","NEW"," ---","Can't use Ant file with contributed task, parsing error","2008-02-06 13:39:44",,4,"2008-01-31 06:24:03","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+215861,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant view should not be editor-sensitive","2008-01-29 14:37:24",,3,"2008-01-18 16:21:49","P3","Linux","PC",0
+206362,"Platform","Ant","platform-ant-inbox","NEW"," ---","property file property expansion does not work when importing files in the run as -> ant build... option","2008-01-09 23:07:40",,2,"2007-10-15 14:24:19","P3","Windows XP","PC",2
+211672,"Platform","Ant","platform-ant-inbox","NEW"," ---","format XML source by breaking at page end","2007-12-03 11:34:19",,3,"2007-12-01 09:42:37","P3","Windows XP","PC",0
+210713,"Platform","Ant","platform-ant-inbox","NEW"," ---","""Source not found"" for External Tools referenced libraries","2007-11-26 23:49:38",,6,"2007-11-22 21:27:15","P3","Windows XP","PC",0
+210591,"Platform","Ant","platform-ant-inbox","NEW"," ---","Allow External Tools to use Default JRE","2007-11-26 09:31:26",,1,"2007-11-21 16:16:16","P3","Windows XP","PC",0
+209622,"Platform","Ant","platform-ant-inbox","NEW"," ---","Launch ANT script outside from the eclipse Workspace","2007-11-13 06:59:14",,1,"2007-11-13 06:59:14","P3","Windows XP","PC",0
+209440,"Platform","Ant","platform-ant-inbox","NEW"," ---","Editing build scripts generates inconsistent newlines","2007-11-11 19:40:54",,1,"2007-11-11 19:40:54","P3","Windows Vista","PC",0
+208175,"Platform","Ant","platform-ant-inbox","NEW"," ---","Right Click on Ant file should offer Properties","2007-10-30 23:15:53",,1,"2007-10-30 23:15:53","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+204853,"Platform","Ant","platform-ant-inbox","NEW"," ---","javadoc integration needs improvement","2007-10-03 17:51:31",,1,"2007-09-27 15:00:06","P3","Windows XP","PC",0
+203514,"Platform","Ant","platform-ant-inbox","NEW"," ---","Make API for ""external builders"" public","2007-09-27 17:14:55",,2,"2007-09-15 07:31:52","P3","All","All",0
+204619,"Platform","Ant","platform-ant-inbox","NEW"," ---","[java builder] builder outputs class files to incorrect location","2007-09-26 08:55:37",,2,"2007-09-25 18:05:19","P3","Windows Vista","PC",0
+203848,"Platform","Ant","platform-ant-inbox","NEW"," ---","Cannot find ANT imported file","2007-09-21 10:17:06",,2,"2007-09-18 13:43:10","P3","Windows XP","PC",1
+202578,"Platform","Ant","platform-ant-inbox","NEW"," ---","Contributed task availability is not visible","2007-09-07 04:21:24",,1,"2007-09-07 04:21:24","P3","Windows XP","PC",0
+202457,"Platform","Ant","platform-ant-inbox","NEW"," ---","Not prompted to abort launch in face of errors in Ant file","2007-09-06 10:22:20",,1,"2007-09-06 10:22:20","P3","All","PC",0
+201101,"Platform","Ant","platform-ant-inbox","NEW"," ---","The Ant view launcher fails with comma in project path.","2007-08-24 11:53:41",,1,"2007-08-24 11:49:04","P3","Windows XP","PC",0
+199683,"Platform","Ant","platform-ant-inbox","NEW"," ---","Mark uninitialized properties in the Ant Editor","2007-08-12 13:53:30",,1,"2007-08-12 13:53:30","P3","All","PC",0
+125308,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Ok button not disabled after quitting ""Properties for external builder""","2007-07-11 13:17:02",,1,"2006-01-26 05:34:19","P3","Windows XP","PC",0
+116893,"Platform","Ant","platform-ant-inbox","NEW"," ---","[launching] Workspace not refreshed after external tools run","2007-07-11 13:09:17",,6,"2005-11-17 11:40:13","P3","Windows XP","PC",0
+195696,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant editor should be able to flag tasks can't be resolved as warnings","2007-07-06 15:16:38",,1,"2007-07-06 15:16:38","P3","Windows XP","PC",0
+191945,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ANT Debugger terminates when stepping","2007-06-14 08:32:45",,5,"2007-06-11 08:55:04","P3","Windows XP","PC",1
+192399,"Platform","Ant","platform-ant-inbox","NEW"," ---","Tooltips not being updated correctly in Ant Editor","2007-06-13 06:43:26",,2,"2007-06-13 06:42:30","P3","Windows 2000","PC",0
+191886,"Platform","Ant","platform-ant-inbox","NEW"," ---","Create Ant Move refactoring participant","2007-06-11 01:58:06",,2,"2007-06-11 01:55:57","P3","All","All",0
+170242,"Platform","Ant","platform-ant-inbox","NEW"," ---","Saved Ant configurations not persisting","2007-06-10 01:06:32",,4,"2007-01-11 12:58:22","P3","Linux","PC",0
+189439,"Platform","Ant","platform-ant-inbox","NEW"," ---","Overlapping with existing fragment exception causes the editor to be unusable","2007-05-29 04:43:28",,7,"2007-05-28 10:05:23","P3","Windows XP","PC",0
+186923,"Platform","Ant","platform-ant-inbox","NEW"," ---","Deselected targets for clean and manual incorrectly reselected","2007-05-14 23:29:36",,1,"2007-05-14 23:29:36","P3","Windows XP","PC",1
+175738,"Platform","Ant","platform-ant-inbox","NEW"," ---","Project created from buildfile uses deprecated JRE_LIB","2007-04-27 13:38:07",,2,"2007-02-27 14:55:49","P3","Windows XP","PC",0
+174084,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[DOC] Input handler checkbox needs clarification","2007-04-23 14:05:02",,3,"2007-02-13 15:24:14","P3","All","All",0
+179052,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[Ant] Ant project level builders should be able to run in Eclipse VM when eclipse.incrementalbuild triggers a full workspace build","2007-04-17 16:25:49",,4,"2007-03-23 11:46:04","P3","Windows XP","PC",0
+176633,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Eclipse does not recognise drive-neutral Ant property location attribute","2007-03-09 14:23:23",,4,"2007-03-07 13:40:18","P3","Windows XP","PC",0
+174974,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Tasks view should include tasks from build.xml","2007-02-21 14:18:12",,3,"2007-02-21 10:53:19","P3","Windows XP","PC",0
+139960,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","[Ant 1.7] Accessors on ProjectHelper2","2007-02-05 12:39:42",,1,"2006-05-03 10:35:35","P3","Windows XP","PC",0
+172781,"Platform","Ant","platform-ant-inbox","NEW"," ---","Generated build.xml creates broken junit task when \r\n in vmargs","2007-02-04 03:05:27",,1,"2007-02-04 03:05:27","P3","Windows XP","PC",0
+172514,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant Imports failing to resolve basedirs properly in nested file systems","2007-02-01 11:21:38",,2,"2007-02-01 11:18:39","P3","Windows XP","PC",0
+172461,"Platform","Ant","platform-ant-inbox","NEW"," ---","External tools slows down when opened after opening an xml document which is not a build xml","2007-02-01 06:34:43",,1,"2007-02-01 06:34:43","P3","Windows XP","PC",0
+165901,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Ant editor not presenting java outputproperty","2007-01-16 18:06:57",,4,"2006-11-27 06:50:20","P3","Windows XP","PC",1
+169093,"Platform","Ant","platform-ant-inbox","NEW"," ---","We need a way to get notified about ANT failures","2006-12-26 17:29:42",,8,"2006-12-26 12:17:03","P3","Windows XP","PC",0
+151815,"Platform","Ant","platform-ant-inbox","NEW"," ---","The refresh and relevant resources in External builder should be project relative","2006-07-26 06:32:28",,1,"2006-07-26 06:30:58","P3","Windows XP","PC",0
+151717,"Platform","Ant","platform-ant-inbox","NEW"," ---","Workspace migration issues ANT runtime classpath","2006-07-25 11:51:05",,1,"2006-07-25 11:51:05","P3","Windows XP","PC",0
+125117,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","Macrodefs in imports with completion on slows down saving ant file to a crawl","2006-05-10 00:39:07",,3,"2006-01-24 21:25:08","P3","All","All",2
+137055,"Platform","Ant","platform-ant-inbox","NEW"," ---","Ant home not updated on workspace move","2006-04-17 16:39:00",,5,"2006-04-17 14:46:44","P3","Windows XP","PC",0
+136348,"Platform","Ant","platform-ant-inbox","ASSIGNED"," ---","ANT does not recognize source compatibility level 5.0","2006-04-12 16:24:50",,12,"2006-04-12 10:57:47","P3","Windows XP","PC",0

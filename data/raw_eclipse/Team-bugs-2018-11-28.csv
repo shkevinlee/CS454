@@ -1,0 +1,550 @@
+"Bug ID","Product","Component","Assignee","Status","Resolution","Summary","Changed","Depends on","Number of Comments","Opened","Priority","OS","Hardware","Votes"
+540727,"Platform","Team","platform-team-inbox","NEW"," ---","Need to replace jsch with supported SSH implementation","2018-11-19 10:35:57",,5,"2018-11-02 10:44:00","P3","Mac OS X","PC",0
+541075,"Platform","Team","platform-team-inbox","NEW"," ---","[Dark Theme] Replace with local history dialog not correctly styled","2018-11-13 06:47:34",,2,"2018-11-13 06:47:11","P3","Linux","PC",0
+347394,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse-SourceReferences misinterpreted for bundles with ""project="" attributes, when HEAD selected","2018-11-13 00:45:20",,9,"2011-05-27 01:26:37","P2","Linux","PC",0
+414185,"Platform","Team","platform-team-inbox","NEW"," ---","java.lang.StackOverflowError when trying to open History View","2018-11-05 07:18:53",,3,"2013-08-01 04:51:13","P3","Windows 7","PC",0
+304493,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Apply Patch in Synchronize view should not be blocked by ongoing synchronization","2018-10-19 13:48:52",,6,"2010-03-03 06:36:16","P3","Windows XP","PC",0
+445489,"Platform","Team","platform-team-inbox","UNCONFIRMED"," ---","TeamException: Could not instantiate provider","2018-10-01 04:14:53",,5,"2014-09-30 08:01:25","P3","All","All",0
+179924,"Platform","Team","ymnk","ASSIGNED"," ---","[SSH2] SSH connection should respect ssh-agent in publickey authentication","2018-08-30 06:42:38",488321,116,"2007-03-29 03:24:55","P3","All","All",7
+536498,"Platform","Team","ma.becker","REOPENED"," ---","Team UI error overlay icon different from package explorer/project explorer","2018-08-24 13:06:00",,23,"2018-06-29 10:56:12","P3","Mac OS X","PC",0
+476065,"Platform","Team","platform-team-inbox","NEW"," ---","Allow to run team tests with tycho-surefire-plugin","2018-08-23 11:47:25",,17,"2015-08-27 12:32:17","P3","All","All",0
+536656,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse Install for Photon is failing","2018-07-09 14:51:54",,2,"2018-07-03 13:12:40","P3","Linux","PC",0
+536412,"Platform","Team","platform-team-inbox","NEW"," ---","Revisionnumber not updated after Update all incoming changes in Syncronize View","2018-06-28 07:10:04",,1,"2018-06-28 07:10:04","P3","Windows 10","PC",0
+535790,"Platform","Team","platform-team-inbox","NEW"," ---","move modul ends in commit error","2018-06-12 04:50:08",,1,"2018-06-12 04:50:08","P3","Windows 10","PC",0
+535194,"Platform","Team","platform-team-inbox","NEW"," ---","in team subclise plugin most DELETE FILE or DIR fails","2018-05-28 06:43:02",,1,"2018-05-28 06:43:02","P3","Windows 10","PC",0
+532668,"Platform","Team","platform-team-inbox","NEW"," ---","Compare editor place lines erroneously with variable line height","2018-05-11 08:41:21",,4,"2018-03-20 11:21:37","P4","All","All",0
+466788,"Platform","Team","platform-team-inbox","NEW"," ---","Clean up the layout in ComparePreferencePage","2018-05-10 13:48:04",,2,"2015-05-07 17:48:49","P3","Linux","PC",0
+347558,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Investigate why SaveableCompareEditorInput.handleDispose() method is called multiple times","2018-05-10 13:35:01",,37,"2011-05-28 15:39:01","P2","All","All",5
+330691,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Network Connections page displays ""Direct"" when ""Native"" is configured","2018-04-17 06:40:29",,15,"2010-11-19 12:57:00","P3","Mac OS X - Carbon (unsup.)","Macintosh",7
+279471,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Can not understand proxy pac configuration","2018-03-22 20:20:19",,6,"2009-06-08 10:12:35","P3","Windows 2000","PC",5
+532266,"Platform","Team","platform-team-inbox","NEW"," ---","not responding when share git project or when opening preference/team/git/configuration","2018-03-10 11:17:30",,2,"2018-03-10 05:34:16","P3","Windows 10","PC",0
+345415,"Platform","Team","platform-team-inbox","NEW"," ---","Compare action from synchronize view does not make use of ModelProviders","2018-03-07 08:58:19",,4,"2011-05-11 09:04:29","P3","Windows 7","PC",0
+531945,"Platform","Team","platform-team-inbox","NEW"," ---","Use of ICompareFilters causes inaccurate comparison offsets","2018-03-02 13:20:17",,2,"2018-03-02 13:18:48","P3","Windows 10","PC",0
+530652,"Platform","Team","platform-team-inbox","NEW"," ---","bad layout of known hosts preference page","2018-02-05 19:17:29",,1,"2018-02-02 07:31:16","P3","Windows 10","PC",0
+525895,"Platform","Team","Lars.Vogel","REOPENED"," ---","[Dark Theme] Preference page for Compare should use CTab folder to looks also good in the dark theme","2018-01-29 09:59:55",,7,"2017-10-11 15:40:48","P3","Linux","PC",0
+528900,"Platform","Team","platform-team-inbox","NEW"," ---","Strange Maven behaviour when using Ant task","2017-12-18 10:47:28",,2,"2017-12-18 10:46:46","P3","Linux","PC",0
+404714,"Platform","Team","platform-team-inbox","NEW"," ---","Inadequate SSH key strength","2017-12-06 08:57:27",,13,"2013-04-02 07:01:50","P3","Windows 7","PC",4
+517035,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Invalid Thread Access due to ""Compute Launch Button Tooltip"" from ContextLaunch during StructuredCompare","2017-11-14 04:00:47",,8,"2017-05-21 14:50:35","P3","Linux","PC",0
+519182,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Remove /* (non-Javadoc) or replace with @Override from platform team repository","2017-07-30 16:14:57",,1,"2017-07-04 13:25:29","P3","All","PC",0
+520274,"Platform","Team","platform-team-inbox","NEW"," ---","NullPointerException using Team/Compare Revisions","2017-07-27 17:48:51",,1,"2017-07-27 13:50:37","P3","Windows 7","PC",0
+519022,"Platform","Team","platform-team-inbox","NEW"," ---","Trying to install a SVN Connector under oxyten fails (but it works on neon at the same time)","2017-07-03 05:05:25",,6,"2017-06-30 05:57:10","P3","Linux","PC",1
+516869,"Platform","Team","jarthana","NEW"," ---","SOCKS proxy not working with local sockets","2017-06-13 00:43:23",,11,"2017-05-18 05:18:21","P3","Windows 7","PC",0
+473958,"Platform","Team","pascal","ASSIGNED"," ---","LocalResourceSaveableComparison marks editor as clean even if there was an exception","2017-05-26 09:46:27",,5,"2015-07-30 14:12:43","P3","Linux","PC",0
+516856,"Platform","Team","platform-team-inbox","NEW"," ---","With a remote project open GIT projects don't show correct decoration","2017-05-18 01:31:32",,1,"2017-05-18 01:31:32","P3","Windows 10","PC",0
+516230,"Platform","Team","platform-team-inbox","NEW"," ---","History View does not update when selection/selected page in a MultiPageEditorPart changes","2017-05-08 09:26:04",,1,"2017-05-05 05:30:46","P3","All","All",0
+513651,"Platform","Team","platform-team-inbox","NEW"," ---","Generic editor shoud use DefaultInformationControl for proposals when none defined","2017-04-21 10:13:06",218482,8,"2017-03-14 10:35:00","P3","All","All",0
+515291,"Platform","Team","platform-team-inbox","NEW"," ---","[Oxygen] Navigation in git staging commit message broken","2017-04-14 06:50:22",,1,"2017-04-14 06:50:22","P3","Windows NT","PC",0
+515183,"Platform","Team","platform-team-inbox","NEW"," ---","[MercurialEclipse] [Dialogs] Pull + rebase modal dialogs dead lock","2017-04-12 09:05:56",,1,"2017-04-12 09:05:56","P3","Windows 10","PC",0
+515042,"Platform","Team","platform-team-inbox","NEW"," ---","MercurialEclipse - NPE when displaying several remote changesets","2017-04-10 11:21:41",,1,"2017-04-10 11:21:41","P3","Windows 10","PC",0
+513262,"Platform","Team","platform-team-inbox","NEW"," ---","An editor with an ""Import"" action for psf files","2017-03-07 12:11:16",,1,"2017-03-07 12:11:16","P3","All","All",0
+434443,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse RSE for SSH hosts tries too many public SSH keys, resulting in SSH_MSG_DISCONNECT: 2 Too many authentication failures for <user name>","2017-01-23 10:40:55",,16,"2014-05-08 12:54:10","P3","Windows 8","PC",0
+507659,"Platform","Team","platform-team-inbox","NEW"," ---","Better defaults for crypto algorithms of SSH2 preference page","2016-11-17 04:30:25",,1,"2016-11-17 04:30:25","P3","All","All",0
+391644,"Platform","Team","platform-team-inbox","NEW"," ---","EGit hangs and burn the CPU while doing trivial Jobs like pull, push, commit oder changing a branch","2016-11-08 22:08:03",,13,"2012-10-11 05:39:51","P3","Linux","PC",4
+196349,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Theme] Adopt the new menu/command framework","2016-10-30 11:25:47","127808, 173457, 175693",3,"2007-07-12 12:56:50","P3","Windows XP","PC",0
+319287,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Consider making some internal classes usable from EGit","2016-10-30 11:25:47",196349,6,"2010-07-08 12:49:06","P3","All","All",0
+505732,"Platform","Team","platform-team-inbox","NEW"," ---","Investigate root cause for broken layout in compare dialog","2016-10-11 12:57:24",,1,"2016-10-11 12:33:08","P3","Mac OS X","PC",0
+196780,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] Issues with org.eclipse.ui.internal.net.auth.NetAuthenticator","2016-10-08 07:10:57",,15,"2007-07-17 04:09:07","P3","Linux","PC",3
+312228,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Improve core.net authentication capabilities","2016-10-08 07:08:06",318173,12,"2010-05-10 05:48:45","P3","All","All",6
+318173,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] Move core.net to Java 5.0","2016-10-08 07:06:24",,2,"2010-06-28 09:03:22","P3","All","All",2
+242296,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Add ""Edit > Copy Qualified Name"" action to Synchronize View","2016-10-07 16:28:32",,3,"2008-07-28 15:45:09","P3","Windows XP","PC",1
+364599,"Platform","Team","platform-team-inbox","NEW"," ---","Project disappears from synchronize view","2016-10-06 11:33:14",,17,"2011-11-23 09:36:12","P3","Linux","PC",0
+502087,"Platform","Team","platform-team-inbox","NEW"," ---","DeviceResourceException from Team Synchronize View","2016-09-23 17:17:04",,2,"2016-09-23 17:10:46","P3","Mac OS X","PC",0
+500834,"Platform","Team","platform-team-inbox","NEW"," ---","Empty history view should provide link to history related actions","2016-09-05 04:38:46",,1,"2016-09-05 04:38:46","P3","All","All",0
+449758,"Platform","Team","platform-team-inbox","NEW"," ---","After synchronize with repository the ""Progress view"" button is  hijacked","2016-08-07 04:04:17",,3,"2014-11-03 07:45:05","P3","Windows 7","PC",1
+307117,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Quickdiff should integrate better with CVS","2016-05-02 00:35:07",,4,"2010-03-25 14:27:53","P3","All","All",0
+492409,"Platform","Team","platform-team-inbox","NEW"," ---","First typed character is lost if FileModificationValidator.validateEdit method takes more than 3 seconds","2016-04-26 07:33:33",,1,"2016-04-25 19:44:24","P3","Linux","PC",0
+471909,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Can not get system proxy settings with JUnit","2016-03-07 10:18:40",,1,"2015-07-06 07:23:01","P3","Windows 7","PC",0
+486297,"Platform","Team","platform-team-inbox","NEW"," ---","Network Preferences not saved","2016-02-13 21:12:08",,2,"2016-01-21 12:22:09","P3","Mac OS X","PC",0
+487611,"Platform","Team","platform-team-inbox","NEW"," ---","Significant CPU time consumed by EditionHistoryPage.update() on each save action","2016-02-10 13:25:42",,1,"2016-02-10 13:25:42","P3","Windows 7","PC",0
+324395,"Platform","Team","platform-team-inbox","NEW"," ---","manual https proxy is fully specified and works well but get error in log","2016-01-26 11:10:23",,4,"2010-09-03 07:01:13","P3","Windows XP","PC",0
+486580,"Platform","Team","platform-team-inbox","NEW"," ---","Team explorer everywhere refuses to connect to TFS over HTTPs","2016-01-26 10:07:54",,1,"2016-01-26 10:07:54","P3","Windows 7","PC",1
+204494,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","import project set via import dialog differs from via ""import project set"" context menu action","2016-01-26 07:19:09",,13,"2007-09-24 18:21:39","P3","Windows XP","PC",0
+486154,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse Marketplace","2016-01-20 02:41:44",,1,"2016-01-20 02:41:44","P3","Windows NT","PC",0
+483714,"Platform","Team","platform-team-inbox","NEW"," ---","Ctrl+J in XML compare editors","2015-12-05 08:09:02",,1,"2015-12-05 08:09:02","P3","Windows 7","PC",0
+482814,"Platform","Team","platform-team-inbox","NEW"," ---","Filter for Synchronize view","2015-11-23 04:36:57",,1,"2015-11-23 04:36:57","P3","Windows 7","PC",0
+405237,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","The platform.team ""Team"" menu should be defined as a menuContribution rather than objectContribution","2015-10-23 23:32:46",,10,"2013-04-09 03:51:07","P3","All","All",0
+325941,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse hangs at startup","2015-09-04 06:34:30",,7,"2010-09-22 05:43:19","P3","Linux","PC",3
+348163,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Change Sets] When opening a project, changed files are added to the default change set","2015-09-02 08:08:37",,11,"2011-06-03 01:06:28","P3","Windows 7","PC",1
+472642,"Platform","Team","platform-team-inbox","NEW"," ---","Team Synchronize View Filtering (Feature Request)","2015-08-19 19:51:45",,3,"2015-07-14 13:58:31","P3","Windows 7","PC",0
+237680,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in AbstractTextEditor$TextEditorSavable.isDirty","2015-07-15 05:08:14",,21,"2008-06-18 14:57:36","P3","All","All",1
+469566,"Platform","Team","platform-team-inbox","NEW"," ---","Provide lock free RepositoryProvider.getProvider() API","2015-06-07 09:49:34",,1,"2015-06-07 09:48:19","P3","All","All",0
+392949,"Platform","Team","platform-team-inbox","NEW"," ---","[History View] Linking is restricted to single selection","2015-05-22 12:18:35",,2,"2012-10-26 16:05:35","P3","All","All",0
+467922,"Platform","Team","platform-team-inbox","NEW"," ---","Quick diff should automatically configure provider","2015-05-21 16:35:43",,1,"2015-05-21 16:35:43","P3","All","PC",0
+467584,"Platform","Team","platform-team-inbox","NEW"," ---","[JSch] document org.eclipse.jsch.core.authenticator extension-point","2015-05-19 10:02:04",,2,"2015-05-19 09:28:01","P3","All","All",0
+313916,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] core.net creates executable extensions early causing activation of ui.net","2015-05-18 07:17:45",,5,"2010-05-21 10:28:18","P3","Mac OS X - Carbon (unsup.)","PC",0
+346464,"Platform","Team","platform-team-inbox","NEW"," ---","Fix org.eclipse.core.net include path","2015-05-18 07:06:39",,2,"2011-05-19 10:54:28","P3","Linux","PC",0
+266477,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Incorrect Synchronize view content for SVN","2015-05-18 07:05:23",,46,"2009-02-27 08:09:23","P3","All","All",5
+403311,"Platform","Team","platform-team-inbox","NEW"," ---","[NET] testSimpleHost test fail on Windows 7","2015-05-18 07:04:46",,4,"2013-03-14 06:36:54","P3","Windows 7","PC",0
+291717,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Socks proxy settings for authentication and proxy bypass not working","2015-04-10 09:39:15",318173,8,"2009-10-08 05:25:37","P3","Linux","PC",4
+256806,"Platform","Team","platform-team-inbox","NEW"," ---","[Actions] ""Compare with Each Other"" in Team ignores ""Reuse open compare editor"" setting","2015-04-01 09:44:35",,2,"2008-11-27 11:30:55","P3","All","All",0
+256805,"Platform","Team","platform-team-inbox","NEW"," ---","SaveablesCompareEditorInput polishing","2015-04-01 09:44:32",,4,"2008-11-27 11:26:51","P3","All","All",0
+229374,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Persist authenticated passwords in secure storage","2015-04-01 09:44:28",,8,"2008-04-29 11:57:52","P3","Windows XP","PC",4
+234597,"Platform","Team","platform-team-inbox","NEW"," ---","Deleting lots of files takes forever","2015-04-01 09:44:07",,6,"2008-05-29 08:17:15","P3","All","All",0
+100623,"Platform","Team","platform-team-inbox","NEW"," ---","[Repo View] Add ""Open with"" actions to CVS Repositories view context menu","2015-04-01 09:44:03",,9,"2005-06-17 13:18:26","P3","Windows 2000","PC",0
+194625,"Platform","Team","platform-team-inbox","NEW"," ---","[Preferences] Request an icon for the Ignore Resources Preference Transfer","2015-04-01 09:44:01",,3,"2007-06-27 11:28:06","P3","Windows XP","PC",0
+231758,"Platform","Team","platform-team-inbox","NEW"," ---","Improvement in TagRefreshButtonArea#refresh","2015-04-01 09:44:00",,2,"2008-05-13 04:41:11","P3","Windows XP","PC",0
+459565,"Platform","Team","platform-team-inbox","NEW"," ---","Implement ability to prefix SSH and SCP commands such that ""sudo"" et. al. function correctly in Remote System Explorer","2015-02-10 10:31:21",,1,"2015-02-10 10:31:21","P3","Windows 7","PC",0
+344090,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Team > Synchronize action results in auto build","2014-12-17 15:26:12",,13,"2011-04-28 04:26:00","P4","Windows XP","PC",0
+157582,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] History view should have a Clear action","2014-12-17 15:22:08",,3,"2006-09-17 06:46:21","P3","Windows XP","PC",0
+453346,"Platform","Team","platform-team-inbox","NEW"," ---","Cannot access local history: java.lang.NullPointerException at org.eclipse.team.internal.ui.synchronize.LocalResourceTypedElement.fetchAuthor","2014-11-26 16:22:26",,1,"2014-11-26 16:21:29","P3","Windows 7","PC",1
+449721,"Platform","Team","platform-team-inbox","NEW"," ---","unmaps projects","2014-11-03 05:31:33",,1,"2014-11-03 05:31:33","P3","Mac OS X","Macintosh",0
+384199,"Platform","Team","platform-team-inbox","NEW"," ---","Bug in Network Proxy Settings","2014-10-31 09:08:46",,2,"2012-07-03 15:28:23","P3","Windows 7","PC",0
+446582,"Platform","Team","platform-team-inbox","NEW"," ---","Proxy input dialog won't accept IPv6","2014-10-13 07:48:51",,1,"2014-10-10 04:11:19","P3","Windows 7","PC",0
+275153,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Regressions introduced by SaveablesCompareEditorInput","2014-09-12 09:24:56","273450, 312893, 318826, 347557, 347560, 358909, 358911",13,"2009-05-06 09:56:17","P3","Windows XP","PC",0
+358909,"Platform","Team","platform-team-inbox","NEW"," ---","[Edit] createStructure is called twice for a modified side of SaveablesCompareEditorInput","2014-09-12 08:08:18",,2,"2011-09-26 11:02:50","P3","Windows XP","PC",0
+326740,"Platform","Team","platform-team-inbox","NEW"," ---","[Project Sets] Import Team Project Set wizard must allow to choose connection type","2014-09-12 08:07:42",,5,"2010-10-01 03:31:37","P3","All","All",0
+347250,"Platform","Team","platform-team-inbox","NEW"," ---","[Wizards] Team import/export wizard's F1 help needs link to doc","2014-09-12 07:45:48",,1,"2011-05-26 01:53:36","P3","All","All",0
+263283,"Platform","Team","platform-team-inbox","NEW"," ---","team - synchronize should synchronize the resource instead of throwing an error ""resource out of sync with filesystem""","2014-09-12 07:34:37",,7,"2009-02-02 14:24:22","P3","All","All",1
+438148,"Platform","Team","platform-team-inbox","NEW"," ---","""Save"" action in ""Structure Compare"" view closes the view","2014-09-12 04:37:35",,3,"2014-06-25 09:00:51","P3","Windows 7","PC",0
+442112,"Platform","Team","platform-team-inbox","NEW"," ---","Two 'History' views will spawn if the other is pinned and opened in another perspective","2014-08-19 16:03:38",,1,"2014-08-19 16:03:38","P3","Windows 7","PC",0
+441668,"Platform","Team","platform-team-inbox","NEW"," ---","Compare with and Replace with menu commands are similar visually and can be confusing","2014-08-13 05:21:03",,1,"2014-08-13 05:21:03","P3","Mac OS X","PC",0
+441366,"Platform","Team","platform-team-inbox","NEW"," ---","'Restore Defaults' does not work on table components on preferences page (Team/File Content)","2014-08-07 21:29:08",,1,"2014-08-07 11:43:12","P3","Windows 7","PC",1
+441101,"Platform","Team","platform-team-inbox","NEW"," ---","""Selection Adjustment Required"" Sash is not adjustable","2014-08-06 08:29:22",,3,"2014-08-04 12:41:43","P3","Windows Vista","PC",0
+439924,"Platform","Team","platform-team-inbox","NEW"," ---","PDE is not checking out the right branch/sha1 for Eclipse-Sourcereference","2014-07-22 11:48:23",,3,"2014-07-18 15:30:33","P3","Mac OS X","PC",0
+439902,"Platform","Team","platform-team-inbox","NEW"," ---","SynchronizationScopeManager shouldn't activate all plugins contributing a model provider","2014-07-18 10:46:40",,1,"2014-07-18 10:46:40","P3","Windows NT","PC",0
+437124,"Platform","Team","platform-team-inbox","NEW"," ---","handle schema and port in proxy URL automatically","2014-06-25 09:36:39",,4,"2014-06-11 08:44:14","P3","Windows 7","PC",0
+364550,"Platform","Team","platform-team-inbox","REOPENED"," ---","Deadlock on startup","2014-05-21 04:34:53",239230,11,"2011-11-23 04:32:10","P3","Linux-GTK","PC",0
+434517,"Platform","Team","platform-team-inbox","NEW"," ---","ModelSynchronizeParticipant#init() throws PartInitException if not resource mappings are loaded","2014-05-09 17:08:03",,3,"2014-05-09 11:11:11","P3","All","All",0
+388317,"Platform","Team","platform-team-inbox","NEW"," ---","Remote Systems: Password of FTP connection not saved","2014-05-01 15:09:43",,3,"2012-08-29 07:14:23","P3","Windows 7","PC",1
+175693,"Platform","Team","platform-team-inbox","NEW"," ---","[Actions] Convert popup menus to new menu support","2014-04-21 05:28:27","182366, 182368, 397986",15,"2007-02-27 08:39:24","P3","Windows XP","PC",3
+431090,"Platform","Team","platform-team-inbox","NEW"," ---","Ctrl+Shift+T Indexing files very slow","2014-03-25 06:09:36",,1,"2014-03-25 06:08:33","P3","Windows 7","PC",0
+430934,"Platform","Team","platform-team-inbox","NEW"," ---","IMenuService.popuplateContributionManager() does not take 'team.main' menu into account","2014-03-22 12:37:36",,1,"2014-03-22 12:37:23","P3","All","All",0
+430641,"Platform","Team","platform-team-inbox","NEW"," ---","AES192-SHA and AES256-SHA Ciphers","2014-03-18 22:39:48",,3,"2014-03-18 17:03:17","P3","Windows 7","PC",0
+88315,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Synchronize View should provide keyboard shortcuts","2014-03-17 11:56:52",,4,"2005-03-17 07:20:53","P3","Windows XP","PC",0
+429654,"Platform","Team","platform-team-inbox","NEW"," ---","Import Project Set ... has no dialog","2014-03-05 06:33:23",,1,"2014-03-05 06:33:23","P3","Windows Vista","PC",0
+427714,"Platform","Team","platform-team-inbox","NEW"," ---","[proxy] nonProxiedHost should not be cached","2014-02-07 16:36:44",,2,"2014-02-07 16:34:48","P3","Windows 7","PC",0
+427702,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] The 'Overwrite' action is initially disabled on outgoing changes","2014-02-07 13:26:22",,1,"2014-02-07 13:25:25","P3","All","All",0
+257443,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] Add a facility to set a custom proxy provider","2014-02-07 04:03:26",,30,"2008-12-03 17:34:58","P3","Windows All","PC",2
+293630,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] IProxyService.select throws NPE if passing URI object with file scheme","2014-02-06 09:08:37",,7,"2009-10-28 22:16:58","P3","All","PC",0
+425967,"Platform","Team","platform-team-inbox","NEW"," ---","[History View] Should restore content after workbench restart","2014-01-17 05:20:02",,1,"2014-01-17 05:19:48","P3","All","All",0
+424705,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] PAC URL starting with file:// doesn't work","2013-12-28 07:28:11",,3,"2013-12-27 15:34:04","P3","Windows 7","PC",0
+424392,"Platform","Team","platform-team-inbox","NEW"," ---","RCP Common Navigator Configuring The Insertion Points The Menu Supports","2013-12-20 14:08:21",,4,"2013-12-18 17:55:29","P3","Windows XP","PC",0
+424300,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in CompositeModelProvider","2013-12-18 03:23:54",,1,"2013-12-18 03:23:54","P3","All","PC",0
+423036,"Platform","Team","platform-team-inbox","NEW"," ---","Unhelpful progress for Import Team Project Set","2013-12-03 09:22:15",,1,"2013-12-03 09:22:15","P3","Windows Vista","PC",0
+333437,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","PSF export of closed project: project cannot be imported and is not added to working set","2013-11-29 11:17:32",,8,"2011-01-03 14:32:33","P3","Windows 7","PC",0
+351817,"Platform","Team","platform-team-inbox","NEW"," ---","Allow source reference header mapping provider","2013-11-27 20:40:58","327381, 345670",11,"2011-07-12 07:06:35","P5","Linux","PC",0
+422372,"Platform","Team","platform-team-inbox","NEW"," ---","Replace ""Apply Patch..."" with ""Apply/Revert Patch...""","2013-11-25 05:09:17",,2,"2013-11-22 16:07:56","P3","All","All",0
+397986,"Platform","Team","platform-team-inbox","NEW"," ---","Convert Team popupMenus contributions to org.eclipse.ui.menus contributions","2013-11-17 11:08:08",405237,2,"2013-01-11 10:48:32","P3","Windows 7","PC",0
+421599,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in org.eclipse.team.internal.ui.TeamCapabilityHelper.loadRepositoryProviderIds","2013-11-13 05:12:51",,1,"2013-11-13 05:12:51","P3","Windows Vista","PC",0
+153031,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Team:Ignored Resources Preference also as project specific setting","2013-10-29 14:55:24",,4,"2006-08-08 01:36:00","P5","Windows XP","PC",1
+301159,"Platform","Team","platform-team-inbox","NEW"," ---","Recursive activation problem in History view","2013-10-29 10:57:37",,3,"2010-01-28 12:17:02","P3","Windows XP","PC",0
+322877,"Platform","Team","platform-team-inbox","NEW"," ---","History View should implement a selection provider","2013-10-18 17:16:36",,1,"2010-08-17 04:15:13","P3","Windows 7","PC",1
+292138,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","GenericHistoryView.showHistoryPageFor is called recursively","2013-09-27 09:37:02",,13,"2009-10-13 08:06:21","P3","Windows Vista","PC",1
+42627,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Contributions] Actions not shown in UI when registered with the global action handler","2013-09-25 07:29:18",,12,"2003-09-05 13:37:34","P5","Windows XP","PC",0
+385782,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse Junto on Linux behind a Squid Proxy can't connect on Marketplace","2013-09-10 05:28:29",,5,"2012-07-23 16:03:37","P3","Linux","PC",0
+416684,"Platform","Team","platform-team-inbox","NEW"," ---","Removing outgoing change breaks the ""Next difference"" function","2013-09-07 12:58:17",,2,"2013-09-06 03:10:48","P3","Windows 7","PC",0
+416561,"Platform","Team","platform-team-inbox","NEW"," ---","""TeamException: Could not instantiate provider"" after uninstalling provider","2013-09-04 14:12:02",,1,"2013-09-04 14:12:02","P3","Linux","PC",0
+414568,"Platform","Team","platform-team-inbox","NEW"," ---","Add 'Compare With...' functions to editor tab's right click menu","2013-08-07 07:24:34",,2,"2013-08-07 07:20:22","P3","All","All",0
+357935,"Platform","Team","platform-team-inbox","NEW"," ---","List of recent synchronizations should not drop unpinned synchronizations until Eclipse restart [similar to Search View]","2013-07-01 12:18:46",,6,"2011-09-16 08:33:59","P3","All","PC",0
+411489,"Platform","Team","platform-team-inbox","NEW"," ---","project resource filter conflicts with team synchronisation (CVS)","2013-06-24 09:11:13",,1,"2013-06-24 09:10:54","P3","Windows 7","PC",0
+410708,"Platform","Team","platform-team-inbox","NEW"," ---","Proxy for HTTPSnative and SOCKS native not supported with WPAD configuration","2013-06-14 08:41:23",,2,"2013-06-13 08:01:37","P3","Windows 7","PC",0
+410746,"Platform","Team","platform-team-inbox","NEW"," ---","Reassigning more than two files/folders to an existing Change Set in the Synchronize view causes Exception, leaving the view in an unusable state","2013-06-13 12:09:27",,1,"2013-06-13 12:04:07","P3","Windows 7","PC",0
+407987,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize view takes forever to show changes when there are many (~8000) changed files","2013-05-14 05:19:14",,1,"2013-05-14 05:19:14","P3","All","All",0
+407670,"Platform","Team","platform-team-inbox","NEW"," ---","[Proxy] Use system values for proxy settings","2013-05-11 00:07:10",,5,"2013-05-09 12:32:49","P3","Windows 7","PC",0
+403868,"Platform","Team","platform-team-inbox","NEW"," ---","[OS][430]Hot keys has conflicted in preference->team tab","2013-05-08 13:27:51",,3,"2013-03-20 04:52:52","P3","Windows 7","PC",0
+383556,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Allow to not show History view when using 'Show Annotations'","2013-05-06 02:51:58",,4,"2012-06-26 10:00:40","P5","All","All",1
+406894,"Platform","Team","platform-team-inbox","NEW"," ---","Show In > History view has no effect with multi-selection","2013-04-30 13:35:58",,2,"2013-04-30 07:16:38","P3","All","All",0
+256964,"Platform","Team","platform-team-inbox","NEW"," ---","ISynchronizeModelElement mentions subclassing but it's an interface","2013-04-19 04:06:58",,2,"2008-11-29 05:23:55","P3","All","All",0
+403608,"Platform","Team","platform-team-inbox","NEW"," ---","unable to copy/paste in team -> show history (svn)","2013-03-27 03:29:59",,1,"2013-03-18 06:15:23","P3","Windows 7","PC",0
+310105,"Platform","Team","platform-team-inbox","NEW"," ---","TeamUI ignores PartInitExceptions","2013-03-26 13:00:06",,2,"2010-04-22 08:23:54","P3","All","All",0
+403502,"Platform","Team","platform-team-inbox","NEW"," ---","Handle proxy authentication","2013-03-15 13:55:11",,2,"2013-03-15 13:05:50","P3","All","All",0
+336112,"Platform","Team","platform-team-inbox","NEW"," ---","[request] Allow 'Create Patch' from 'Commit' dialog.","2013-03-05 09:41:29",,6,"2011-02-02 12:33:10","P3","Windows Vista","PC",0
+402324,"Platform","Team","platform-team-inbox","NEW"," ---","svn synchornize view contains wrong information when package is deleted","2013-03-04 09:12:50",,1,"2013-03-04 09:12:50","P3","Windows 7","PC",0
+224577,"Platform","Team","platform-team-inbox","NEW"," ---","OOME while trying to look at file local revisions","2013-03-04 05:25:18",,20,"2008-03-28 08:28:30","P3","Windows XP","PC",0
+289501,"Platform","Team","platform-team-inbox","NEW"," ---","Bad position of ""Details >>"" button in ""Overwrite Uncommitted Changes"" dialog","2013-03-04 05:18:50",279253,17,"2009-09-15 13:58:14","P3","Windows XP","PC",0
+399848,"Platform","Team","platform-team-inbox","NEW"," ---","NullPointerException while synchronizing patch","2013-02-04 06:15:04",,2,"2013-02-04 06:14:28","P3","All","All",1
+357233,"Platform","Team","platform-team-inbox","NEW"," ---","Substitute user/password at PSF export with wildcard","2013-01-08 06:16:37",,2,"2011-09-09 09:25:55","P3","Linux","PC",0
+360281,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse's Proxy Settings doesn't detect Native config","2012-12-10 09:54:08",,3,"2011-10-07 16:25:56","P3","Linux","PC",0
+391664,"Platform","Team","platform-team-inbox","NEW"," ---","Compare Editor shows wrong diff region links on first open","2012-12-02 12:45:53",,5,"2012-10-11 09:04:19","P3","Linux","PC",0
+141946,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","NPE in CompositeModelProvider.clearProviders","2012-11-14 08:32:19",185126,9,"2006-05-16 04:18:52","P3","Windows XP","PC",0
+393900,"Platform","Team","platform-team-inbox","NEW"," ---","An internal error occurred while connecting to <proxy-server>","2012-11-08 11:24:35",,1,"2012-11-08 11:24:35","P3","Windows 7","PC",0
+372112,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Make API to import SCM URLs a proper API","2012-11-05 10:31:42",365425,1,"2012-02-21 07:50:35","P3","All","All",0
+338097,"Platform","Team","platform-team-inbox","NEW"," ---","core net tests failure on Linux and windows on Hudson (testBug257503)","2012-10-23 12:05:05",,9,"2011-02-24 10:03:02","P3","Windows XP","PC",0
+388341,"Platform","Team","platform-team-inbox","NEW"," ---","SSH2 known_hosts are not deleted","2012-10-18 13:35:46",,4,"2012-08-29 10:14:09","P3","Linux","PC",0
+391014,"Platform","Team","platform-team-inbox","NEW"," ---","Consider removing ""performance"" target from CVS tests","2012-10-03 09:31:18",,1,"2012-10-03 09:31:18","P3","Linux","PC",0
+390547,"Platform","Team","platform-team-inbox","NEW"," ---","QuickDiff deadlock when editor open at startup","2012-09-27 07:21:11",,1,"2012-09-27 07:21:11","P3","Mac OS X","Macintosh",0
+379760,"Platform","Team","platform-team-inbox","NEW"," ---","NullpointerException when selecting ""Remove from View""","2012-08-30 04:23:55",,1,"2012-05-16 17:10:40","P3","Windows XP","PC",0
+259237,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Option to whether to reuse compare editor should be moved to 'Compare' pref page","2012-08-28 08:14:46",,2,"2008-12-18 06:31:56","P5","All","All",0
+292752,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Linking gaps when working with remote files","2012-08-28 08:00:25",,5,"2009-10-20 05:23:20","P3","Windows XP","PC",0
+388195,"Platform","Team","platform-team-inbox","NEW"," ---","History view: link with editor does not work for compare editor on versions","2012-08-28 07:12:06",,2,"2012-08-28 07:05:41","P3","All","All",0
+388151,"Platform","Team","platform-team-inbox","NEW"," ---","Buttons for items on the panel don't close when the close option is chosen","2012-08-27 20:19:59",,1,"2012-08-27 20:19:59","P3","Linux-GTK","PC",0
+387947,"Platform","Team","platform-team-inbox","NEW"," ---","History view changes content when focused","2012-08-24 03:17:38",,1,"2012-08-24 03:17:38","P3","Linux-GTK","PC",0
+386091,"Platform","Team","platform-team-inbox","NEW"," ---","Ctrl+H","2012-07-26 19:52:06",,1,"2012-07-26 19:52:06","P3","Windows 7","PC",0
+318315,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Trouble with proxy authentication with Linux","2012-07-25 13:31:42",,13,"2010-06-29 09:30:35","P3","Linux","PC",1
+318969,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] On Ubuntu-Karmic (at least)  Proxy settings are not working","2012-07-22 12:27:51",,8,"2010-07-06 04:37:39","P3","Linux","PC",2
+385484,"Platform","Team","platform-team-inbox","NEW"," ---","History View, column 'comment' removes tabs","2012-07-19 06:06:13",,1,"2012-07-19 06:06:13","P3","Windows 7","PC",0
+384525,"Platform","Team","platform-team-inbox","NEW"," ---","Replace an entire project or package with local history in one step","2012-07-16 06:31:36",,1,"2012-07-07 14:47:00","P3","Windows 7","PC",2
+383542,"Platform","Team","platform-team-inbox","NEW"," ---","'Create Patch' wizard incorrectly uses absolute file paths on Windows","2012-06-26 08:30:42",,2,"2012-06-26 08:28:37","P3","Linux","PC",0
+190017,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] LocalResourceTypedElement.saveDocument needs to handle deleted file","2012-06-25 05:21:43",,2,"2007-05-30 15:56:16","P3","Windows XP","PC",0
+287062,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] new network connections settings should be more permissive","2012-06-20 10:56:46",,1,"2009-08-19 09:43:30","P3","All","PC",0
+282685,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] Explore tools to simulate corporate LAN environments","2012-06-20 10:55:57",,1,"2009-07-07 10:14:02","P3","Windows XP","PC",0
+169633,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Add 'expand all' toolbar icon to the synchronize view","2012-06-11 15:38:27",,33,"2007-01-04 20:48:13","P3","All","All",2
+204157,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","AbstractTreeViewerAdvisor#navigate(...) doesn't work properly","2012-06-04 06:20:04",,8,"2007-09-20 13:20:59","P3","Windows XP","PC",0
+298041,"Platform","Team","platform-team-inbox","NEW"," ---","Importing non existing tag should warn the user","2012-05-28 09:19:53",,3,"2009-12-17 03:49:36","P3","Mac OS X - Carbon (unsup.)","PC",0
+377863,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","A team compare test hangs the unit tests with user prompt","2012-05-16 08:13:24",,3,"2012-04-27 03:08:18","P3","Linux","PC",0
+378558,"Platform","Team","platform-team-inbox","NEW"," ---","unable to connect to cvs","2012-05-15 04:15:18",,4,"2012-05-04 17:30:06","P3","All","PC",0
+312590,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in GenericHistoryView$8.run(GenericHistoryView.java:944)","2012-05-10 14:05:14",,2,"2010-05-12 07:50:44","P3","Windows XP","PC",0
+367663,"Platform","Team","tomasz.zarna","NEW"," ---","Call PageBookView#doDestroyPage(...) to dispose page and pageRec","2012-05-02 10:22:18",361153,3,"2011-12-30 12:30:15","P3","All","All",0
+342120,"Platform","Team","platform-team-inbox","NEW"," ---","Unable to start Eclipse: BundleException on startup (error while loading IProxyService)","2012-04-25 13:59:52",,10,"2011-04-07 05:02:42","P3","Linux","PC",0
+241211,"Platform","Team","daniel_megert","ASSIGNED"," ---","Show author, date and comment next in compare editors","2012-03-27 08:36:41",57468,8,"2008-07-17 05:20:25","P5","All","All",0
+374931,"Platform","Team","platform-team-inbox","NEW"," ---","Merge operation in IMergeContext do not indicate cancel","2012-03-21 11:30:05",,1,"2012-03-21 11:30:05","P3","All","All",0
+374330,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize view Delete no longer deletes the resource","2012-03-14 19:46:36",,1,"2012-03-14 19:46:36","P3","Windows 7","PC",0
+372710,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","SSH2 dialog which warns about change remote host identification misses host name","2012-03-12 06:23:01",,3,"2012-02-28 04:07:15","P3","Windows 7","PC",0
+373234,"Platform","Team","platform-team-inbox","NEW"," ---","Hotkey Ctrl+Alt+S (Team > Synchronize with Repository) doesn't work","2012-03-05 06:48:43",,1,"2012-03-05 06:48:43","P3","All","PC",0
+372959,"Platform","Team","platform-team-inbox","NEW"," ---","History view does not track compare editor that compares two revisions/versions","2012-03-02 04:16:56",,1,"2012-03-01 06:02:36","P3","Windows 7","PC",0
+370653,"Platform","Team","platform-team-inbox","NEW"," ---","The program 'Eclipse' received an X Window System error.... BadAlloc ... when clicking ""Choose a previously entered comment"" drop-down","2012-02-06 10:51:43",,6,"2012-02-05 07:55:14","P3","Linux","Other",0
+368516,"Platform","Team","platform-team-inbox","NEW"," ---","Malformed reply from SOCKS server","2012-01-24 06:47:56",,9,"2012-01-13 03:59:07","P3","Windows 7","PC",0
+364143,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Filters for synchronizations are not persisted thus restored on restart","2011-12-09 07:24:59",352016,1,"2011-11-18 07:35:27","P3","Windows XP","PC",0
+365189,"Platform","Team","platform-team-inbox","NEW"," ---","MergeIncomingChangesAction allows not to overwrite/register handler for logical models","2011-12-01 04:53:29",,1,"2011-11-30 08:28:00","P3","All","All",0
+314305,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Once a proxy is defined it is always used despite user choosing otherwise","2011-11-29 15:28:58",,3,"2010-05-25 12:33:13","P3","Windows XP","PC",0
+359549,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync view][Apply patch] No changes found when applying patch with a conflict from clipboard in synchronize view","2011-11-28 06:42:40",,4,"2011-09-30 06:50:12","P3","Windows 7","PC",0
+362348,"Platform","Team","platform-team-inbox","NEW"," ---","Out of memory parsing a large binary file to check if it is a patch file","2011-11-02 09:50:31",,4,"2011-10-28 13:39:56","P3","Windows 7","PC",0
+362444,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Wrap participant disposal in a safe runnable","2011-11-02 05:02:55",,1,"2011-10-30 19:21:52","P3","All","All",0
+311056,"Platform","Team","platform-cvs-inbox","NEW"," ---","CVS: ""Compare With / Another Branch or Version... / BASE"" unnecessarily calculates the remote changes","2011-10-28 07:25:32",,10,"2010-04-29 12:24:22","P3","All","All",1
+362059,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Provide public API to manage ssh private keys","2011-10-27 06:54:08",,1,"2011-10-26 08:36:40","P3","All","PC",0
+361790,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[changeset] Auto-Save for Team ChangeSets","2011-10-25 04:32:43",,4,"2011-10-24 05:59:57","P3","Windows 7","PC",2
+336113,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Commit dialog is missing 'Compare' menu item in file view","2011-10-24 11:18:51",,1,"2011-02-02 12:37:54","P4","Windows Vista","PC",0
+276037,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Make FileRevisionEditorInput a lightweight object","2011-10-24 07:11:27",,1,"2009-05-13 04:24:26","P3","All","All",0
+324185,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Linking enabled and Double-click mode:  Single-click in should bring editor to front","2011-10-24 07:10:14",276037,1,"2010-09-01 08:41:09","P3","All","All",0
+89806,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Add a 'Team' quick diff that delegates to team provider's implementation","2011-10-11 08:21:07",46090,29,"2005-03-31 06:07:35","P5","All","All",2
+358133,"Platform","Team","platform-team-inbox","NEW"," ---","[eclipse-build] gnomeproxy uses hard-coded include directories","2011-09-29 07:59:06",,4,"2011-09-19 12:09:47","P3","Linux","PC",0
+146917,"Platform","Team","platform-team-inbox","REOPENED"," ---","[Sync View] Allow to mix multiple team providers within single synchronization","2011-09-26 09:49:36",37705,20,"2006-06-13 16:43:09","P3","Windows XP","PC",1
+308637,"Platform","Team","platform-team-inbox","NEW"," ---","Invoking Replace With > Latest from in compare editor results in a warning dialog","2011-09-23 01:50:32",,4,"2010-04-09 09:13:55","P3","Windows XP","PC",0
+358417,"Platform","Team","platform-team-inbox","NEW"," ---","Allow to assign custom label to a synchronization","2011-09-21 10:40:11",,2,"2011-09-21 09:51:08","P3","All","All",0
+337552,"Platform","Team","platform-team-inbox","NEW"," ---","[proxy] localhost hostname should be added to proxy exception list","2011-09-05 05:55:47",,5,"2011-02-18 06:18:07","P3","Windows XP","PC",0
+212111,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Local History Get Contents erases file contents","2011-08-30 05:49:15",,10,"2007-12-06 01:16:43","P3","Windows XP","PC",1
+354920,"Platform","Team","platform-team-inbox","NEW"," ---","CompareRevisionAction does not make use of ModelProviders","2011-08-17 06:41:50",,3,"2011-08-17 05:11:46","P3","Windows 7","PC",0
+348165,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Use pkg-config to find include files and libraries for libgnomeproxy","2011-08-12 08:09:30",,2,"2011-06-03 02:22:08","P3","Linux","PC",0
+335957,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","""Device is disposed"" error inside org.eclipse.team.internal.ui.mapping.DiffTreeChangesSection","2011-08-03 06:24:07",,4,"2011-02-01 09:10:43","P3","Windows 7","PC",0
+352839,"Platform","Team","platform-team-inbox","NEW"," ---","""Preference node ""org.eclipse.core.net"" has been removed. "" during preference import","2011-07-27 16:42:01",,2,"2011-07-22 05:02:31","P3","Windows XP","PC",0
+349677,"Platform","Team","platform-team-inbox","NEW"," ---","Sometimes Eclipse asks for internet proxy credentials even if it is already set in global config","2011-07-27 10:31:31",,2,"2011-06-17 08:26:35","P3","Linux","PC",0
+352144,"Platform","Team","platform-team-inbox","NEW"," ---","NPE while closing compare editor","2011-07-24 12:59:32",,3,"2011-07-14 13:25:46","P3","Linux","PC",0
+318983,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Native settings should not allow for values to be entered","2011-07-14 04:11:17",,3,"2010-07-06 05:28:14","P3","Windows 7","PC",0
+325905,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Proxy problem requested a separate bug from 318969","2011-07-13 10:00:30",,6,"2010-09-21 16:47:24","P3","Linux","PC",0
+351397,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Proxy settings are not used in manual mode","2011-07-13 09:44:17",,1,"2011-07-07 04:23:50","P3","Windows XP","PC",1
+349000,"Platform","Team","platform-team-inbox","NEW"," ---","Network Connections Dialog: Proxy bypass: offer enable/disable hosts","2011-06-10 05:48:37",,3,"2011-06-10 05:11:46","P3","All","All",1
+349001,"Platform","Team","platform-team-inbox","NEW"," ---","Network Connections Dialog: Proxy bypass: offer bypass in ""Native"" and ""Direct"" Active Provider mode","2011-06-10 05:48:04",,2,"2011-06-10 05:19:05","P3","All","All",1
+348998,"Platform","Team","platform-team-inbox","NEW"," ---","Network Connections Dialog:checkboxes make not much sense (usability)","2011-06-10 05:46:27",,4,"2011-06-10 04:59:59","P3","All","All",1
+343635,"Platform","Team","platform-team-inbox","NEW"," ---","DBCS3.7 The width of ""Deselect All"" button for Team export needs more space","2011-06-10 00:43:01",,3,"2011-04-22 03:33:56","P3","All","PC",0
+347488,"Platform","Team","platform-team-inbox","NEW"," ---","Provide additional ""branch"" attribute in Eclipse-SourceReferences","2011-05-30 09:20:40",,1,"2011-05-27 13:25:56","P3","Linux","PC",0
+306630,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Confusing UI behaviour of ""Network Connections"" prefs page","2011-05-09 18:46:48",,3,"2010-03-21 06:33:46","P3","Windows XP","PC",3
+344485,"Platform","Team","platform-team-inbox","NEW"," ---","Import Projects from Repository: Locations mapping dialog not always shown","2011-05-03 06:23:44",,3,"2011-05-02 12:20:43","P3","All","All",0
+220917,"Platform","Team","platform-team-inbox","REOPENED"," ---","[SynchView] ""Remove from view"" does not apparently remove the item from the tree in the Synchronize View","2011-04-26 12:49:11",,7,"2008-02-29 06:45:56","P3","Windows 2000","PC",0
+343446,"Platform","Team","platform-team-inbox","NEW"," ---","Integrate with NetworkManager","2011-04-21 10:47:30",,4,"2011-04-20 14:05:39","P3","Linux","PC",0
+343235,"Platform","Team","platform-team-inbox","NEW"," ---","[perf test] testBigWorkflowNoUI fails on Linux","2011-04-19 03:31:26",,1,"2011-04-19 03:31:26","P3","Linux","PC",0
+328249,"Platform","Team","platform-team-inbox","NEW"," ---","Open Related Help broken for ""View the workspace"" in ""Check out a CVS Project"" Cheat sheet","2011-04-18 15:36:28",,5,"2010-10-20 10:37:09","P3","Windows XP","PC",0
+340870,"Platform","Team","platform-team-inbox","NEW"," ---","SynchronizeView should notify listeners when the active participant changes.","2011-03-24 11:08:54",,1,"2011-03-24 11:08:54","P3","Windows XP","PC",0
+333513,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Create Patch wizard thinks every line has changed even though only one has.","2011-03-21 16:18:58",,4,"2011-01-04 16:07:24","P3","Windows XP","PC",0
+300656,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Direction indicator vanishes after merge","2011-03-21 10:46:57",,5,"2010-01-25 06:53:47","P3","Windows XP","PC",0
+301432,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Patched project receives 'unmatched' decoration after merge","2011-03-21 10:46:06",,6,"2010-02-01 11:35:54","P3","Windows XP","PC",0
+338541,"Platform","Team","platform-team-inbox","NEW"," ---","NPE inside diff","2011-03-01 09:59:00",,1,"2011-03-01 09:59:00","P3","Windows 7","PC",0
+338360,"Platform","Team","platform-team-inbox","NEW"," ---","incorrect org.eclipse.core.net/natives/unix/linux/makefile","2011-02-28 12:01:48",,1,"2011-02-27 19:50:03","P3","Linux","PC",0
+337301,"Platform","Team","platform-team-inbox","NEW"," ---","Apply Patch in Synchronize view does not create .rej files","2011-02-16 06:30:40",,1,"2011-02-16 06:30:40","P3","Windows 7","PC",0
+336507,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync view] Cannot open plugin.xml in Compare Editor when MANIFEST.MF is opened","2011-02-07 09:09:34",,1,"2011-02-07 09:09:34","P3","Windows XP","PC",0
+325325,"Platform","Team","platform-team-inbox","NEW"," ---","Apply Patch in Synchronize view does not show unmatched hunks","2011-02-02 06:25:56",,4,"2010-09-15 06:03:55","P3","Windows 7","PC",1
+335984,"Platform","Team","platform-team-inbox","NEW"," ---","""Replace with"" is the same as ""Switch to""","2011-02-01 12:21:15",,1,"2011-02-01 11:21:07","P3","Windows XP","PC",0
+210727,"Platform","Team","platform-team-inbox","NEW"," ---","OutOfMemoryError while refreshing branches in CVS repositories view","2011-01-31 13:01:19",,10,"2007-11-23 04:27:50","P3","Windows XP","PC",0
+329434,"Platform","Team","platform-team-inbox","NEW"," ---","[Team Synchronize] Selecting in Synchronize view extremely slow","2011-01-31 12:13:52",177309,16,"2010-11-04 09:19:13","P3","All","PC",0
+334810,"Platform","Team","platform-team-inbox","NEW"," ---","Inconsistent enablement for Share Project... menu item with multi-selection","2011-01-20 05:36:55",,3,"2011-01-19 11:37:28","P3","Windows 7","PC",0
+334239,"Platform","Team","platform-team-inbox","NEW"," ---","Proxy is used although it isn't available","2011-01-13 06:19:25",,1,"2011-01-13 05:49:07","P3","Linux","PC",0
+323114,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] NPE when hostname part of a URL contains underscore and using a proxy","2010-12-22 08:18:02",,8,"2010-08-19 05:20:14","P3","Windows Vista","PC",0
+303177,"Platform","Team","platform-team-inbox","NEW"," ---","BIDI3.6: Dates in CVS Dialog ""Compare with Branch or Version"" are not displayed correctly","2010-12-22 06:16:27",183164,14,"2010-02-18 08:19:57","P3","Windows XP","PC",0
+331152,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Reload secure storage when login failed","2010-12-15 11:11:59",,1,"2010-11-25 14:42:35","P3","Windows 7","PC",0
+331793,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Search][File] Need option to search only shared files (i.e. stored in SVN, git, etc)","2010-12-13 12:13:00",,6,"2010-12-03 12:57:39","P3","All","All",0
+331184,"Platform","Team","platform-team-inbox","NEW"," ---","Defining SOCKS proxy, you can not use HTTP proxy directly","2010-12-03 16:32:01",,1,"2010-11-26 04:49:38","P3","Windows XP","PC",0
+331755,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Native Gnome proxy provider doesn't use bypass host names","2010-12-03 06:59:08",,4,"2010-12-03 05:07:21","P3","Linux","PC",0
+331342,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] PAC with lower case protocol names does not work","2010-11-29 09:12:29",,2,"2010-11-29 09:08:04","P3","Windows XP","PC",0
+321214,"Platform","Team","platform-team-inbox","NEW"," ---","Outgoing Change Sets don't contain the same files after Populate is run","2010-11-23 04:16:05",,4,"2010-07-29 07:07:55","P3","Windows 7","PC",0
+172025,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] API for importing a project team set","2010-11-22 11:26:02",,2,"2007-01-29 11:33:41","P3","All","PC",2
+247992,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] IProxyChangeEvent Inconsistent","2010-11-22 07:13:52","330788, 330789",8,"2008-09-19 12:05:26","P3","Windows XP","PC",0
+330789,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] IProxyChangeEvent generated even if there was not any change in manual settings","2010-11-22 07:13:52",,2,"2010-11-22 06:55:28","P3","Windows XP","PC",0
+330788,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Event types are not related to performed actions","2010-11-22 07:13:25",,2,"2010-11-22 06:43:19","P3","Windows XP","PC",0
+279472,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Eclipse forces saving proxy password","2010-11-22 07:04:42",,2,"2009-06-08 10:15:15","P3","Linux","PC",1
+315750,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] wrongly enabled 'Next >' button after pasting patch","2010-11-22 06:16:16",,2,"2010-06-04 07:26:21","P3","Windows XP","PC",0
+299020,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Check Button for Edit Proxy Entry","2010-11-19 07:21:14",,10,"2010-01-07 05:00:16","P3","Windows XP","PC",0
+328873,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Need enhanced pattern support for ignoring resources","2010-11-18 18:05:42",,5,"2010-10-27 14:16:47","P3","Linux","PC",1
+328735,"Platform","Team","platform-team-inbox","NEW"," ---","Team Synchronize perspective cannot be configured to ignore files with only whitespace differences","2010-10-26 12:01:58",,1,"2010-10-26 12:01:58","P3","Windows XP","PC",0
+283036,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Nonfunctional button 'restore defaults' button in Network Settings gui","2010-10-18 06:54:24",,6,"2009-07-09 11:20:29","P3","Windows XP","PC",0
+311389,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] NPE when using proxy definitions without host","2010-10-06 06:38:07",,5,"2010-05-03 12:00:39","P3","Windows Vista","PC",1
+325177,"Platform","Team","platform-team-inbox","NEW"," ---","NPE due to null host name in tryGetURI() [ProxyManager.java:330]","2010-09-21 11:19:36",,1,"2010-09-13 19:06:23","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+325483,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Inconsistent behavior of IProxyService for different providers","2010-09-21 10:27:57",,1,"2010-09-16 11:34:25","P3","Windows XP","PC",1
+324572,"Platform","Team","platform-team-inbox","NEW"," ---","Allow only modified files to be exported","2010-09-08 10:53:02",,3,"2010-09-06 08:16:05","P3","All","All",0
+324386,"Platform","Team","platform-team-inbox","NEW"," ---","Generic History View: ""description"" property is never rendered","2010-09-06 04:33:23",,3,"2010-09-03 05:41:09","P3","All","All",0
+116084,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Make ChangeSetProvider and friends API","2010-08-31 12:14:54",,8,"2005-11-11 17:04:08","P5","All","All",8
+323801,"Platform","Team","platform-team-inbox","NEW"," ---","Help user fixing problems in incoming changes","2010-08-27 06:19:35",,1,"2010-08-27 06:19:35","P3","Windows XP","PC",0
+323509,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","""Local File 0"" shown in compare editor","2010-08-25 05:26:13",,1,"2010-08-24 11:18:49","P4","Windows XP","PC",0
+299139,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Authenticated proxy does not work","2010-08-24 04:22:34",,8,"2010-01-08 11:02:36","P3","Windows XP","PC",0
+307984,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","IResourceVariant's getStorage(IProgressMonitor) has no javadocs for @throws TeamException","2010-08-23 09:29:48",,3,"2010-04-02 07:50:35","P3","All","All",0
+321889,"Platform","Team","platform-team-inbox","NEW"," ---","when attempting to synchronize against cvs i sometimes get multiple nullPointerExceptions in the log","2010-08-23 06:19:23",,2,"2010-08-05 11:06:17","P3","Windows XP","PC",0
+256972,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Participant extension should require an icon or handle nulls properly","2010-08-20 13:54:25",,6,"2008-11-29 09:08:26","P3","All","All",0
+323144,"Platform","Team","platform-team-inbox","NEW"," ---","[Examples] Exceptions when sync'ing Model Project with incoming addition","2010-08-19 09:59:32",,4,"2010-08-19 09:51:36","P3","Windows XP","PC",0
+316466,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] JVM Crash when using core.net IProxyService and Swing Frame on Windows Vista and 7","2010-08-18 04:54:54",,37,"2010-06-10 10:11:14","P3","Windows Vista","PC",6
+322476,"Platform","Team","platform-team-inbox","NEW"," ---","User defined Ignored resources are not ignored after you reopen project","2010-08-12 04:28:37",,1,"2010-08-12 04:28:37","P3","Windows Vista","PC",0
+173607,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Net] Utils for responsive network I/O should be pushed down","2010-08-07 12:00:42",,4,"2007-02-09 04:06:01","P5","All","All",0
+245852,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] [Tests] JUnits for proxy support on GNOME missing","2010-08-07 12:00:24",,1,"2008-09-01 06:13:56","P3","Linux","PC",0
+277440,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Enable proxy support for GNOME","2010-08-07 12:00:03",,3,"2009-05-22 06:42:30","P3","Linux-GTK","PC",0
+294420,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Support for CIDR notation in proxy bypass","2010-08-07 11:59:23",,2,"2009-11-06 02:07:53","P3","Linux","PC",2
+299465,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Eclipse Platform 3.5.1 HTTP proxy authentication is not working","2010-08-07 11:59:11",,3,"2010-01-13 03:19:16","P3","Windows XP","PC",0
+312224,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Provide a way to specify proxy settings per connection","2010-08-07 11:59:02",318173,1,"2010-05-10 05:10:55","P3","All","All",0
+314955,"Platform","Team","platform-team-inbox","NEW"," ---","[Net] Accessing native proxy settings on Win7 is extremely slow","2010-08-07 11:58:51",,5,"2010-05-28 16:27:11","P3","Windows 7","PC",0
+321216,"Platform","Team","platform-team-inbox","NEW"," ---","[Proxy] Usability of proxy preference page - unclear dependency between settings","2010-08-07 11:46:05",,1,"2010-07-29 07:56:45","P3","Linux","Other",0
+322036,"Platform","Team","platform-team-inbox","NEW"," ---","Restore Defaults on Preferences->General->Network Connection doesn't work","2010-08-06 18:58:20",,1,"2010-08-06 18:53:02","P3","Linux","PC",0
+321576,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Synchronize view: 'Copy' disabled on multi-selection","2010-08-03 07:16:38",,2,"2010-08-03 06:59:17","P3","All","All",0
+321036,"Platform","Team","platform-team-inbox","NEW"," ---","Find/Replace forgets search scope after focus change/dialog deactivation","2010-07-29 04:43:04",,3,"2010-07-27 11:27:45","P3","All","PC",0
+321098,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Add Keyboard Shortcuts to Collapse All and Expand All","2010-07-28 04:41:24",,1,"2010-07-28 04:41:24","P3","All","PC",0
+320280,"Platform","Team","platform-team-inbox","NEW"," ---","NPE when viewing local history","2010-07-26 16:16:05",,8,"2010-07-19 11:23:44","P3","Windows XP","PC",0
+43970,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Configure history view columns","2010-07-19 08:39:51",,9,"2003-10-01 04:46:03","P4","Windows XP","PC",0
+318649,"Platform","Team","platform-team-inbox","NEW"," ---","Create patch should support viewing a patch without saving","2010-07-15 13:32:22",,5,"2010-07-01 18:04:59","P3","Windows Vista","PC",0
+254683,"Platform","Team","platform-cvs-inbox","NEW"," ---","Refresh issue in the synchronize view","2010-07-15 05:34:58",,4,"2008-11-08 15:49:38","P3","Mac OS X - Carbon (unsup.)","PC",0
+280260,"Platform","Team","platform-team-inbox","NEW"," ---","Updating from zipped repo fails with errors","2010-07-13 06:32:20",,2,"2009-06-15 07:45:52","P3","Linux","PC",0
+277375,"Platform","Team","platform-team-inbox","NEW"," ---","NPE shutting down with compare editor open","2010-07-13 06:32:04",,37,"2009-05-21 15:01:55","P3","Windows XP","PC",0
+258406,"Platform","Team","platform-team-inbox","NEW"," ---","AssertionFailedException (null argument) caused by SynchronizeModelUpdateHandler.doAdd","2010-07-09 21:50:04",,4,"2008-12-11 04:17:47","P3","Windows XP","PC",0
+248225,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Update in the synchronize view seems to iterate over all projects","2010-07-01 07:30:50",,5,"2008-09-22 21:16:17","P3","Mac OS X - Carbon (unsup.)","PC",0
+289740,"Platform","Team","platform-team-inbox","NEW"," ---","Pessimistic example is not aware of IWorkspace.VALIDATE_PROMPT","2010-06-07 14:16:58",,2,"2009-09-17 09:56:27","P3","Windows XP","PC",0
+313389,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Applying a patch on resources out of sync throws an Internal error","2010-05-27 08:56:28",,2,"2010-05-18 12:23:01","P3","Windows XP","PC",0
+314072,"Platform","Team","platform-team-inbox","NEW"," ---","Acquiring EclipseSynchronizer lock can cause RuntimeException logged from ColumnViewer","2010-05-24 04:49:13",,1,"2010-05-24 04:49:13","P3","Linux-GTK","PC",0
+304806,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Applying a patch affecting only closed projects renders synchronization useless","2010-05-18 09:20:08",,4,"2010-03-05 07:52:28","P3","Windows XP","PC",0
+313330,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Applying a non workspace patch makes hunks absent in Patch Contents model","2010-05-18 07:56:18",,1,"2010-05-18 07:56:00","P3","Windows XP","PC",0
+311701,"Platform","Team","platform-team-inbox","NEW"," ---","Service for returning valid proxied connections","2010-05-05 07:29:15",,2,"2010-05-05 07:19:42","P3","All","PC",0
+310656,"Platform","Team","platform-team-inbox","NEW"," ---","Using pseudo translation packages shows the synchronize view with no icons","2010-04-27 11:56:18",,1,"2010-04-27 11:50:19","P3","Windows XP","PC",0
+309298,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Executing third party code in RefreshParticipantJob results in rules conflict","2010-04-15 08:30:40",,1,"2010-04-15 08:30:40","P3","Windows XP","PC",0
+303901,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Internal error when replacing a file when sync'ing with a patch","2010-04-15 08:27:04",,2,"2010-02-25 09:03:24","P3","Windows XP","PC",0
+308811,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Remove from view disabled in ""Patch Contents"" model","2010-04-12 05:57:17",,1,"2010-04-12 05:57:17","P3","Windows XP","PC",0
+107371,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Want to specify target directory for project set import","2010-04-12 03:44:41",,8,"2005-08-18 16:15:15","P5","All","PC",2
+271445,"Platform","Team","platform-team-inbox","NEW"," ---","SVN Synch. view lists deleted projects","2010-04-08 07:08:28",,2,"2009-04-07 08:23:08","P3","Windows XP","PC",0
+308434,"Platform","Team","platform-team-inbox","NEW"," ---","[Team UI] List of pinned synchronisations should be sorted by name","2010-04-08 05:36:29",,1,"2010-04-08 01:21:12","P3","Windows XP","PC",0
+308004,"Platform","Team","platform-team-inbox","NEW"," ---","ResourceVariantByteStore's equals(byte[], byte[]) could be simplified","2010-04-02 12:54:28",,1,"2010-04-02 12:54:28","P3","All","All",0
+307449,"Platform","Team","platform-team-inbox","NEW"," ---","Create Patch should use .patch file extension by default","2010-03-30 04:13:29",,4,"2010-03-29 16:53:12","P3","All","All",0
+307262,"Platform","Team","platform-team-inbox","NEW"," ---","Editor Warning about Read-Only Files should not have a default response","2010-03-29 09:35:51",,3,"2010-03-26 18:50:53","P3","Windows XP","PC",0
+307377,"Platform","Team","platform-team-inbox","NEW"," ---","Eclipse not responding to OS when asking for team ""User credentials""","2010-03-29 08:21:28",,2,"2010-03-29 07:44:43","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+293453,"Platform","Team","platform-team-inbox","NEW"," ---","Sharing a single project using Quick Access","2010-03-16 04:35:14",293447,9,"2009-10-27 11:10:42","P3","All","All",0
+300345,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Polishing Apply Patch in Sync View","2010-03-10 08:41:33","297470, 300346, 300347, 300349, 300350, 300656, 301243, 301432, 305316",2,"2010-01-21 07:10:12","P3","Windows XP","PC",0
+297055,"Platform","Team","tomasz.zarna","NEW"," ---","[Sync View] Fix all ""Link with Editor"" bugs","2010-03-09 11:03:51","291213, 292752, 295356, 296262",2,"2009-12-07 05:42:24","P3","Windows XP","PC",0
+300349,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Apply Patch] Use the same conflict/unmatched decorator in all models","2010-03-09 08:15:24",,1,"2010-01-21 07:29:03","P3","Windows XP","PC",0
+302743,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Java Structure Compare for hunks is hardly useful","2010-03-09 05:58:47",,2,"2010-02-12 13:01:47","P3","Windows XP","PC",0
+300214,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] 'Merge' and 'Mark as merged' individual hunks","2010-03-09 05:57:25",,2,"2010-01-20 11:43:14","P3","Windows XP","PC",0
+301008,"Platform","Team","platform-team-inbox","NEW"," ---","RuntimeException in checkBusy using CommonViewer in ChangeSetContentProvider$2.run","2010-03-08 02:46:30",,2,"2010-01-27 10:17:26","P3","Windows XP","PC",0
+301793,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Additions disappear from the sync when reopening a project","2010-03-04 10:52:00",,3,"2010-02-04 04:45:58","P3","Windows XP","PC",0
+304659,"Platform","Team","platform-team-inbox","NEW"," ---","[Wizards] Sync wizard gets broken when going back from the Apply Patch sub-wizard","2010-03-04 06:47:19",,2,"2010-03-04 06:40:28","P3","Windows XP","PC",0
+296262,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Linking from editor to Synchronize view does not work with Change Sets","2010-03-02 10:41:45",,3,"2009-11-26 12:03:39","P3","Windows XP","PC",0
+303586,"Platform","Team","platform-team-inbox","NEW"," ---","no ""override and update"" if file already exists","2010-02-23 04:59:13",,4,"2010-02-23 02:08:22","P3","Windows Vista","PC",0
+302453,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View][Apply Patch] Iterating through models button bypass Patch Contents mode","2010-02-10 11:53:26",,3,"2010-02-10 11:24:45","P3","Windows XP","PC",0
+258929,"Platform","Team","platform-team-inbox","NEW"," ---","Update project settings for error/warning generation","2010-02-10 09:05:05",,2,"2008-12-16 08:39:41","P3","Windows XP","PC",0
+301509,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Finish in Apply Patch wizard does not report errors","2010-02-02 05:16:21",,1,"2010-02-02 04:28:13","P3","Windows XP","PC",0
+301499,"Platform","Team","platform-team-inbox","NEW"," ---","""Checkout As"" Wizard is not waiting for new project to be created","2010-02-02 04:55:22",,3,"2010-02-02 03:45:48","P3","Linux","PC",0
+301173,"Platform","Team","platform-team-inbox","NEW"," ---","OutOfMemoryError during: ""Updating Synchronize view for CVS Workspace."".","2010-02-02 03:36:54",,7,"2010-01-28 13:29:30","P3","Linux","PC",0
+299622,"Platform","Team","platform-team-inbox","NEW"," ---","Team should put together more uses of SCM facilities together to prevent cluttering by different implementations","2010-01-30 23:43:34",,1,"2010-01-14 07:23:10","P3","Mac OS X - Carbon (unsup.)","All",0
+287156,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync] Models present the same project in different ways","2010-01-29 08:20:13",,4,"2009-08-20 05:44:13","P3","Windows XP","PC",0
+300944,"Platform","Team","platform-team-inbox","NEW"," ---","Failures opening and using synchronize view","2010-01-29 07:57:07",,5,"2010-01-26 22:24:20","P3","Windows XP","PC",0
+238762,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","REFRESH button in a dialog","2010-01-28 07:49:16",,16,"2008-06-27 06:11:37","P3","All","All",0
+215625,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in JSchSession.getSession(...)","2010-01-27 10:53:57",,12,"2008-01-17 03:21:03","P3","Windows XP","PC",0
+300927,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Error opening external editor on history","2010-01-27 06:22:03",,2,"2010-01-26 17:19:57","P3","Windows XP","PC",0
+300558,"Platform","Team","platform-team-inbox","NEW"," ---","Cannot change user name in password required dialog","2010-01-22 15:55:10",,1,"2010-01-22 15:55:10","P3","Linux","PC",0
+242449,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Add option to Filter based on team status (to view only changed, added files)","2010-01-22 06:29:00",,9,"2008-07-29 14:18:45","P3","Windows XP","PC",0
+298570,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Use correct titles","2010-01-22 05:18:40",,2,"2009-12-28 06:33:45","P3","Windows XP","PC",0
+300013,"Platform","Team","platform-team-inbox","NEW"," ---","default editor for psf opens Photoshop","2010-01-19 04:48:48",,1,"2010-01-18 22:09:02","P3","Mac OS X - Carbon (unsup.)","PC",0
+299540,"Platform","Team","platform-team-inbox","NEW"," ---","Committing when another commit is going on does not open the commit dialog","2010-01-15 06:16:20",,2,"2010-01-13 14:10:37","P3","Mac OS X - Carbon (unsup.)","PC",0
+299543,"Platform","Team","platform-team-inbox","NEW"," ---","Merging should automatically fill in the common base version","2010-01-13 14:14:32",,1,"2010-01-13 14:14:32","P3","Mac OS X - Carbon (unsup.)","PC",0
+299159,"Platform","Team","platform-team-inbox","NEW"," ---","NPE trying to get the local history","2010-01-08 14:47:46",,1,"2010-01-08 14:47:46","P3","Windows XP","PC",0
+293786,"Platform","Team","platform-team-inbox","REOPENED"," ---","Checkbox selection too wide","2010-01-07 11:28:35",,12,"2009-10-30 09:41:20","P3","Linux","PC",0
+291009,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Delete action does not work in the Synchronize view without logical models","2009-12-28 05:40:54",,3,"2009-10-01 04:53:56","P3","Windows XP","PC",0
+298042,"Platform","Team","platform-team-inbox","NEW"," ---","import project from PSF should be in the context menu","2009-12-18 07:02:46",,2,"2009-12-17 03:51:11","P3","Mac OS X - Carbon (unsup.)","PC",0
+173457,"Platform","Team","platform-team-inbox","NEW"," ---","[Actions] Convert Team action set to new menu support","2009-12-16 08:47:53",,10,"2007-02-08 10:15:23","P3","Windows XP","PC",0
+113087,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Import project set should not rely on file","2009-12-15 04:37:46",,2,"2005-10-19 10:17:14","P5","Windows XP","PC",0
+285535,"Platform","Team","platform-team-inbox","NEW"," ---","Allow map files as input for team project set wizard","2009-12-15 04:26:30",,2,"2009-08-04 03:22:58","P3","Windows Vista","PC",0
+138583,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Common Team Repository browser view","2009-12-14 16:42:56",,6,"2006-04-26 05:40:13","P5","All","All",0
+155407,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Import Team Project set UI should provide a list of existing projects","2009-12-14 16:39:35",,3,"2006-08-28 11:36:21","P5","Windows XP","PC",0
+155414,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Add project to existing PSF file by drag/drop","2009-12-14 16:38:49",,2,"2006-08-28 12:02:11","P5","Windows XP","PC",0
+198258,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets][Wizards] Create a wizard for importing Team Project Sets","2009-12-14 16:37:35",159258,4,"2007-07-30 08:54:42","P4","Windows XP","PC",0
+282376,"Platform","Team","platform-team-inbox","NEW"," ---","allow to open "".ssh"" directory (already in the first go)","2009-12-14 16:29:21",,2,"2009-07-03 09:30:18","P3","Linux","PC",0
+281006,"Platform","Team","platform-team-inbox","NEW"," ---","Enhancement request: Generic Team API Commit event","2009-12-13 11:44:08",,1,"2009-06-21 07:25:16","P3","All","All",0
+296925,"Platform","Team","platform-team-inbox","NEW"," ---","How to use PSF files for both committers and public access?","2009-12-04 11:21:30",,3,"2009-12-04 11:01:27","P3","Windows XP","PC",0
+293552,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Link with Editor doesn't work for .html files","2009-11-26 11:58:01",,2,"2009-10-28 06:28:32","P3","Windows XP","PC",0
+277183,"Platform","Team","platform-team-inbox","NEW"," ---","org.eclipse.team.core gets initialized even when there are no open projects","2009-11-24 18:41:42",,3,"2009-05-20 14:20:30","P3","Windows XP","PC",1
+197459,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Native Mercurial (or git or Bazaar) integration","2009-11-17 14:02:36",,2,"2007-07-23 06:26:08","P5","All","All",0
+294426,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Apply Patch] Add search text box to filter for target project and several other options","2009-11-06 10:02:41",227775,5,"2009-11-06 03:43:27","P4","Windows NT","PC",0
+293442,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","CTRL+3 Show History fails with an AIOOBE","2009-10-27 11:09:41",,3,"2009-10-27 10:21:43","P3","Linux","PC",0
+293445,"Platform","Team","platform-team-inbox","NEW"," ---","Progress view shows left-over jobs","2009-10-27 10:26:55",,1,"2009-10-27 10:26:55","P3","Linux","PC",0
+293413,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync view] Show only active change sets when in outgoing mode","2009-10-27 06:02:02",,2,"2009-10-27 05:51:28","P3","Windows XP","PC",0
+292855,"Platform","Team","platform-team-inbox","NEW"," ---","Info on CVS required","2009-10-21 03:11:00",,1,"2009-10-21 02:51:30","P3","Windows XP","PC",0
+291212,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Selecting a node in the sync tree for Change Sets works only if the node has been already shown","2009-10-15 08:13:06",,2,"2009-10-02 11:26:46","P3","Windows XP","PC",0
+291217,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Add ""Link with Editor"" button to Sync view's toolbar","2009-10-02 11:30:30","291016, 291212, 291213, 291214, 291215",1,"2009-10-02 11:30:30","P3","Windows XP","PC",0
+291211,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Implement SynchronizeView.fOpenAndLinkWithEditorHelper#open","2009-10-02 11:26:27",,1,"2009-10-02 11:26:27","P3","Windows XP","PC",0
+71552,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync view] tool bar buttons to remove current and all unpinned synchronizations","2009-10-01 06:45:02",291016,3,"2004-08-06 06:18:00","P3","Windows XP","PC",1
+290231,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Incorrect enablement of the ""Update All"" button","2009-09-28 08:08:46",,2,"2009-09-23 05:48:19","P4","Windows XP","PC",0
+288026,"Platform","Team","platform-team-inbox","NEW"," ---","ArrayIndexOutOfBoundException applying patch","2009-09-14 06:38:21",,2,"2009-08-28 21:19:46","P3","Mac OS X - Carbon (unsup.)","PC",0
+218826,"Platform","Team","platform-team-inbox","NEW"," ---","Cannot get rid of change sets","2009-09-03 10:14:16",,7,"2008-02-13 12:42:30","P3","Windows XP","PC",0
+287553,"Platform","Team","platform-team-inbox","NEW"," ---","in the Preferences->General->Network Connections-> SSH2 dialog the known hosts are not displayed, they are also not stored","2009-08-25 09:23:05",,1,"2009-08-25 09:23:05","P3","Windows XP","PC",0
+273212,"Platform","Team","platform-team-inbox","NEW"," ---","Code changes are reverted when opening diff viewer","2009-08-24 06:22:02",,6,"2009-04-22 05:03:38","P3","Windows XP","PC",0
+287289,"Platform","Team","platform-team-inbox","NEW"," ---","NPE while quitting Eclipse before all compare editors get initialized","2009-08-21 07:00:27",,1,"2009-08-21 07:00:27","P3","Mac OS X","Macintosh",0
+287064,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[SyncView][Doc] Help should describe various models and what do they mean","2009-08-20 04:12:45",,4,"2009-08-19 09:43:50","P3","Windows XP","PC",0
+286795,"Platform","Team","platform-team-inbox","NEW"," ---","Proposal to avoid NPE in IconAndMessageDialog.getSWTImage(..)","2009-08-19 11:25:50",,1,"2009-08-17 08:48:05","P3","Windows XP","PC",0
+285424,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in ResourceDiffTree","2009-08-03 07:12:36",,1,"2009-08-03 07:12:36","P3","Windows XP","PC",0
+285364,"Platform","Team","platform-team-inbox","NEW"," ---","[Team] Add HyperlinkDetector to history view comment display","2009-08-01 13:36:45",,1,"2009-08-01 13:36:45","P3","Windows Vista","PC",0
+283101,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync Info] SyncInfo two-way compare appears to be backwards.","2009-07-17 11:27:01",,2,"2009-07-09 23:49:14","P3","Linux","PC",0
+283576,"Platform","Team","platform-team-inbox","NEW"," ---","Out of Bounds Exception written to log when using synchronize view","2009-07-17 10:35:57",,2,"2009-07-15 12:15:37","P3","Windows XP","PC",0
+214724,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Commands] Conflict for 'org.eclipse.team.ui.synchronizeAll' and 'synchronizeLast'","2009-07-17 05:44:28",,3,"2008-01-09 05:00:16","P3","Windows XP","PC",1
+281716,"Platform","Team","platform-team-inbox","NEW"," ---","Team Synchronize perspective does not refresh","2009-06-26 16:59:32",,1,"2009-06-26 16:59:32","P3","Windows XP","PC",0
+199262,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] NPE when Synchronizing","2009-06-10 14:19:59",,3,"2007-08-08 10:32:37","P3","Windows XP","PC",0
+279735,"Platform","Team","platform-team-inbox","NEW"," ---","CVS Wizard not starting","2009-06-10 09:13:52",,3,"2009-06-09 23:52:06","P3","Windows Vista","PC",0
+278056,"Platform","Team","platform-team-inbox","NEW"," ---","[History] Simplify Replace With > History flow","2009-05-27 10:59:25",,2,"2009-05-27 10:50:22","P3","Windows XP","PC",0
+277117,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View][Preferences] Sync preferences availeble should be sync'ed with pref pages","2009-05-20 07:16:16",,1,"2009-05-20 07:16:16","P3","Windows XP","PC",0
+277110,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Make ""Restore Removed Items"" enable only when an item has been removed","2009-05-20 06:56:33",,1,"2009-05-20 06:56:33","P3","Windows XP","PC",0
+235692,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Apply patch for common ""gendiff"" patch format","2009-05-08 08:21:13",,3,"2008-06-04 16:00:16","P3","All","PC",0
+127808,"Platform","Team","platform-team-inbox","NEW"," ---","[Actions] Team context menu should be available on editors for repository files","2009-05-08 06:11:59",,8,"2006-02-14 12:55:47","P3","Windows XP","PC",0
+259074,"Platform","Team","platform-team-inbox","NEW"," ---","""Apply Patch"" ignore patch segments does not work correctly for new files","2009-05-05 12:34:36",,3,"2008-12-17 04:24:31","P3","Windows XP","PC",0
+248892,"Platform","Team","platform-team-inbox","NEW"," ---","Team subversion support breaks after updating","2009-05-05 10:57:28",,2,"2008-09-29 02:43:24","P3","Windows XP","PC",1
+240701,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Allow for extensibility of CVS checkout repository location page","2009-05-05 10:21:49",,5,"2008-07-14 13:25:00","P3","Linux","PC",0
+274968,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Problems with scheduled synchronizations","2009-05-05 07:55:54",,3,"2009-05-05 07:50:14","P3","Windows XP","PC",0
+198877,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Provide a generic implementation of a team provider disconnection action","2009-05-05 04:40:20",,18,"2007-08-04 17:51:32","P3","Windows XP","PC",0
+274789,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Support sparse checkouts in Team Project Set","2009-05-05 04:32:37",,1,"2009-05-04 04:16:52","P3","Windows XP","PC",0
+274084,"Platform","Team","platform-team-inbox","NEW"," ---","Help doesn't work with 'Apply Patch' for second/third pages","2009-04-28 11:19:58",,1,"2009-04-28 11:19:58","P3","All","All",0
+273231,"Platform","Team","platform-team-inbox","NEW"," ---","[History View] Refreshing revisions should not change user selection","2009-04-22 06:57:44",,1,"2009-04-22 06:57:44","P3","Windows XP","PC",0
+272971,"Platform","Team","platform-team-inbox","NEW"," ---","Review Patch pane in the Apply Patch wizard requires double-click","2009-04-20 15:56:38",,1,"2009-04-20 15:56:38","P3","Windows XP","PC",0
+272694,"Platform","Team","platform-team-inbox","NEW"," ---","Remember selected files opening the ""change branch"" dialog","2009-04-17 09:35:04",,1,"2009-04-17 09:35:04","P3","All","PC",0
+272009,"Platform","Team","platform-team-inbox","NEW"," ---","SWTException attempting to close Apply Patch wizard having Excluded a hunk","2009-04-14 16:31:45",,4,"2009-04-13 08:37:28","P3","Mac OS X - Carbon (unsup.)","PC",0
+271392,"Platform","Team","platform-team-inbox","NEW"," ---","German UI: truncated buttons in Team Project Set dialog box","2009-04-08 08:48:22",,1,"2009-04-06 19:50:29","P3","Windows XP","PC",0
+271153,"Platform","Team","platform-team-inbox","NEW"," ---","Why is FileRevision#getFileRevisionFor(IFile) deprecated","2009-04-03 14:32:11",,3,"2009-04-03 13:02:19","P3","Windows XP","PC",0
+270027,"Platform","Team","platform-team-inbox","NEW"," ---","Local history view should offer an equivalent to ""Compare With->Base From Working copy"" for version-controlled files","2009-03-26 07:53:09",,3,"2009-03-25 16:04:48","P3","Linux-GTK","PC",0
+269514,"Platform","Team","platform-team-inbox","NEW"," ---","DefaultFileModificationValidator.validateEdit(...) retrurns wrong status","2009-03-20 10:00:48",,1,"2009-03-20 10:00:37","P3","All","All",0
+193321,"Platform","Team","platform-team-inbox","NEW"," ---","[Sync View] Migrate Compare with Each Other to the Synchronize view","2009-03-18 07:27:54",193324,4,"2007-06-19 10:34:57","P3","Windows XP","PC",2
+268063,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize View: Sporadic wrong assignment of CVS changes to change sets","2009-03-16 11:11:26",,2,"2009-03-11 04:56:48","P3","Windows XP","PC",0
+268425,"Platform","Team","platform-team-inbox","NEW"," ---","Crash in CVSSSH2ServerConnection","2009-03-12 15:59:20",,1,"2009-03-12 15:59:20","P3","Linux-GTK","PC",0
+268065,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize View: ""Commit"" does commit unselected file(s)","2009-03-11 05:01:59",,1,"2009-03-11 05:01:59","P3","Windows XP","PC",0
+267793,"Platform","Team","platform-team-inbox","NEW"," ---","Bogus tag info for a working set","2009-03-10 05:25:37",,2,"2009-03-10 05:24:33","P3","Windows XP","PC",0
+267373,"Platform","Team","tomasz.zarna","NEW"," ---","[Sync View] After removing all synchronizations help for the last participant is still shown","2009-03-06 09:52:22",,1,"2009-03-06 09:52:22","P3","Windows XP","PC",0
+267079,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","NPE's comparing branch with HEAD","2009-03-05 03:33:18",,5,"2009-03-04 14:07:08","P3","Mac OS X","Macintosh",0
+235311,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History] Need context menu and ""find"" in ""Restore from Repository"" preview","2009-02-26 10:29:41",,1,"2008-06-03 07:58:27","P3","Windows XP","PC",1
+265011,"Platform","Team","platform-team-inbox","NEW"," ---","retrieving FileRevision of compared elements.","2009-02-16 08:40:36",,1,"2009-02-16 08:40:36","P3","Linux","PC",0
+262747,"Platform","Team","platform-team-inbox","NEW"," ---","[compare][CVS repositories] additional folders are created during compare","2009-02-12 06:24:14",,4,"2009-01-28 08:38:33","P3","Windows XP","PC",0
+264081,"Platform","Team","platform-team-inbox","NEW"," ---","make SynchronizeModelAction.getSelectedDiffElements() overrideable","2009-02-08 07:32:49",,1,"2009-02-08 07:32:49","P3","Windows NT","PC",0
+262796,"Platform","Team","platform-team-inbox","NEW"," ---","Show change sets also shows entries for different models","2009-01-28 12:26:10",,1,"2009-01-28 12:26:10","P3","Windows XP","PC",1
+262431,"Platform","Team","platform-team-inbox","NEW"," ---","IFileModificationValidator.validateEdit not called when spelling quick fix performed","2009-01-26 16:00:06",,1,"2009-01-26 16:00:06","P3","All","All",0
+260800,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize view does not find label provider","2009-01-12 21:53:18",,2,"2009-01-12 21:52:47","P3","Mac OS X","PC",0
+260517,"Platform","Team","platform-team-inbox","NEW"," ---","Java model shows workspace model","2009-01-09 04:50:19",,1,"2009-01-09 04:50:19","P3","All","All",0
+259172,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Place under selected module (checkbox) doesn't seem to work anymore","2009-01-07 07:32:14",,1,"2008-12-17 16:29:01","P3","Windows XP","PC",0
+227155,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Support PageSwitcher commands","2008-12-11 11:09:40",,4,"2008-04-15 11:46:44","P3","Windows XP","PC",0
+258296,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Change indicators remain unexpectedly","2008-12-10 10:10:29",,1,"2008-12-10 10:07:03","P3","Windows XP","PC",0
+257914,"Platform","Team","platform-team-inbox","NEW"," ---","[sync] Deleted temp folder still showing up as outgoing changes","2008-12-08 07:45:28",,2,"2008-12-08 07:44:25","P3","Windows XP","PC",0
+257061,"Platform","Team","platform-team-inbox","NEW"," ---","synchronizeWizards extension point gives the impression that the wizard must implement IConfigurationWizard","2008-12-01 07:19:47",,1,"2008-12-01 07:19:47","P3","Windows XP","PC",0
+256961,"Platform","Team","platform-team-inbox","NEW"," ---","SubscriberParticipant's internalRefresh method does not tolerate a null secondary id","2008-11-29 04:39:34",,1,"2008-11-29 04:39:34","P3","All","All",0
+256521,"Platform","Team","platform-team-inbox","NEW"," ---","Configuring a local file instead of workspace.","2008-11-26 05:24:04",,2,"2008-11-25 18:05:36","P3","Linux","PC",0
+255972,"Platform","Team","platform-team-inbox","NEW"," ---","Three-way compare from History view","2008-11-20 09:24:17",,1,"2008-11-20 09:24:17","P3","Windows XP","PC",0
+254616,"Platform","Team","platform-team-inbox","NEW"," ---","TextStorageMerger should be pushed down to Team/Core","2008-11-07 11:56:06",,1,"2008-11-07 11:56:06","P3","Windows XP","PC",0
+252100,"Platform","Team","platform-team-inbox","NEW"," ---","SVN synchronisation misses OpenOffice .odp file","2008-10-27 13:29:48",,2,"2008-10-25 15:03:07","P3","Mac OS X - Carbon (unsup.)","Macintosh",0
+251061,"Platform","Team","platform-team-inbox","NEW"," ---","CVS ""Mark  as merged"" information lost after IDE restart","2008-10-16 07:48:48",,2,"2008-10-16 05:30:01","P3","Windows XP","PC",0
+234891,"Platform","Team","platform-team-inbox","NEW"," ---","Compare Editor with High Contrast clips title","2008-10-09 09:42:47",,5,"2008-05-30 13:25:37","P3","Linux","PC",0
+244366,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronize view with java workspace model also show the workspace model","2008-10-01 06:36:52",,4,"2008-08-16 15:29:41","P3","All","All",0
+247629,"Platform","Team","platform-team-inbox","NEW"," ---","[changeset] Should allow renaming <unassigned> changeset","2008-09-30 08:19:43",,2,"2008-09-17 07:08:39","P3","Windows XP","PC",0
+246248,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","NPE when trying to import PSF","2008-09-05 07:43:54",,1,"2008-09-04 12:45:27","P3","Mac OS X - Carbon (unsup.)","PC",0
+245786,"Platform","Team","platform-team-inbox","NEW"," ---","CVSFileStore too slow for any real projects","2008-08-31 09:12:33",,1,"2008-08-31 09:12:33","P3","Windows Vista","PC",0
+244312,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Wizards] Consider disabling the 'Finish' button on the first page of the export 'Team Project Set' wizard","2008-08-20 09:29:31",,2,"2008-08-15 11:20:45","P3","All","All",0
+227994,"Platform","Team","tomasz.zarna","ASSIGNED"," ---","Duplicated strings from key in ResourceInfo.syncInfo","2008-08-13 11:13:22",,7,"2008-04-21 08:13:30","P3","Windows XP","PC",0
+243622,"Platform","Team","platform-team-inbox","NEW"," ---","Synchronization bytes are missing","2008-08-08 14:56:09",,1,"2008-08-08 14:56:09","P3","Windows XP","PC",0
+219580,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Wizards] Adding imported projects to ""none"" working set","2008-08-07 03:41:21",209721,3,"2008-02-20 07:04:24","P4","Windows XP","PC",0
+241787,"Platform","Team","platform-team-inbox","NEW"," ---","No team menu item in the package explorer","2008-07-23 05:10:25",,1,"2008-07-23 05:10:25","P3","Windows XP","PC",0
+239776,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Structure compare - revision list columns","2008-07-15 06:48:13",,5,"2008-07-07 05:54:32","P3","Linux","PC",0
+240333,"Platform","Team","platform-team-inbox","NEW"," ---","[Project Sets] A newly created Team Project Set should appear automatically","2008-07-14 07:49:42",,3,"2008-07-10 09:51:50","P3","Windows XP","PC",0
+226692,"Platform","Team","platform-team-inbox","NEW"," ---","Warnings logged when doing ""Override and update""","2008-06-19 10:41:18",,3,"2008-04-11 10:24:18","P3","Windows XP","PC",0
+234805,"Platform","Team","platform-team-inbox","NEW"," ---","Editor leaked through ActiveChangeSetCollector","2008-05-30 05:58:10",,1,"2008-05-30 05:58:10","P3","Windows XP","PC",0
+234335,"Platform","Team","platform-team-inbox","NEW"," ---","extssh protocol improperly processes international characters when works with OpenSSH","2008-05-29 03:43:38",,3,"2008-05-28 07:01:01","P3","Windows XP","PC",0
+233949,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Editor temporarily leaked in FinishedJobs after creating patch","2008-05-26 13:01:48",,3,"2008-05-26 08:26:35","P3","Windows XP","PC",0
+228865,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Do not use (s) in UI","2008-05-26 04:20:03",,1,"2008-04-25 08:30:46","P3","Windows XP","PC",0
+233265,"Platform","Team","platform-team-inbox","NEW"," ---","Editor leaked after opening from Synchronize view and replacing with HEAD","2008-05-21 12:01:03",,1,"2008-05-21 12:01:03","P3","Windows XP","PC",0
+231749,"Platform","Team","platform-team-inbox","NEW"," ---","updated status of deleted file on server is incorrect","2008-05-13 04:19:03",,1,"2008-05-13 04:19:03","P3","Windows XP","PC",0
+191478,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] ""Reentrant call while viewer is busy"" warning during update","2008-05-09 08:39:46",,5,"2007-06-07 09:54:10","P3","Windows XP","PC",0
+157180,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Synchronize view not always in synch with package explorer view","2008-05-09 04:23:52",,5,"2006-09-13 11:23:40","P3","Windows XP","PC",0
+197149,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Patch] Move Apply Patch context menu contribution to CVS","2008-05-09 04:23:46",,3,"2007-07-19 10:30:47","P3","Windows XP","PC",0
+191227,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Examples] The team examples have too many discouraged access warnings","2008-05-09 04:23:44",,2,"2007-06-06 08:09:25","P3","Windows XP","PC",0
+156523,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Empty sync view shows ""Synchronizing"" when there is a scheduled sync.","2008-05-09 04:23:39",,2,"2006-09-07 10:32:57","P3","Windows XP","PC",0
+139196,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Clean up image management","2008-05-09 04:23:38",,3,"2006-04-28 11:13:47","P3","Windows XP","PC",0
+175526,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Multiple copies of same image created by sync view","2008-05-09 04:23:17","199460, 205070",18,"2007-02-26 10:03:13","P3","Windows 2000","PC",0
+185767,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Actions] shortcut key for ""synchronize with repository"" does not work at first try, but works at second.","2008-05-09 04:23:16",,7,"2007-05-07 10:02:52","P3","Windows 2000","PC",0
+204464,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Moving branch tags should provide warning","2008-05-09 04:23:05",,4,"2007-09-24 11:00:26","P4","Windows XP","PC",1
+87226,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Consider making TeamAction API","2008-04-29 06:10:05",,6,"2005-03-05 21:50:46","P3","All","All",1
+227517,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","User should be notified that the security storage is now used","2008-04-25 11:02:09",,6,"2008-04-17 06:09:23","P3","All","PC",0
+224100,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","'Synchronize' view's 'Preference' popup dialog has an ugly header","2008-04-23 05:31:53",,4,"2008-03-26 10:22:48","P4","All","All",0
+227423,"Platform","Team","platform-team-inbox","NEW"," ---","TextStorageMerger does not preserve trailing CR","2008-04-16 16:02:41",,1,"2008-04-16 16:02:41","P3","Windows XP","PC",0
+225588,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Contextual search of local/remote delta","2008-04-09 04:16:45",,1,"2008-04-03 11:53:35","P4","Windows XP","PC",0
+225436,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] 'Synchronize' view truncates text needlessly","2008-04-09 04:06:00",,3,"2008-04-02 17:32:07","P3","All","All",0
+225665,"Platform","Team","platform-team-inbox","NEW"," ---","Two error dialogs appear when trying to share a project with extssh info when ssh plug-ins are not available","2008-04-04 09:53:03",,3,"2008-04-03 19:26:40","P3","All","All",0
+225722,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Move the search section to the top","2008-04-04 09:38:21",,1,"2008-04-04 06:44:10","P4","All","All",0
+225442,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Team Project Set export wizard's second page opens up as an error","2008-04-03 07:10:32",,3,"2008-04-02 18:02:29","P3","All","All",0
+224421,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","NPE in CompositeModelProvider.getProviders()","2008-03-28 08:10:48",,3,"2008-03-27 13:10:58","P3","Windows XP","PC",0
+222723,"Platform","Team","platform-team-inbox","NEW"," ---","EditionHistoryPage consumes more than 60 Mo of memory in my workspace","2008-03-14 06:29:12",,1,"2008-03-14 06:29:12","P3","All","PC",0
+219810,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","History view description should tell when items filtered via search field","2008-02-27 11:33:01",,1,"2008-02-21 10:57:52","P3","Windows XP","PC",0
+162572,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Progress] CVS scheduled synchronizations not terminated, clutter Progress view","2008-02-19 08:10:07",167294,6,"2006-10-27 11:30:36","P3","Windows XP","PC",0
+219078,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Add 'Properties' action to synchronize view","2008-02-15 08:54:09",,1,"2008-02-15 07:10:46","P3","Windows XP","PC",0
+216099,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","StreamMergerTests should be copied to Team tests","2008-01-23 11:24:57",,3,"2008-01-22 04:50:23","P3","All","PC",0
+215779,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","The way Team#setAllIgnores() works can be confusing","2008-01-18 09:27:15",,4,"2008-01-18 07:02:47","P3","Windows XP","PC",0
+210708,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Preferences > Team > Ignored Resources doesn't update to reflect changes made with Team#setAllIgnores()","2008-01-18 07:06:53",215779,3,"2007-11-22 18:15:03","P3","Linux","PC",0
+215253,"Platform","Team","platform-team-inbox","NEW"," ---","[Change Sets] Got an error in the .log file using change sets","2008-01-15 06:59:32",,5,"2008-01-14 15:08:47","P3","Windows XP","PC",0
+213643,"Platform","Team","platform-team-inbox","NEW"," ---","NPE in UnchangedResourceModelElement.getName","2007-12-20 15:58:56",,1,"2007-12-20 15:58:56","P3","All","All",0
+211214,"Platform","Team","platform-team-inbox","NEW"," ---","Create a new CVS branch and the content assist","2007-12-03 03:39:46",,17,"2007-11-28 08:56:27","P3","Windows XP","PC",0
+210087,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Switching between models doesn't include Change Set","2007-11-28 08:54:35",,3,"2007-11-16 07:22:22","P5","Windows XP","PC",0
+210898,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Be more resilient when one team repo connection fails","2007-11-26 04:44:51",,2,"2007-11-26 03:44:15","P4","Windows XP","PC",0
+210525,"Platform","Team","platform-team-inbox","NEW"," ---","shutdown takes several minutes","2007-11-21 07:21:41",,2,"2007-11-21 07:16:56","P3","Windows XP","PC",0
+210517,"Platform","Team","platform-team-inbox","NEW"," ---","Change sets lost after shutting down Eclipse quickly after startup","2007-11-21 05:30:36",,1,"2007-11-21 05:30:36","P3","Windows XP","PC",0
+210017,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Duplicate structures in sync view","2007-11-16 13:20:05",,4,"2007-11-15 15:39:07","P3","Windows XP","PC",0
+207863,"Platform","Team","platform-team-inbox","NEW"," ---","Import Project from CVS should scan for Java source directories","2007-10-30 09:26:53",,5,"2007-10-29 17:42:43","P3","All","All",0
+207216,"Platform","Team","platform-team-inbox","NEW"," ---","Enhancement History View","2007-10-24 09:14:17",,4,"2007-10-23 15:12:07","P3","Windows XP","PC",0
+201462,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Make the History view more general","2007-10-08 08:13:57",,7,"2007-08-28 14:37:47","P3","Windows XP","PC",0
+205271,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","Add ""official"" Synchronize command","2007-10-03 11:52:23",,1,"2007-10-03 05:07:53","P3","Windows XP","PC",0
+200658,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] Comparison of multiple revisions","2007-09-17 11:06:32",,1,"2007-08-21 06:41:00","P3","Windows XP","PC",0
+190164,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Editing a global ignore pattern","2007-08-09 11:51:47",,3,"2007-05-31 05:42:37","P5","Windows XP","PC",0
+197851,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Import-> Team Project Set needs workspace file browser","2007-08-07 13:13:38",,3,"2007-07-25 14:41:27","P3","All","All",0
+199085,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Repo View] ""Unable to Discard Location"" dialog resizing issue","2007-08-07 10:57:08",,1,"2007-08-07 10:47:16","P4","Windows XP","PC",0
+198016,"Platform","Team","tomasz.zarna","NEW"," ---","Using branches (changing, merging) not possible when top-level project is not under version control","2007-08-01 16:45:43",,4,"2007-07-26 15:53:21","P3","All","All",0
+150302,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Misc] Create working sets for each repository provider","2007-07-30 10:19:43",,9,"2006-07-11 15:43:27","P5","Windows XP","PC",0
+128007,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Edit actions in Synchronize view","2007-07-17 14:23:12",,2,"2006-02-15 07:09:47","P3","Windows XP","PC",0
+133124,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Cannot change resource model layout during share","2007-07-17 14:23:12",,1,"2006-03-24 05:37:48","P3","Windows XP","PC",0
+196519,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] sync view loose CVS synchronization after restart from update manager","2007-07-16 16:14:31",,2,"2007-07-13 18:48:41","P3","Windows XP","PC",0
+163479,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[SyncView] Synchronization on Windows working set should dynamically reflect working set change","2007-07-13 21:51:34",,5,"2006-11-05 10:57:18","P3","All","PC",0
+194023,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Examples] Should Pessimistic File provider offer option 'When ... edited programmatically: Prompt to Checkout'","2007-06-22 14:31:31",,3,"2007-06-22 14:07:20","P3","Windows XP","PC",0
+157053,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Mapping] Add transaction like support to model merge (e.g. commit or rollback)","2007-06-20 15:54:40",,1,"2006-09-12 11:40:04","P5","Windows XP","PC",0
+109209,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] failure while importing team project set leaves wizard dialog up","2007-06-20 15:51:47",,4,"2005-09-09 17:07:50","P5","Windows XP","PC",1
+47807,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[QuickDiff] Provide a generalized TeamSubscriber quick diff provider","2007-06-20 15:49:24",,5,"2003-12-01 09:53:30","P5","Windows XP","PC",1
+43770,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Allow opening incoming additions in a read-only editor","2007-06-20 15:45:43",,3,"2003-09-26 15:10:44","P5","Windows XP","PC",0
+119641,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] NPE in log","2007-06-20 15:35:09",,10,"2005-12-07 09:41:25","P5","Windows XP","PC",0
+171677,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] File Content export","2007-06-20 15:33:53",,4,"2007-01-25 10:00:08","P5","Windows XP","PC",0
+127714,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[ValidateEdit] Give repository providers complete description of change on validateEdit","2007-06-20 15:32:07",,7,"2006-02-14 10:18:46","P5","Windows XP","PC",0
+73269,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] team project sets should optionally include .project, .classpath","2007-06-20 15:30:38",,2,"2004-09-03 15:44:56","P5","All","All",0
+190165,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Detecting sub- and equal global ignore pattern","2007-06-20 15:29:56",,2,"2007-05-31 05:51:01","P5","Windows XP","PC",0
+83528,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Stronger indication of incoming changes in outgoing mode","2007-06-20 15:25:27",,2,"2005-01-24 08:12:05","P5","All","All",0
+170437,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Coloring of changed packages, classes and methods","2007-06-20 15:24:43",,3,"2007-01-15 04:27:26","P5","All","All",0
+114738,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model API] Accomodate models localized to files","2007-06-20 15:23:14",,6,"2005-11-02 06:19:30","P5","Windows XP","PC",0
+66899,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Skip ""Synchronization types"" wizard page when only one choice available","2007-06-20 15:22:25",,5,"2004-06-14 06:17:56","P5","Linux","PC",0
+157661,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Synchronize view should turn off redraw when toggling filter mode","2007-06-20 15:21:56",,1,"2006-09-18 14:06:39","P5","Windows XP","PC",0
+38265,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Synchronize/Structure compare positions to first diff after commit.","2007-06-20 15:21:03",,5,"2003-05-30 11:28:14","P5","Windows 2000","PC",0
+156850,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] History view not refreshed after sharing project","2007-06-19 14:29:01",,5,"2006-09-11 06:46:08","P3","Windows XP","PC",0
+102659,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Need API to configure project nature on Checkout/Import","2007-06-19 14:10:05",,4,"2005-07-04 11:04:41","P3","Windows XP","PC",0
+46269,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Subscriber] IO exception occured while trying to retrieve data from the .cache directory","2007-06-19 14:07:08",,4,"2003-11-07 10:20:04","P3","Windows 2000","PC",0
+106102,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Examples] Error creating resource in project that is checked in (using Pessimistic Simple Provider)","2007-06-19 13:26:18",,1,"2005-08-04 17:32:33","P3","Linux","PC",0
+157092,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] should adopt ICU Collator and use new APIs on StructuredViewer","2007-06-19 13:21:47","157097, 157495",7,"2006-09-12 15:26:42","P3","All","PC",0
+85746,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Add ""Team>Release"" and ""Team>Compare"" context menu to Synchronize","2007-06-19 12:34:42",,6,"2005-02-17 13:56:16","P3","Windows XP","PC",0
+101045,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Missing ""Select All"" shortcut in sync view","2007-05-30 09:07:22",,6,"2005-06-21 09:42:26","P3","Windows All","PC",1
+120556,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Wrong editor opened in table","2007-05-11 13:17:04",,18,"2005-12-13 08:27:32","P3","Windows XP","PC",2
+170714,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Team Synchronize view shows double","2007-05-02 10:06:24",,4,"2007-01-16 19:24:16","P3","Linux","PC",0
+148296,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Ignored Resources preference change not visible on preference import","2007-05-01 09:50:55",,1,"2006-06-22 16:29:01","P3","Windows 2000","PC",0
+184179,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Zombie projects from imported working set","2007-04-30 10:10:10",,2,"2007-04-26 04:57:13","P3","Windows XP","PC",0
+156746,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Decorators not updated after a sync","2007-04-18 21:39:59",,3,"2006-09-08 13:55:28","P3","Linux","PC",0
+140796,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Changing modes with all expanded behaves poorly","2007-04-18 21:35:36",,2,"2006-05-09 10:29:54","P3","Windows XP","PC",0
+132234,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Busy decoration does not match resource model layout","2007-04-18 21:16:55",,1,"2006-03-16 14:48:42","P3","Windows XP","PC",0
+133861,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Progress message during content fetching needs improvement","2007-04-18 21:15:26",,3,"2006-03-29 10:44:01","P3","Windows XP","PC",0
+127510,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Mapping] Remove ResourceMappingLabelProvider","2007-04-18 21:13:45",,1,"2006-02-13 13:54:03","P3","Windows XP","PC",0
+124344,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Need to deal with handler conflicts","2007-04-18 21:13:15",,2,"2006-01-18 13:33:31","P3","Windows XP","PC",0
+111594,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Misc] Convert dialogs to use inherited size/location persistence","2007-04-18 21:12:49",,1,"2005-10-05 08:20:07","P3","Windows XP","PC",0
+140966,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[SyncView] Inconsistent progress reporting on update","2007-04-18 21:12:08",,4,"2006-05-09 22:31:35","P3","Windows XP","PC",0
+125583,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[History View] History View should number multiple instances","2007-04-18 14:00:38",,3,"2006-01-27 17:06:36","P3","Windows XP","PC",0
+157034,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Mapping] Model Providers should respect enabled capabilities","2007-04-18 13:49:11",,1,"2006-09-12 09:56:23","P3","Windows XP","PC",0
+104122,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Wizards] Cannot import mulitple projects as Java projects","2006-12-11 11:31:41",,8,"2005-07-15 18:20:03","P3","All","All",0
+64432,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Share] Team activity support polish","2006-12-11 11:26:39",,4,"2004-05-27 15:46:42","P3","All","All",0
+127553,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Model Sync] Working Set dialog settings not persisted","2006-12-04 15:26:42",,3,"2006-02-13 16:09:05","P3","Windows XP","PC",0
+138641,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[API] Allow repository associations at folder level","2006-11-24 08:43:41",,7,"2006-04-26 10:40:13","P3","Windows 2000","PC",0
+151459,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Project Sets] Workspace field in the team project set export dialog does not turns white","2006-11-20 21:06:32",,3,"2006-07-21 15:49:40","P3","Windows XP","PC",0
+158605,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] ArrayIndexOutOfBoundsException comparing with HEAD","2006-10-02 11:02:21",,2,"2006-09-25 13:02:32","P3","Windows XP","PC",0
+42922,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Internal error viewing out of sync file in new sync view","2006-06-15 12:54:33",,3,"2003-09-10 18:04:18","P3","Windows 2000","PC",0
+46766,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] Case insensitive file extensions; Prefs->Team->File Content","2006-06-15 12:29:38",,3,"2003-11-17 07:18:51","P3","All","All",0
+141142,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Sync View] Error during sync causes double prompt for perspective switch","2006-06-15 12:11:58",,1,"2006-05-10 16:17:04","P3","Windows XP","PC",0
+41862,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Subscriber] File Contents cache should clear stale entries in the background","2006-06-14 15:24:08",,2,"2003-08-22 10:51:34","P3","Windows XP","PC",0
+57357,"Platform","Team","platform-team-inbox","ASSIGNED"," ---","[Preferences] file type preferences will not be imported","2005-05-25 10:38:29",,3,"2004-04-03 06:36:16","P3","All","PC",0

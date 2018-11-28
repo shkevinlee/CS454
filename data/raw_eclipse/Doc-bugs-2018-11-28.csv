@@ -1,0 +1,120 @@
+"Bug ID","Product","Component","Assignee","Status","Resolution","Summary","Changed","Depends on","Number of Comments","Opened","Priority","OS","Hardware","Votes"
+541628,"Platform","Doc","noopur_gupta","NEW"," ---","Update Platform Tips & Tricks for 4.10","2018-11-28 05:21:47",,1,"2018-11-28 05:21:33","P3","All","All",0
+60357,"Platform","Doc","platform-doc-inbox","NEW"," ---","Creating an Eclipse View plugin needs updating to 3.0","2018-10-03 17:31:43",,3,"2004-04-28 23:12:37","P3","Windows 2000","PC",0
+87237,"Platform","Doc","platform-doc-inbox","NEW"," ---","documentation discrepancy swt examples","2018-10-02 01:26:48",,5,"2005-03-06 15:49:35","P3","Windows XP","PC",0
+537858,"Platform","Doc","platform-doc-inbox","NEW"," ---","Minimap N&N needs work","2018-08-10 09:30:47",,1,"2018-08-10 09:30:47","P3","All","All",0
+537305,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Document new location of Save automatically before build options","2018-07-24 14:29:51",,4,"2018-07-23 14:17:34","P3","Windows 10","PC",0
+534621,"Platform","Doc","platform-doc-inbox","UNCONFIRMED"," ---","Provide direct linking of features in release notes","2018-05-16 06:30:31",,5,"2018-05-13 15:49:14","P3","All","All",0
+521926,"Platform","Doc","platform-doc-inbox","NEW"," ---","Eclipse Doc bundles are quite huge","2018-01-18 19:19:32",,12,"2017-09-06 08:38:43","P3","All","PC",0
+529252,"Platform","Doc","platform-doc-inbox","NEW"," ---","Progress view shows one running job, even if there are hundreds of them","2018-01-14 11:07:18",226494,3,"2017-12-27 13:59:05","P3","All","All",0
+403066,"Platform","Doc","markus.kell.r","ASSIGNED"," ---","[Bidi] Update documentation for bidi APIs and command line options","2017-05-26 09:27:49","307307, 380397, 383185",8,"2013-03-12 11:44:30","P3","All","All",0
+387547,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","extension points must specify available variables for <enablement> elements","2017-05-26 09:27:26",,5,"2012-08-19 04:05:10","P3","All","All",0
+508004,"Platform","Doc","svdbg","NEW"," ---","""Searching for files"" doc","2017-04-21 12:42:50",,3,"2016-11-22 17:33:04","P3","Windows 10","PC",0
+508002,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Resource filters doc incomplete","2017-04-21 12:35:20",,2,"2016-11-22 17:15:49","P3","Windows 10","PC",0
+357333,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","No ""Add task"" button in the tasks view","2017-04-21 12:34:25",212848,2,"2011-09-11 18:10:11","P3","Windows XP","PC",0
+357334,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","No delete button in the Bookmarks view's toolbar","2017-04-21 12:33:29",212850,2,"2011-09-11 18:20:10","P3","Windows XP","PC",0
+507992,"Platform","Doc","svdbg","NEW"," ---","Incorrect documentation about projet creation","2017-04-21 11:18:20",,2,"2016-11-22 16:43:00","P3","Windows 10","PC",0
+507999,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Explain what the purpose of a virtual folder","2017-04-21 11:05:47",,1,"2016-11-22 17:08:13","P3","Windows 10","PC",0
+510723,"Platform","Doc","platform-doc-inbox","NEW"," ---","API needed to retarget breakpoint toggle actions","2017-01-20 07:59:55",,2,"2017-01-20 01:22:20","P3","All","PC",0
+502852,"Platform","Doc","Platform-UI-Inbox","NEW"," ---","Improve help text on removing plug-ins","2016-09-30 07:53:29",,1,"2016-09-30 07:52:05","P3","Windows 7","PC",0
+384891,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Update doc for the extra process attributes and the updated property page","2016-09-19 13:33:21",,1,"2012-07-12 00:01:42","P3","All","All",0
+498307,"Platform","Doc","platform-doc-inbox","NEW"," ---","""Installing the Remote System Explorer"" documentation for RSE assumes RSE has been updated","2016-07-21 14:39:28",,1,"2016-07-21 14:39:28","P3","All","All",0
+497639,"Platform","Doc","platform-doc-inbox","NEW"," ---","Search in Help is not finding results when searched with the method name","2016-07-12 01:46:53",,2,"2016-07-11 02:27:07","P3","Windows 7","PC",0
+496494,"Platform","Doc","platform-doc-inbox","NEW"," ---","HTTP Error: 500 Server Error","2016-06-23 08:49:19",,2,"2016-06-21 12:25:38","P3","Windows 7","PC",0
+490410,"Platform","Doc","platform-doc-inbox","NEW"," ---","Dirty working tree: files in docs (common)","2016-03-24 20:31:00",419510,1,"2016-03-24 20:31:00","P3","Linux","PC",0
+489918,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Provide a stable (top-level) migration guide page","2016-03-18 06:32:34",,1,"2016-03-18 06:32:09","P3","All","All",0
+123447,"Platform","Doc","platform-doc-inbox","NEW"," ---","How To Write An Eclipse Installer is obsolete","2016-03-12 06:42:05",,2,"2006-01-11 11:14:16","P3","Windows XP","PC",0
+488075,"Platform","Doc","platform-doc-inbox","NEW"," ---","Add (minimal) documentation for the support or Declarative Services annotations","2016-02-26 10:02:11","376950, 411404, 475230, 475241",1,"2016-02-19 02:14:12","P3","Windows XP","PC",0
+474201,"Platform","Doc","platform-doc-inbox","NEW"," ---","Use index.html for Eclipse 4.4, 4.2 and 4.3 N&N entries","2015-08-04 10:48:26",,4,"2015-08-04 04:19:42","P3","All","All",0
+472362,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Prompt to save on close documentation missing from Editors help page","2015-07-15 08:18:47",,1,"2015-07-10 09:01:03","P3","All","All",0
+472363,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Restore editor state at startup documentation missing from Editors help page","2015-07-15 08:18:12",,1,"2015-07-10 09:01:11","P3","All","All",0
+466930,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Getting Started -> Basic Tutorial gives no navigation info","2015-05-11 10:02:36",,1,"2015-05-10 10:24:03","P3","All","All",0
+221009,"Platform","Doc","platform-doc-inbox","NEW"," ---","incrementalBuild Online Help missing builder attribute docs","2015-04-01 09:45:12",,1,"2008-02-29 16:02:46","P3","Windows XP","PC",0
+439498,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Documentation for how to export help as a WAR doesn't appear current","2015-02-20 18:22:49",363009,3,"2014-07-13 18:27:07","P3","All","All",0
+436719,"Platform","Doc","emoffatt","NEW"," ---","FastView still in doc though not in code","2014-11-01 12:22:52",,4,"2014-06-05 10:39:23","P3","All","All",0
+441840,"Platform","Doc","platform-doc-inbox","NEW"," ---","bridge test","2014-08-22 02:31:09",,2,"2014-08-15 03:20:46","P3","Windows 7","PC",0
+434569,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Help documentation for active help should have a link to commands","2014-05-12 04:48:28",,1,"2014-05-10 07:23:51","P3","All","All",0
+433628,"Platform","Doc","platform-doc-inbox","NEW"," ---","Key binding example in sequence does not comply with the modifier description","2014-04-29 11:19:04",,2,"2014-04-28 04:07:38","P3","Windows 7","PC",0
+431261,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Provide a way to discover where a plug-in resides (in which repository)","2014-04-01 09:22:22",,1,"2014-03-26 12:08:27","P3","All","All",0
+422931,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","${build_project} not documented in Help","2013-12-03 03:30:50",52688,1,"2013-12-02 05:57:03","P3","All","All",0
+417118,"Platform","Doc","platform-doc-inbox","NEW"," ---","Consider making common profile for ""build-docs""","2013-09-12 12:25:36",,1,"2013-09-12 12:25:36","P3","Linux","PC",0
+410822,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Documenting symbolic link decorators","2013-06-17 03:47:22",,2,"2013-06-14 10:17:05","P3","All","All",0
+345693,"Platform","Doc","carolynmacleod4","NEW"," ---","'Create project from existing source' does not exist anymore","2013-05-29 12:11:05",,11,"2011-05-13 03:48:36","P3","All","All",0
+109743,"Platform","Doc","platform-doc-inbox","NEW"," ---","Document Bundle-Classpath: external","2013-03-01 12:24:17",,10,"2005-09-16 10:05:39","P3","Windows XP","PC",0
+383814,"Platform","Doc","platform-doc-inbox","NEW"," ---","Extract SWT documentation from org.eclipse.platform.doc.isv plug-in into own org.eclipse.swt.doc.isv plug-in.","2012-06-29 02:43:37",,3,"2012-06-28 10:48:45","P3","All","All",0
+363615,"Platform","Doc","pradeepb","NEW"," ---","Documentation errors (Workbench user guide > concepts > Ant & External tools) re: project_loc","2012-06-13 02:29:57",,1,"2011-11-11 14:44:28","P3","All","All",0
+355085,"Platform","Doc","gheorghe","NEW"," ---","Document required/supported properties for styling and UI model in product extension","2012-06-07 07:56:38",,2,"2011-08-18 09:43:02","P3","Windows 7","PC",0
+315956,"Platform","Doc","platform-doc-inbox","NEW"," ---","Update the content of the resource filters and virtual folders sections","2012-06-07 07:53:28",,4,"2010-06-07 07:42:01","P3","Windows XP","PC",0
+381039,"Platform","Doc","emoffatt","NEW"," ---","Revise ""Rearranging views and editors"" section in user doc (4.2 only)","2012-05-30 09:27:27",,3,"2012-05-30 09:25:25","P3","Windows 7","PC",0
+379725,"Platform","Doc","platform-doc-inbox","NEW"," ---","Need documentation on the Secure Storage preference.","2012-05-21 10:36:44",,2,"2012-05-16 14:13:32","P3","Windows 7","PC",0
+315524,"Platform","Doc","platform-doc-inbox","NEW"," ---","Update user doc for 4.2","2011-10-26 09:09:57",,2,"2010-06-02 21:46:08","P3","Windows 7","PC",0
+356369,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Platform Plug-in Developer Guide refers to @deprecated method initializeDefaultPluginPreferences() from AbstractUIPlugin","2011-09-01 02:34:07",,2,"2011-08-31 12:40:58","P3","All","All",0
+338426,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Platform ISV doc uses deprecated <font> and <center> tags","2011-05-03 08:53:07",,1,"2011-02-28 10:33:58","P3","All","All",0
+336069,"Platform","Doc","platform-doc-inbox","NEW"," ---","ISV doc for shared license support","2011-02-02 09:26:58",,1,"2011-02-02 09:26:58","P3","Windows 7","PC",0
+319459,"Platform","Doc","platform-doc-inbox","NEW"," ---","the help doc about the -vm argument is not clear enough","2010-07-30 17:21:00",,3,"2010-07-10 06:01:48","P3","Windows 7","PC",0
+67504,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","""Text folding"" documentation is missing","2010-06-07 11:08:47",,1,"2004-06-16 15:08:33","P5","All","All",0
+304924,"Platform","Doc","platform-doc-inbox","NEW"," ---","Online example for Java Web Start is broken","2010-03-08 11:36:19",,2,"2010-03-06 17:45:34","P3","All","All",0
+302732,"Platform","Doc","francisu","NEW"," ---","Documentation bug. RN to CNF migration advice has an erroneous statement.","2010-02-15 02:52:19",,1,"2010-02-12 11:37:42","P3","All","All",0
+280551,"Platform","Doc","platform-doc-inbox","NEW"," ---","Examples Plugin Source Installation is broken","2010-01-07 09:50:34",,3,"2009-06-16 21:47:53","P3","Windows Vista","PC",0
+192668,"Platform","Doc","platform-doc-inbox","NEW"," ---","Polishing screen shots/icons from Workbench User Guide","2009-11-30 16:41:46",,2,"2007-06-14 09:22:30","P3","Windows XP","PC",0
+191489,"Platform","Doc","platform-doc-inbox","NEW"," ---","Doc has antiquated copyright in meta","2009-11-30 16:37:32",191491,1,"2007-06-07 10:48:23","P3","All","PC",0
+192674,"Platform","Doc","platform-doc-inbox","NEW"," ---","Export wizard section in User Guide still needs some polishing","2009-11-30 15:20:10",,4,"2007-06-14 09:55:59","P3","Windows XP","PC",0
+289494,"Platform","Doc","platform-doc-inbox","NEW"," ---","Help: Workbench under the covers - Enhancement","2009-09-15 13:34:25",,2,"2009-09-15 13:18:24","P3","Windows XP","PC",1
+285258,"Platform","Doc","platform-doc-inbox","NEW"," ---","Manual install in org.eclipse.platform.doc.isv/samples/samples.html needs update","2009-07-31 06:17:50",,1,"2009-07-31 06:17:50","P3","All","All",0
+282509,"Platform","Doc","platform-doc-inbox","NEW"," ---","Update documentation with workaround for NTLM authentication problems","2009-07-06 11:11:31",,1,"2009-07-06 07:55:45","P3","Windows XP","PC",0
+37016,"Platform","Doc","platform-doc-inbox","REOPENED"," ---","Eclipse Help System doc. pages should have Next and Prev links","2009-05-22 15:30:35",,6,"2003-04-28 14:19:13","P3","Windows XP","All",3
+257354,"Platform","Doc","krzysztof.daniel","NEW"," ---","[doc][statushandling] -statushandler parameter should be documented","2008-12-03 06:49:40",,1,"2008-12-03 06:49:40","P3","Windows XP","PC",0
+38261,"Platform","Doc","platform-doc-inbox","NEW"," ---","Debug platform help defined in JDT","2008-08-27 03:14:47",,3,"2003-05-30 09:52:02","P3","All","PC",0
+63359,"Platform","Doc","platform-doc-inbox","NEW"," ---","[RCP] [Workbench] (ISV doc) Need to document new appearance and product branding preferences","2008-08-26 15:46:08",,1,"2004-05-20 23:04:11","P3","Windows 2000","PC",0
+234076,"Platform","Doc","bokowski","NEW"," ---","API guidelines wrong regarding binary breakage when adding fields","2008-06-10 15:08:45",,7,"2008-05-27 02:43:48","P3","All","All",0
+234438,"Platform","Doc","platform-doc-inbox","NEW"," ---","ISV:  marker support doc is bogus","2008-05-28 13:44:10",,1,"2008-05-28 13:44:10","P3","All","All",0
+234392,"Platform","Doc","platform-doc-inbox","NEW"," ---","ISV: ua_help_context_infopops.htm is out of date","2008-05-28 11:11:22",,1,"2008-05-28 11:11:22","P3","Mac OS X - Carbon (unsup.)","PC",0
+7146,"Platform","Doc","platform-doc-inbox","NEW"," ---","Missing from the documentation","2008-04-12 15:39:42",,6,"2001-12-20 13:36:35","P3","Windows 2000","PC",0
+131593,"Platform","Doc","curtispd","NEW"," ---","[Intro] broken link in org.eclipse.ui.intro.configExtension extension-point documentation","2007-12-18 19:48:13",,3,"2006-03-13 15:12:08","P3","All","All",0
+197421,"Platform","Doc","platform-doc-inbox","NEW"," ---","Basic tutorial > Example Plug-ins has lots of warnings relating to generics","2007-07-22 11:06:29",,1,"2007-07-22 11:06:29","P3","All","All",0
+76959,"Platform","Doc","eclipse","ASSIGNED"," ---","Activity Doc needs to clarify how to properly define pattern bindings","2007-06-21 14:37:37",,1,"2004-10-25 14:32:42","P3","All","All",0
+189500,"Platform","Doc","eclipse","NEW"," ---","Platform user doc refers to Navigator when it should refer to the Project Explorer","2007-06-08 11:07:29",,2,"2007-05-28 15:40:50","P3","All","All",0
+185253,"Platform","Doc","platform-doc-inbox","NEW"," ---","Insufficient documentation for the Launching Framework","2007-05-03 11:22:28",,1,"2007-05-02 18:46:27","P3","Linux","PC",0
+181838,"Platform","Doc","platform-doc-inbox","NEW"," ---","System property ""eclipse.security"" not documented","2007-04-10 16:39:12",,1,"2007-04-10 16:39:12","P3","Windows XP","PC",0
+177975,"Platform","Doc","platform-doc-inbox","NEW"," ---","A list of platform filter values would be really helpful","2007-03-18 22:05:37",,1,"2007-03-18 22:05:37","P3","Windows XP","PC",0
+174401,"Platform","Doc","platform-doc-inbox","NEW"," ---","""In-Place Editor"" should be documented","2007-02-15 20:55:09",,1,"2007-02-15 20:55:09","P3","Windows XP","PC",0
+162349,"Platform","Doc","platform-doc-inbox","NEW"," ---","Implementing a preference page incomplete.","2006-12-11 16:15:56",,2,"2006-10-26 00:28:09","P3","Windows XP","PC",0
+166056,"Platform","Doc","platform-doc-inbox","NEW"," ---","[Tutorial] More information needed on using workspace/resources/CNF in RCP app","2006-11-28 12:30:06",,4,"2006-11-28 09:05:58","P3","Windows XP","PC",0
+164860,"Platform","Doc","platform-doc-inbox","NEW"," ---","Support Help By URL For Plugins","2006-11-16 14:30:19",,1,"2006-11-16 14:30:19","P3","Windows XP","PC",0
+162437,"Platform","Doc","platform-doc-inbox","NEW"," ---","Plug-ins and bundles missing key info on initialization","2006-10-26 12:35:41",,1,"2006-10-26 12:35:41","P3","Windows XP","PC",0
+161089,"Platform","Doc","platform-doc-inbox","NEW"," ---","missing docco/help for progress-monitor within wizards","2006-10-17 07:59:42",,10,"2006-10-16 12:17:57","P3","Windows XP","PC",0
+152726,"Platform","Doc","platform-doc-inbox","NEW"," ---","PreferenceService and Runtime preferences interaction","2006-08-03 10:36:29",,1,"2006-08-03 08:35:53","P3","Windows XP","PC",0
+108596,"Platform","Doc","andrea_covas","NEW"," ---","DVT 3.1 - TVT 618 - most doc files under Platform Examples Guide use different stylesheet","2006-06-08 11:40:51",,4,"2005-09-01 12:14:42","P3","Windows 2000","PC",0
+144899,"Platform","Doc","platform-doc-inbox","NEW"," ---","documenation for osgi service implementors","2006-06-01 11:34:41",,1,"2006-06-01 11:34:41","P3","Linux","PC",0
+117568,"Platform","Doc","eclipse","REOPENED"," ---","Document the differences between perspectives, capabilties and contexts","2006-05-31 16:44:32",,5,"2005-11-22 14:57:21","P3","All","All",0
+142868,"Platform","Doc","platform-doc-inbox","NEW"," ---","Doc for dynamic plug-ins is a copy of my blog entry","2006-05-31 14:57:02",,2,"2006-05-19 17:58:30","P3","All","All",0
+126706,"Platform","Doc","platform-doc-inbox","NEW"," ---","Addition of documentation regarding libraries loaded by JNI","2006-02-07 05:45:23",,1,"2006-02-07 05:45:23","P3","All","All",0
+122533,"Platform","Doc","platform-doc-inbox","NEW"," ---","switchToLaunchBar action is not documented in org.eclipse.ui.intro.config DTD ","2006-01-03 11:48:19",,1,"2006-01-03 11:48:19","P3","All","All",0
+98761,"Platform","Doc","platform-doc-inbox","NEW"," ---","ISV doc images that need updating with circles etc.","2005-12-14 15:50:35",,7,"2005-06-07 13:54:39","P3","Windows XP","PC",0
+98977,"Platform","Doc","emoffatt","NEW"," ---","o.e.p.doc.user/concepts/concepts-21.htm - Fast view bar location is now configurable","2005-10-06 15:06:46",,1,"2005-06-08 11:23:41","P3","All","All",0
+109983,"Platform","Doc","platform-doc-inbox","NEW"," ---","Reference Point org.eclipse.ui.handlers  not complete","2005-09-20 06:23:21",,1,"2005-09-20 06:23:21","P3","Windows XP","PC",0
+107297,"Platform","Doc","platform-doc-inbox","NEW"," ---","Releng documentation","2005-08-18 09:23:43",,5,"2005-08-18 00:58:46","P3","Windows XP","PC",0
+101728,"Platform","Doc","platform-doc-inbox","NEW"," ---","Workbench overview image needs some colour","2005-06-24 16:57:11",,1,"2005-06-24 16:57:11","P3","All","All",0
+101709,"Platform","Doc","platform-doc-inbox","NEW"," ---","Workbench Window Layout  pafe links to perspective bar doc rather than fast view bar","2005-06-24 15:23:37",,1,"2005-06-24 15:23:37","P3","Windows XP","PC",0
+101656,"Platform","Doc","platform-doc-inbox","NEW"," ---","Drop Cursors document doesn't show the detached view icon","2005-06-24 11:01:17",,1,"2005-06-24 11:01:17","P3","All","Macintosh",0
+98168,"Platform","Doc","platform-doc-inbox","NEW"," ---","No doc for presentations in isv doc","2005-06-24 09:59:49",,9,"2005-06-02 15:41:17","P3","Windows XP","PC",0
+101101,"Platform","Doc","platform-doc-inbox","NEW"," ---","Views doc appears in Concepts but should be in reference","2005-06-22 13:36:54",,2,"2005-06-21 14:12:29","P3","Windows XP","PC",0
+98821,"Platform","Doc","andrea_covas","ASSIGNED"," ---","[PerspectiveBar] [FastViews] [Progress] Need help topics for workbench side bars","2005-06-09 15:50:34",,8,"2005-06-07 15:43:01","P3","All","All",0
+39850,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","document how to use unix linefeed under win32 - (other search terms: line.separator , CRLF/LF)","2005-05-19 17:39:46",,4,"2003-07-10 04:41:47","P3","Windows 2000","PC",2
+95459,"Platform","Doc","platform-doc-inbox","NEW"," ---","Documentation enhancements","2005-05-17 12:47:16",,5,"2005-05-16 16:54:01","P3","All","PC",0
+92774,"Platform","Doc","andrea_covas","NEW"," ---","Capabilties doc issues","2005-04-26 10:53:35",,1,"2005-04-26 10:53:35","P3","All","All",0
+70849,"Platform","Doc","platform-doc-inbox","NEW"," ---","Doc on osgi.splashPath and osgi.spashLocation need to be more clear.","2005-02-23 19:01:18",,2,"2004-07-26 15:00:02","P3","Windows XP","PC",0
+85704,"Platform","Doc","platform-doc-inbox","NEW"," ---","Need clarification for OS X command line arguments","2005-02-17 10:10:04",,1,"2005-02-17 10:10:04","P3","All","Macintosh",0
+83497,"Platform","Doc","platform-doc-inbox","ASSIGNED"," ---","Inconsistent terminology: file vs. resource","2005-01-31 10:09:25",,7,"2005-01-23 00:41:20","P3","Windows XP","PC",0
+83171,"Platform","Doc","platform-doc-inbox","NEW"," ---","Workbench parts relationships schema","2005-01-19 06:05:51",,1,"2005-01-19 06:05:51","P3","All","All",0
+82975,"Platform","Doc","platform-doc-inbox","NEW"," ---","Editor section","2005-01-17 10:38:18",,1,"2005-01-17 10:38:18","P3","All","All",0
+82635,"Platform","Doc","platform-doc-inbox","NEW"," ---","SWT Application Tutorial VM args text is not selectable","2005-01-12 20:56:45",,2,"2005-01-11 21:36:34","P3","Linux-GTK","PC",0
+80402,"Platform","Doc","platform-doc-inbox","NEW"," ---","Preference explanation","2004-12-07 14:29:05",,1,"2004-12-07 13:59:49","P3","Windows XP","PC",0
+77470,"Platform","Doc","platform-doc-inbox","NEW"," ---","Documentation on Error Management could use some improvement","2004-11-02 07:57:05",,1,"2004-11-02 07:57:05","P3","Windows XP","PC",0
+36752,"Platform","Doc","platform-doc-inbox","NEW"," ---","How to create context menus","2004-11-01 15:16:00",,4,"2003-04-22 09:36:58","P3","Windows 2000","PC",0
+73298,"Platform","Doc","platform-doc-inbox","NEW"," ---","[JFace] JFace architecture design docs needed","2004-09-07 10:22:13",,1,"2004-09-05 13:42:53","P3","All","PC",0
+70646,"Platform","Doc","platform-doc-inbox","NEW"," ---","need comprehensive doc/clean up product branding-id elements.","2004-07-22 12:17:23",,1,"2004-07-22 12:14:46","P3","Windows XP","PC",0
+21068,"Platform","Doc","John_Wiegand","NEW"," ---","platform doc inconsistent in background color","2004-06-21 01:57:28",,4,"2002-06-27 11:55:27","P3","Windows 2000","PC",1
+56391,"Platform","Doc","platform-doc-inbox","NEW"," ---","documentation error on org.eclipse.core.runtime.PluginVersionIdentifier","2004-03-26 12:32:29",,1,"2004-03-26 12:32:29","P3","Windows XP","All",0
+53796,"Platform","Doc","platform-doc-inbox","NEW"," ---","Migration Guide: Contribution items can have ""fill()"" called multiple times","2004-03-04 15:03:49",,1,"2004-03-04 15:03:49","P3","Linux","PC",0
+39210,"Platform","Doc","platform-doc-inbox","NEW"," ---","Suggestions [UI Guidelines]","2003-06-22 07:56:57",,1,"2003-06-22 07:56:57","P3","All","PC",0
