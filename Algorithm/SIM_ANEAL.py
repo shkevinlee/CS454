@@ -82,5 +82,5 @@ class NRP_SA():
             self.T /= 1 + (self.beta * self.T)
             self.iteration += 1
 
-        return self.best_decision, self.best_fitness
+        return self.best_fitness, self.best_decision
 
