@@ -1,0 +1,9 @@
+Maximum Profit in cost constraint : 260000 = 28653.543337866133
+Maximum Profit in cost constraint : 240000 = 27324.510672676115
+Maximum Profit in cost constraint : 220000 = 25901.23027892619
+Maximum Profit in cost constraint : 200000 = 24369.861061889635
+Maximum Profit in cost constraint : 180000 = 22718.92664713943
+Maximum Profit in cost constraint : 160000 = 20934.94744122524
+Maximum Profit in cost constraint : 140000 = 18979.350226708862
+Maximum Profit in cost constraint : 120000 = 16845.487389338436
+Maximum Profit in cost constraint : 100000 = 14530.929228238905

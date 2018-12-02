@@ -4,6 +4,8 @@ import pandas as pd
 import os
 DATA_DIR = './data'
 df = pd.read_pickle(os.path.join(DATA_DIR, 'bugzilla_eclipse_log(comments)_2016meancost.pkl'))
+
+
 cnt = 0
 #print(len(df))
 idx = [x for x in range(len(df))]
@@ -15,10 +17,10 @@ prob += lpSum([df.values[i][4]*answer[i] for i in idx])
 
 prob += lpSum([df.values[j][3]*answer[j] for j in idx]) <= 50700
 
-status = prob.solve(GUROBI(timeLimit=0.03))
+status = prob.solve(GUROBI())
 
 
-#print(LpStatus[status])
+print(LpStatus[status])
 
 #for v in prob.variables():
 #	print (v.name, " = ", v.varValue)
@@ -27,4 +29,4 @@ status = prob.solve(GUROBI(timeLimit=0.03))
 # 	if (w.varValue == 1.0):
 # 		print (w.name, " = ", df.values[cnt][0])
 # 	cnt += 1
-print("Maximum Profit = ", value(prob.objective))
+print("Maximum Profit =", value(prob.objective))
