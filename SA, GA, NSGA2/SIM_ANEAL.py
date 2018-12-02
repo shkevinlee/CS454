@@ -23,7 +23,6 @@ class NRP_SA():
         self.best_decision = list(np.copy(self.cur_decision))
 
         self.cur_fitness = self.evaluate_fitness(self.cur_decision)
-        print("initial fitenss is ", self.cur_fitness)
         self.best_fitness = self.cur_fitness
 
     def greedy_initial(self):
