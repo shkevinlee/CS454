@@ -68,13 +68,15 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 26332.880847481712
 
 # How to test Algorithms
-## AHP, SA, GA and NSGA-II (python >= 3.5)
+## AHP, SA, GA and NSGA-II (python 3)
 To test these algorithms, you have to set the virtual environment to CS454venv or install numpy and pandas in your environment.
 
 The brief implementation of them are described in Test.py file. Please check this.
 
 ## ILP (install modules)
-To run ilp.py, user has to install PuLP and gurobipy module in local by following these instructions.
+Since ILP uses the gurobipy module which is Gurobi academic version, we cannot include the module in our virtual environment.
+
+Therefore, to run ilp.py in ILP directory, user has to install PuLP and gurobipy module in local by following these instructions.
 
 ### install PuLP
 PuLP requires Python >= 2.6
