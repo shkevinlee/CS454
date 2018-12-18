@@ -91,6 +91,8 @@ reference : https://pythonhosted.org/PuLP/main/installing_pulp_at_home.html
 ## install gurobipy
 register in http://www.gurobi.com/ and follow the instrucutions.
 
+> register on website -> download gurobi optimizer -> install license on local with "grbgetkey" command
+
 after install gurobipy, use in python:
 
 > from gurobipy import *
