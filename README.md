@@ -66,3 +66,27 @@ Definition of Profit: priority
 Real Cost sum : 262945.49580958224
 
 Real Profit sum : 26332.880847481712
+
+# ILP (install modules)
+## install PuLP
+### In windows
+in cmd, use
+
+> pip install pulp
+### in Linux
+> $ sudo pip install pulp
+
+> $ sudo pulptest
+
+after install PuLP, use in python:
+
+> from pulp import *
+
+reference : https://pythonhosted.org/PuLP/main/installing_pulp_at_home.html
+
+## install gurobipy
+register in http://www.gurobi.com/ and follow the instrucutions.
+
+after install gurobipy, use in python:
+
+> from gurobipy import *
