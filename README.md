@@ -68,6 +68,8 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 26332.880847481712
 
 # ILP (install modules)
+To run ilp.py, user has to install PuLP and gurobipy module in local by following these instructions.
+
 ## install PuLP
 PuLP requires Python >= 2.6
 
@@ -88,6 +90,8 @@ reference : https://pythonhosted.org/PuLP/main/installing_pulp_at_home.html
 
 ## install gurobipy
 register in http://www.gurobi.com/ and follow the instrucutions.
+
+> register on website -> download gurobi optimizer -> install license on local with command (You can see this command on gurobi website after getting license.)
 
 after install gurobipy, use in python:
 
