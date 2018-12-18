@@ -68,6 +68,8 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 26332.880847481712
 
 # ILP (install modules)
+To run ilp.py, user has to install PuLP and gurobipy module in local by following these instructions.
+
 ## install PuLP
 PuLP requires Python >= 2.6
 
