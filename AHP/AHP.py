@@ -1,15 +1,16 @@
 import numpy as np
 import pandas as pd
+import pickle
 import os
 
 #load CS454/data/bugzilla_eclipse_log(comments)_2016meancost.pkl
-parse_data = pd.read_pickle(os.path.join('../data', 'bugzilla_eclipse_log(comments)_2016meancost.pkl'))
+parse_data = pd.read_pickle(os.path.join('../data', 'bugzilla_firefox_log(comments)_2016meancost.pkl'))
 
 cost = np.zeros(len(parse_data.values))
 profit = np.zeros(len(parse_data.values))
 
 #limited th cost
-maximum_cost = 50700
+maximum_cost = 262945.49580958224
 
 #make a parsedata array by numpy
 index = 0
@@ -47,18 +48,24 @@ for i in range(len(parse_data.values)):
 AHP_result = AHP_result[AHP_result[:,3].argsort(kind='mergesort')[::-1]]
 print(AHP_result)
 
+#Make select result Tuple
+selected = [0]*len(parse_data.values)
+
 #result of profit with limit cost
 index = 0
 cost_sum = 0
 profit_sum = 0
 while(cost_sum+AHP_result[index,1] <= maximum_cost):
+	selected[int(AHP_result[index, 0])] = 1
 	cost_sum += AHP_result[index, 1]
 	profit_sum += AHP_result[index,2]
 	index += 1
 
 print(cost_sum, profit_sum)
 
-
+f = open('AHP_firefox_log(comments)_2016meancost.pkl', 'wb')
+pickle.dump(tuple(selected), f)
+f.close()
 
 
 
