@@ -2,7 +2,7 @@
 
 ## Dataset Description
 
-# bugzilla_eclipse_log(comments)_2016meancost.pkl
+### bugzilla_eclipse_log(comments)_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -13,7 +13,7 @@ Real Cost sum : 50699.701903571
 Real Profit sum : 3489.635924693581
 
 
-# bugzilla_eclipse_comments_2016meancost.pkl
+### bugzilla_eclipse_comments_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -24,7 +24,7 @@ Real Cost sum : 50699.701903571
 Real Profit sum : 11586
 
 
-# bugzilla_firefox_log(comments)_2016meancost.pkl
+### bugzilla_firefox_log(comments)_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -35,7 +35,7 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 13025.880847481712
 
 
-# bugzilla_firefox_comments_2016meancost.pkl
+### bugzilla_firefox_comments_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -46,7 +46,7 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 62927
 
 
-# bugzilla_firefox_priority_2016meancost.pkl
+### bugzilla_firefox_priority_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -57,7 +57,7 @@ Real Cost sum : 262945.49580958224
 Real Profit sum : 12210
 
 
-# bugzilla_firefox_comments+priority_2016meancost.pkl
+### bugzilla_firefox_comments+priority_2016meancost.pkl
 
 Definition of Cost: Time cost for resolved bug for each component
 
@@ -67,17 +67,23 @@ Real Cost sum : 262945.49580958224
 
 Real Profit sum : 26332.880847481712
 
-# ILP (install modules)
+# How to test Algorithms
+## AHP, SA, GA and NSGA-II (python >= 3.5)
+To test these algorithms, you have to set the virtual environment to CS454venv or install numpy and pandas in your environment.
+
+The brief implementation of them are described in Test.py file. Please check this.
+
+## ILP (install modules)
 To run ilp.py, user has to install PuLP and gurobipy module in local by following these instructions.
 
-## install PuLP
+### install PuLP
 PuLP requires Python >= 2.6
 
-### In windows
+#### In windows
 in cmd, use
 
 > pip install pulp
-### in Linux
+#### in Linux
 > $ sudo pip install pulp
 
 > $ sudo pulptest
@@ -88,7 +94,7 @@ after install PuLP, use in python:
 
 reference : https://pythonhosted.org/PuLP/main/installing_pulp_at_home.html
 
-## install gurobipy
+### install gurobipy
 register in http://www.gurobi.com/ and follow the instrucutions.
 
 > register on website -> download gurobi optimizer -> install license on local with command (You can see this command on gurobi website after getting license.)
