@@ -1,0 +1,37 @@
+"Bug ID","Product","Component","Assignee","Status","Resolution","Summary","Changed","Depends on","Number of Comments","Opened","Priority","OS","Hardware","Votes"
+540491,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","org.eclipse.birt.report.engine.api.EngineException: Failed to save design.","2018-10-26 06:19:40",,2,"2018-10-26 02:13:54","P3","Windows 7","PC",0
+379405,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Cash Ubuntu Linux 12.04 not respond","2018-10-22 06:30:55",,2,"2012-05-14 08:09:28","P3","Linux","PC",0
+537636,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Unable to Execute Selenium Automation scripts due to Blocking issues as ""Code Launcher can not download it's model  repository index .still can't connect and File a bug with Eclipse Code Recommenders"" in the Eclipse.","2018-08-02 22:50:49",,2,"2018-08-02 22:27:47","P3","Windows 10","PC",0
+534260,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","HTML enitity Solidus not recognized","2018-05-02 09:11:41",,2,"2018-05-02 09:04:21","P3","Windows 8","PC",0
+527970,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","deleted files after runtime error","2017-11-30 12:52:48",,1,"2017-11-30 12:52:48","P3","Mac OS X","PC",0
+527968,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","deleted files after runtime error","2017-11-30 12:49:47",,1,"2017-11-30 12:49:47","P3","Mac OS X","PC",0
+487239,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","tesst","2016-02-04 09:49:34",,1,"2016-02-04 09:49:34","P3","Windows 8","PC",0
+480023,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","sending message and waiting for response","2015-10-17 08:32:31",,1,"2015-10-17 08:32:31","P3","Linux","PC",0
+479836,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","send messege and respond another messege","2015-10-15 05:01:19",,1,"2015-10-15 05:01:19","P3","Windows 8","PC",0
+479834,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","it's about to send and responde the answer","2015-10-15 04:49:46",,1,"2015-10-15 04:49:46","P3","Windows 8","PC",0
+478387,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Change cast of js","2015-09-25 04:38:25",,1,"2015-09-25 04:38:25","P3","Windows 7","PC",0
+470853,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","[Import] Bug on import","2015-06-23 21:35:47",,1,"2015-06-23 21:35:47","P3","Windows 8","PC",0
+463123,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","sss","2015-03-25 13:10:29",,1,"2015-03-25 13:10:29","P3","Windows 8","PC",0
+460366,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Eclipse RCP  Version: 4.3.2.v20140221-1700 Build id: M20140221-1700","2015-02-19 12:49:24",,1,"2015-02-19 12:49:24","P3","Windows All","PC",0
+459350,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","idk","2015-02-06 17:28:29",,1,"2015-02-06 17:28:29","P3","Mac OS X","Macintosh",0
+457557,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","dsa","2015-01-15 06:33:34",,1,"2015-01-15 06:33:34","P3","Windows 7","PC",0
+454333,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","There´s an error on the "";"" sintax","2014-12-06 16:09:20",,1,"2014-12-06 16:09:20","P3","Windows 7","PC",0
+448067,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Eclipse","2014-10-21 08:08:13",,1,"2014-10-21 08:08:13","P3","Windows 8","PC",0
+448066,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Eclipse","2014-10-21 08:07:13",,1,"2014-10-21 08:07:13","P3","Windows 8","PC",0
+436414,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","When I open Eclipse, it starts opening (I see the loading screen) and then suddenly just stops loading.","2014-06-02 18:26:59",,1,"2014-06-02 18:26:59","P3","Mac OS X","Macintosh",0
+395067,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Vulnerability in Eclipse","2013-02-28 07:34:02",,2,"2012-11-26 09:17:29","P3","Windows 7","PC",0
+399110,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Connection Method","2013-01-25 11:52:21",,1,"2013-01-25 11:52:21","P3","All","All",0
+393492,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Layout Bug for Android Application Development. R's are underlined in red.","2012-11-03 12:33:59",,1,"2012-11-03 12:33:59","P3","Mac OS X","PC",0
+385169,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","JavaScript proposals don't work in an Android project","2012-07-16 08:34:31",,1,"2012-07-16 08:34:31","P3","Windows 7","PC",0
+370519,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","[Scrapbook] Scrapbook eclipse indigo code assist problems","2012-02-03 01:09:35",,1,"2012-02-03 01:09:35","P3","Windows Vista","PC",0
+364438,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","chart with a single parameter and two parameter","2011-11-22 01:28:44",,1,"2011-11-22 01:28:44","P3","Windows 7","Other",0
+337759,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","[CommonNavigator] [ProjectExplorer] Rename.. and Move... actions not enabled in drop down menu","2011-04-07 14:08:28",,1,"2011-02-21 14:48:58","P3","Mac OS X","Macintosh",0
+313360,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","FeaturesAndBundlesPublisher does not work with urls with %20 spaces","2010-05-18 10:07:52",,2,"2010-05-18 10:06:16","P3","Windows XP","PC",0
+292652,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","HTML output corrupt","2009-10-19 07:58:39",,2,"2009-10-19 06:12:48","P3","Windows XP","PC",0
+262399,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","${project_loc} not updating for External Tools","2009-05-05 12:46:57",,2,"2009-01-26 12:06:58","P3","Windows Vista","PC",0
+251643,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Default main class","2009-05-05 11:57:51",,2,"2008-10-21 20:29:04","P3","Windows XP","PC",0
+267435,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","PHP > Editor > Code Assist > Enable auto activation does not work","2009-03-06 15:02:52",,1,"2009-03-06 15:02:52","P3","Windows Vista","PC",0
+222311,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Misleading ""No application id has been found"" error message","2008-03-11 18:04:52",,2,"2008-03-11 16:55:43","P3","Windows XP","PC",0
+208159,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","It would be nice to get some detailed information about debugging and to specify what debug information is generated.","2007-10-30 19:56:58",,1,"2007-10-30 19:56:58","P3","Windows XP","PC",0
+82907,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Scripted events linked to project lifecycle.","2007-07-04 11:58:18",,8,"2005-01-15 10:30:29","P3","All","All",0
+78637,"Platform","Scripting","platform-scripting-inbox","NEW"," ---","Patches to allow scripting plug-ins to build in 3.1","2006-02-13 11:46:40",,5,"2004-11-15 12:50:24","P3","Windows XP","PC",1

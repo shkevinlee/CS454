@@ -1,0 +1,15 @@
+bugzilla_eclipse_log(comments)_2016meancost.pkl
+cost:50700
+Maximum Profit = 3825.4276773742213
+
+bugzilla_firefox_log(comments)_2016meancost.pkl
+cost:263000
+Maximum Profit = 13768.447217830702
+
+bugzilla_firefox_priority_2016meancost.pkl
+cost:263000
+Maximum Profit = 16336.0
+
+bugzilla_firefox_comments+priority_2016meancost.pkl
+cost:263000
+Maximum Profit = 28845.231242696493
