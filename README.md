@@ -1,4 +1,6 @@
-# CS454
+# CS454 The Next Release Problem in Real World
+
+Here's description of our dataset and the way how to test our algorithms.
 
 ## Dataset Description
 
