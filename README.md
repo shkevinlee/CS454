@@ -69,6 +69,8 @@ Real Profit sum : 26332.880847481712
 
 # ILP (install modules)
 ## install PuLP
+PuLP requires Python >= 2.6
+
 ### In windows
 in cmd, use
 
